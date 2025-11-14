@@ -2,6 +2,7 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+🌊港·澳·台,#genre#
 Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 无线生活,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
@@ -32,6 +33,7 @@ Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
 thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
 中天亚洲,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 中视经典,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
+📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
 CCTV3,http://iptv.666230.xyz/iptv/hnyx.php/CCTV3HD
@@ -50,6 +52,7 @@ CCTV14,http://iptv.666230.xyz/iptv/hnyx.php/CCTV14HD
 CCTV15,http://iptv.666230.xyz/iptv/hnyx.php/CCTV15
 CCTV16,http://iptv.666230.xyz/iptv/hnyx.php/CCTV16HD
 CCTV17,http://iptv.666230.xyz/iptv/hnyx.php/CCTV17HD
+📡卫视频道,#genre#
 北京卫视,http://iptv.666230.xyz/iptv/hnyx.php/bjwsHD
 北京卫视4K,http://iptv.666230.xyz/iptv/hnyx.php/bjws4K
 东方卫视,http://iptv.666230.xyz/iptv/hnyx.php/dfwsHD
@@ -91,6 +94,7 @@ CCTV17,http://iptv.666230.xyz/iptv/hnyx.php/CCTV17HD
 西藏卫视,http://iptv.666230.xyz/iptv/hnyx.php/xzws
 海南卫视,http://iptv.666230.xyz/iptv/hnyx.php/lyws
 书画频道,http://iptv.666230.xyz/iptv/hnyx.php/shpd
+☘️地区频道,#genre#
 CETV1,http://iptv.666230.xyz/iptv/hnyx.php/CETV1
 CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 法治天地,http://iptv.666230.xyz/iptv/hnyx.php/fztx
@@ -132,6 +136,7 @@ CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 湘西综合,http://iptv.666230.xyz/iptv/hnyx.php/xxxw
 张家界综合,http://iptv.666230.xyz/iptv/hnyx.php/zjjxw
 娄底综合,http://iptv.666230.xyz/iptv/hnyx.php/ldxw
+☘️国外频道,#genre#
 CGTN,http://iptv.666230.xyz/iptv/hnyx.php/CGTN
 CGTN阿拉伯语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_A
 CGTN西班牙语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_E
