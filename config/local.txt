@@ -39,6 +39,11 @@ thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/05.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/06.m3u8
+极限台,http://pull-skycorp.speedws.com:80/live/583b0c682cb6480100a81ca7f0ffb185.flv
+香蕉,http://pull-skycorp.speedws.com:80/live/f6f0d9eeddaae5a0a73ad902d11eb2de.flv
+彩虹k,http://pull-skycorp.speedws.com:80/live/789b0fe72ae2dcc17d20f8d277f40666.flv
+松3,http://pull-skycorp.speedws.com:80/live/c76bda5cbe1da0fce16a9b5113483c32.flv
+now系列,http://xtvantsc.xyz/now.m3u
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
@@ -148,3 +153,7 @@ CGTN阿拉伯语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_A
 CGTN西班牙语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_E
 CGTN法语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_F
 CGTN俄语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_R
+HTB Беларусь HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215726
+Pуccкiй МIРЪ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215464
+Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
+OHT HD BY,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215664
