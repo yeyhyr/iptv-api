@@ -33,6 +33,12 @@ Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
 thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
 中天亚洲,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 中视经典,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/01.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/03.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/04.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/05.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/06.m3u8
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
