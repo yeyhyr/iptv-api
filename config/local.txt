@@ -5,6 +5,7 @@
 🌊港·澳·台,#genre#
 Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+无线新闻,http://36.99.172.119/cloudquery.php
 无线生活,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
 无线娱乐,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
 无线星河,P2p://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
