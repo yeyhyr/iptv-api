@@ -333,7 +333,9 @@ CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/05.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/06.m3u8
 亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
-亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+亚洲旅游,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+
+
 Arirang,https://smt.go-iptv.ggff.net/smart.php?id=arirang_twn&token=Goiptv
 AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
@@ -360,6 +362,26 @@ Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
 Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
 Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
 Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+CI,https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
+Discovery HD,https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
+亚洲TLC,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
+NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
+Fashion TV,https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
+BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+
+
+
+
+
 
 CGTN,http://iptv.666230.xyz/iptv/hnyx.php/CGTN
 CGTN阿拉伯语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_A
@@ -385,24 +407,10 @@ GPT-记录,#genre#
 
 
 
-CI,https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
-Asia Travel,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
-Discovery HD,https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
-亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
-美食星球,https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
-亚洲TLC,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
-NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
-Fashion TV,https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
-History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
-BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
-BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
-MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
-NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
-Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
-TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
-Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
-HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
-亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+
+
+
+
 GPT-新闻,#genre#
 Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
 ABC News,https://smt.go-iptv.ggff.net/smart.php?id=abcnews_glo&token=Goiptv
