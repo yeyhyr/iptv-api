@@ -4,7 +4,10 @@
 # Support setting whitelist: add $! after the interface
 🌊港·澳·台,#genre#
 无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
+无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
+无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
+Now新闻,https://cdn.163189.xyz/163189/now
 有线新闻,http://rihou.cc:555/tv/STl有线新闻
 有线新闻,http://rihou.cc:555/tv/Mtl有线新闻
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
@@ -17,10 +20,11 @@ Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
 无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
-J2,http://php.jdshipin.com/PLTV/iptv.php?id=j2
-J2,http://rihou.cc:555/tv/PdlPlus综合
-J2,http://rihou.cc:555/tv/MtlPlus综合
+TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+TVB Plus,http://rihou.cc:555/tv/PdlPlus综合
+TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
+TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -35,16 +39,25 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
 pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 Now星影,http://rihou.cc:555/tv/MtlNow星影
+Now星影,http://rihou.cc:555/tv/BxlNow星影
+Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
 Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
 Now星影粤赏,http://rihou.cc:555/tv/BxlNow星影
 Now爆谷粤赏,http://rihou.cc:555/tv/BxlNow爆谷
+Now财经,http://rihou.cc:555/tv/MtlNow财经
+Now直播,http://rihou.cc:555/tv/MtlNow直播
 天映频道,http://rihou.cc:555/tv/STl天映频道l
 天映频道国语,http://rihou.cc:555/tv/STl天映频道
 天映经典,http://rihou.cc:555/tv/STl天映经典
-VIUTV粤,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+VIUTV,http://rihou.cc:555/tv/MtlVIUTV粤
+VIUTV英,http://rihou.cc:555/tv/MtlVIUTV英
+VIUTV1台,http://rihou.cc:555/tv/MtlVIUTV壹
+VIUTV2台,http://rihou.cc:555/tv/MtlVIUTV贰
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 有线综合,http://rihou.cc:555/tv/Mtl有线综合
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK31,http://rihou.cc:555/tv/MtlRTHK-31
 RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 有线赛讯,http://rihou.cc:555/tv/Mtl有线赛讯
 AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
@@ -56,14 +69,24 @@ AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
 凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
 凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
+Now英超1台,http://rihou.cc:555/tv/XSlNow英超
+Now英超,http://rihou.cc:555/tv/XSlNow英超
+Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 
+Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
+Now体育,http://rihou.cc:555/tv/XSlNow体育
+Now体育,http://rihou.cc:555/tv/MtlNow体育
+纬来体育,http://rihou.cc:555/tv/STl纬来体育
 
 
 
 台湾
 中天新闻,http://rihou.cc:555/tv/STl中天新闻
+中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
 东森新闻,http://rihou.cc:555/tv/STl东森新闻
 年代新闻,http://rihou.cc:555/tv/STl年代新闻
@@ -79,50 +102,10 @@ tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
 龙祥电影,http://rihou.cc:555/tv/STl龙祥电影
 纬来电影,http://rihou.cc:555/tv/STl纬来电影
 好莱电影,http://rihou.cc:555/tv/STl好莱电影
-
-
-
-
-
-
-
-
-
-
-Now财经CS源,http://rihou.cc:555/tv/MtlNow财经
-Now直播CS源,http://rihou.cc:555/tv/MtlNow直播
-Now英超壹赏,http://rihou.cc:555/tv/XSlNow英超
-Now英超贰赏,http://rihou.cc:555/tv/XSINow英超
-Now体育壹赏,http://rihou.cc:555/tv/XSlNow体育
-Now体育CS源,http://rihou.cc:555/tv/MtlNow体育
-纬来体育CS源,http://rihou.cc:555/tv/STl纬来体育
-VIUTV'壹CS源,http://rihou.cc:555/tv/MtlVIUTV壹
-VIUTV'贰CS源,http://rihou.cc:555/tv/MtlVIUTV贰
-VIUTV'粤CS源,http://rihou.cc:555/tv/MtlVIUTV粤
-VIUTV'英CS源,http://rihou.cc:555/tv/MtlVIUTV英
-RTHK-31CS源,http://rihou.cc:555/tv/MtlRTHK-31
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
-翡翠台,http://rihou.cc:555/tv/Bxl无线翡翠
-明珠台,http://rihou.cc:555/tv/Bxl无线明珠
-无线赛马18台,http://rihou.cc:555/tv/Bxl无线赛马
-无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
-无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8.
-Now星影,http://rihou.cc:555/tv/BxlNow星影
-Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
-PopC电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
-Now英超,http://rihou.cc:555/tv/XSlNow英超
-Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
-Now Spors,http://rihou.cc:555/tv/XSINow英超
-中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8 
 MTV 00s,http://iptv.prosto.tv:7000/ch129/video.m3u8
-NOW新闻,https://cdn.163189.xyz/163189/now
-NOW英超1台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
-NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-NOW英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-NOW英超3台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
+
+
 NOW星影台,http://bxtv.3a.ink/api.php?id=xingying
 NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
 NOW星影台双音轨,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
