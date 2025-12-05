@@ -247,22 +247,42 @@ CCTV17 农业农村,https://smt.go-iptv.ggff.net/smart.php?id=cctv17&token=Goipt
 
 📡卫视频道,#genre#
 浙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTgvaW5kZXgubTN1OA==
+浙江卫视,https://smt.go-iptv.ggff.net/smart.php?id=zhejiang_twn&token=Goiptv
 江苏卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTkvaW5kZXgubTN1OA==
+江苏卫视,https://smt.go-iptv.ggff.net/smart.php?id=jiangsu_twn&token=Goiptv
+
+广东卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangdongweishi_twn&token=Goiptv
+大湾区卫视,https://smt.go-iptv.ggff.net/smart.php?id=nanfang_twn&token=Goiptv
+
+东南卫视,https://smt.go-iptv.ggff.net/smart.php?id=fujian&token=Goiptv
+广西卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangxi&token=Goiptv
+湖北卫视,https://smt.go-iptv.ggff.net/smart.php?id=hubei&token=Goiptv
+
+
+
+
+
 东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzgvaW5kZXgubTN1OA==
+东方卫视,https://smt.go-iptv.ggff.net/smart.php?id=dongfangweishi_twn&token=Goiptv
 湖南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTcvaW5kZXgubTN1OA==
 云南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzUvaW5kZXgubTN1OA==
 安徽卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjAvaW5kZXgubTN1OA==
 北京卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjkvaW5kZXgubTN1OA==
+北京卫视,https://smt.go-iptv.ggff.net/smart.php?id=beijing&token=Goiptv
+深圳卫视,https://smt.go-iptv.ggff.net/smart.php?id=shenzhen&token=Goiptv
 贵州卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTYvaW5kZXgubTN1OA==
 山东卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDMvaW5kZXgubTN1OA==
 河南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjcvaW5kZXgubTN1OA==
 河北卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDEvaW5kZXgubTN1OA==
 四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDYvaW5kZXgubTN1OA==
 四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDcvaW5kZXgubTN1OA==
+四川卫视,https://smt.go-iptv.ggff.net/smart.php?id=sichuan_twn&token=Goiptv
 江西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDQvaW5kZXgubTN1OA==
 海南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDIvaW5kZXgubTN1OA==
 黑龙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
+
 ☘️地区频道,#genre#
+珠江台,https://smt.go-iptv.ggff.net/smart.php?id=zhujiang&token=Goiptv
 CETV1,http://iptv.666230.xyz/iptv/hnyx.php/CETV1
 CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 法治天地,http://iptv.666230.xyz/iptv/hnyx.php/fztx
@@ -304,6 +324,7 @@ CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 湘西综合,http://iptv.666230.xyz/iptv/hnyx.php/xxxw
 张家界综合,http://iptv.666230.xyz/iptv/hnyx.php/zjjxw
 娄底综合,http://iptv.666230.xyz/iptv/hnyx.php/ldxw
+
 ☘️国外频道,#genre#
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -316,8 +337,29 @@ CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 Arirang,https://smt.go-iptv.ggff.net/smart.php?id=arirang_twn&token=Goiptv
 AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
 HBO_HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+
 CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
+Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 
 CGTN,http://iptv.666230.xyz/iptv/hnyx.php/CGTN
 CGTN阿拉伯语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_A
@@ -330,63 +372,19 @@ CGTN俄语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_R
 测试
 
 
-湖南卫视,https://smt.go-iptv.ggff.net/smart.php?id=hunan_twn&token=Goiptv
-浙江卫视,https://smt.go-iptv.ggff.net/smart.php?id=zhejiang_twn&token=Goiptv
-江苏卫视,https://smt.go-iptv.ggff.net/smart.php?id=jiangsu_twn&token=Goiptv
-东方卫视,https://smt.go-iptv.ggff.net/smart.php?id=dongfangweishi_twn&token=Goiptv
-北京卫视,https://smt.go-iptv.ggff.net/smart.php?id=beijing&token=Goiptv
-深圳卫视,https://smt.go-iptv.ggff.net/smart.php?id=shenzhen&token=Goiptv
-广东卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangdongweishi_twn&token=Goiptv
-大湾区卫视,https://smt.go-iptv.ggff.net/smart.php?id=nanfang_twn&token=Goiptv
-珠江台,https://smt.go-iptv.ggff.net/smart.php?id=zhujiang&token=Goiptv
-东南卫视,https://smt.go-iptv.ggff.net/smart.php?id=fujian&token=Goiptv
-广西卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangxi&token=Goiptv
-湖北卫视,https://smt.go-iptv.ggff.net/smart.php?id=hubei&token=Goiptv
-四川卫视,https://smt.go-iptv.ggff.net/smart.php?id=sichuan_twn&token=Goiptv
-CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
-GPT-电影,#genre#
-CCTV-6,https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
-AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
-HBO_HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
-HBO_HITS,https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
-CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
-好萊塢電影台,https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
-东森电影,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
-东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
-龙华电影,https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
-龙华洋片,https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
-龙祥时代,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
-美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
-卫视电影台,https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
-天映频道,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
-天映频道,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
-天映经典,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
-Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
-Movies Now HD,https://smt.go-iptv.ggff.net/smart.php?id=moviesnow_raj&token=Goiptv
-Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
-Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
-Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
-HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
-HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
-HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
-HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
-Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
-Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
-SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
-Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
-Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
-One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
-tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
-Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
-Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
-Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
-Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+
+
+
+
+
+
+
+
+
 GPT-记录,#genre#
-Natgeo_HD,https://smt.go-iptv.ggff.net/smart.php?id=natgeohd_twn&token=Goiptv
-NatGeo_Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
-Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
-Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+
+
+
 CI,https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
 Asia Travel,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
 Discovery HD,https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
