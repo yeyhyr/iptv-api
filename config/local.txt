@@ -158,6 +158,21 @@ VIUTV'贰CS源,http://rihou.cc:555/tv/MtlVIUTV贰
 VIUTV'粤CS源,http://rihou.cc:555/tv/MtlVIUTV粤
 VIUTV'英CS源,http://rihou.cc:555/tv/MtlVIUTV英
 RTHK-31CS源,http://rihou.cc:555/tv/MtlRTHK-31
+凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
+TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
+翡翠台,http://rihou.cc:555/tv/Bxl无线翡翠
+明珠台,http://rihou.cc:555/tv/Bxl无线明珠
+无线赛马18台,http://rihou.cc:555/tv/Bxl无线赛马
+无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
+无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8.
+Now星影,http://rihou.cc:555/tv/BxlNow星影
+Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
+PopC电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
+Now英超,http://rihou.cc:555/tv/XSlNow英超
+Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
+Now Spors,http://rihou.cc:555/tv/XSINow英超
+中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
