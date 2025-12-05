@@ -6,6 +6,7 @@
 无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
 无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
 无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 有线新闻,http://rihou.cc:555/tv/STl有线新闻
@@ -13,18 +14,21 @@ Now新闻,https://cdn.163189.xyz/163189/now
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠,http://rihou.cc:555/tv/Mtl无线翡翠
 无线翡翠,http://rihou.cc:555/tv/Bxl无线翡翠
+无线翡翠,http://bxtv.3a.ink/api.php?id=fct
 无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
 无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
+无线明珠,http://bxtv.3a.ink/api.php?id=mz
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVB Plus,http://rihou.cc:555/tv/PdlPlus综合
 TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
 TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -34,20 +38,23 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
+无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
+美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
+pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 Now星影,http://rihou.cc:555/tv/MtlNow星影
 Now星影,http://rihou.cc:555/tv/BxlNow星影
 Now星影,http://bxtv.3a.ink/api.php?id=xingying
 Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+Now星影,http://bxtv.3a.ink/api.php?id=xingying
 Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 Now爆谷,http://bxtv.3a.ink/api.php?id=baogu
 Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
 Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
-Now星影粤赏,http://rihou.cc:555/tv/BxlNow星影
-Now爆谷粤赏,http://rihou.cc:555/tv/BxlNow爆谷
+NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
 Now财经,http://rihou.cc:555/tv/MtlNow财经
 Now直播,http://rihou.cc:555/tv/MtlNow直播
 天映频道,http://rihou.cc:555/tv/STl天映频道l
@@ -71,26 +78,39 @@ AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
 凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 Now英超1台,http://rihou.cc:555/tv/XSlNow英超
 Now英超,http://rihou.cc:555/tv/XSlNow英超
 Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-
 Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
 Now体育,http://rihou.cc:555/tv/XSlNow体育
 Now体育,http://rihou.cc:555/tv/MtlNow体育
 纬来体育,http://rihou.cc:555/tv/STl纬来体育
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 台湾
 中天新闻,http://rihou.cc:555/tv/STl中天新闻
 中天新闻,http://rihou.cc:555/tv/SZl中天新闻
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
 东森新闻,http://rihou.cc:555/tv/STl东森新闻
 年代新闻,http://rihou.cc:555/tv/STl年代新闻
@@ -108,20 +128,7 @@ tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
 好莱电影,http://rihou.cc:555/tv/STl好莱电影
 MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8 
 MTV 00s,http://iptv.prosto.tv:7000/ch129/video.m3u8
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-POPC,http://bxtv.3a.ink/api.php?id=popc
-NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
-NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
