@@ -40,6 +40,10 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 Now星影,http://rihou.cc:555/tv/MtlNow星影
 Now星影,http://rihou.cc:555/tv/BxlNow星影
+Now星影,http://bxtv.3a.ink/api.php?id=xingying
+Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+Now爆谷,http://bxtv.3a.ink/api.php?id=baogu
 Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
 Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
 Now星影粤赏,http://rihou.cc:555/tv/BxlNow星影
@@ -104,34 +108,6 @@ tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
 好莱电影,http://rihou.cc:555/tv/STl好莱电影
 MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8 
 MTV 00s,http://iptv.prosto.tv:7000/ch129/video.m3u8
-
-
-NOW星影台,http://bxtv.3a.ink/api.php?id=xingying
-NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
-NOW星影台双音轨,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
-NOW爆谷台双音轨,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-NOW英超1台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
-NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-NOW英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-NOW英超3台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
-天映經典CCM（馬來西亞🇲🇾波束）信號,https://stream1.freetv.fun/ccm--sm-1.ctv
-Plus综合,http://rihou.cc:8/Plus综合
-凤凰香港,http://rihou.cc:8/凤凰香港
-中天新闻,http://rihou.cc:8/中天新闻
-无线新闻,http://rihou.cc:8/无线新闻
-无线翡翠,http://rihou.cc:8/无线翡翠
-无线明珠,http://rihou.cc:8/无线明珠
-Now星影,http://rihou.cc:8/Now星影
-Now爆谷,http://rihou.cc:8/Now爆谷
-Now英超,http://rihou.cc:8/Now英超
-tvbs闽南,http://rihou.cc:8/tvbs闽南
-tvbs新话,http://rihou.cc:8/tvbs新话
-VIUTV粤,http://rihou.cc:8/VIUTV粤
-VIUTV英,http://rihou.cc:8/VIUTV英
-RTHK-31,http://rihou.cc:8/RTHK-31
-RTHK-32,http://rihou.cc:8/RTHK-32
-RTHK-33,http://rihou.cc:8/RTHK-33
-RTHK-34,http://rihou.cc:8/RTHK-34
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
@@ -146,10 +122,6 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
 NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-
-
-
-
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
