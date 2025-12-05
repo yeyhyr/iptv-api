@@ -173,6 +173,8 @@ Now英超,http://rihou.cc:555/tv/XSlNow英超
 Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
 Now Spors,http://rihou.cc:555/tv/XSINow英超
 中天新闻,http://rihou.cc:555/tv/SZl中天新闻
+MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8 
+MTV 00s,http://iptv.prosto.tv:7000/ch129/video.m3u8
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
@@ -290,3 +292,4 @@ Blue Hustler,http://5.57.74.130:8000/play/a02i/index.m3u8
 Desire TV,http://5.57.74.130:8000/play/a022/index.m3u8
 EroX,http://5.57.74.130:8000/play/a00k/index.m3u8
 EroXXX,http://5.57.74.130:8000/play/a00l/index.m3u8
+Россия культура HD（俄羅斯文化高清頻道）,http://149.18.45.187:8060/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
