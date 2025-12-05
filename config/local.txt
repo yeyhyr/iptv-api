@@ -286,3 +286,7 @@ HTB Беларусь HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKF
 Pуccкiй МIРЪ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215464
 Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
 OHT HD BY,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215664
+Blue Hustler,http://5.57.74.130:8000/play/a02i/index.m3u8
+Desire TV,http://5.57.74.130:8000/play/a022/index.m3u8
+EroX,http://5.57.74.130:8000/play/a00k/index.m3u8
+EroXXX,http://5.57.74.130:8000/play/a00l/index.m3u8
