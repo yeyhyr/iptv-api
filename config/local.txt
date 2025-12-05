@@ -2,7 +2,7 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-🌊港·澳·台,#genre#
+🌊港澳,#genre#
 无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
 无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
 无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
@@ -93,21 +93,7 @@ Now体育,http://rihou.cc:555/tv/XSlNow体育
 Now体育,http://rihou.cc:555/tv/MtlNow体育
 纬来体育,http://rihou.cc:555/tv/STl纬来体育
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-台湾
+🌊台湾,#genre#
 中天新闻,http://rihou.cc:555/tv/STl中天新闻
 中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
@@ -128,7 +114,6 @@ tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
 好莱电影,http://rihou.cc:555/tv/STl好莱电影
 MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8 
 MTV 00s,http://iptv.prosto.tv:7000/ch129/video.m3u8
-
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
