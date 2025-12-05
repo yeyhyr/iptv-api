@@ -184,6 +184,10 @@ NOW星影台,http://bxtv.3a.ink/api.php?id=xingying
 NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
 NOW星影台双音轨,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 NOW爆谷台双音轨,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+NOW英超1台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
+NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+NOW英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
+NOW英超3台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
 📺央视频道,#genre#
 CCTV1,http://iptv.666230.xyz/iptv/hnyx.php/CCTV1HD
 CCTV2,http://iptv.666230.xyz/iptv/hnyx.php/CCTV2HD
