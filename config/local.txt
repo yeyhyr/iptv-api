@@ -3,46 +3,6 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
-
-北京卫视,http://m.061899.xyz/mg/bjws
-东方卫视,http://m.061899.xyz/mg/dfws
-浙江卫视,http://m.061899.xyz/mg/zjws
-江苏卫视,http://m.061899.xyz/mg/jsws
-湖南卫视,http://m.061899.xyz/mg/hunws
-广东卫视,http://m.061899.xyz/mg/gdws
-深圳卫视,http://m.061899.xyz/mg/szws
-天津卫视,http://m.061899.xyz/mg/tjws
-安徽卫视,http://m.061899.xyz/mg/ahws
-山东卫视,http://m.061899.xyz/mg/sdws
-河北卫视,http://m.061899.xyz/mg/hbws
-河南卫视,http://m.061899.xyz/mg/hnws
-江西卫视,http://m.061899.xyz/mg/jxws
-四川卫视,http://m.061899.xyz/mg/scws
-重庆卫视,http://m.061899.xyz/mg/cqws
-贵州卫视,http://m.061899.xyz/mg/gzws
-湖北卫视,http://m.061899.xyz/mg/hubws
-广西卫视,http://m.061899.xyz/mg/gxws
-东南卫视,http://m.061899.xyz/mg/dnws
-海南卫视,http://m.061899.xyz/mg/hinws
-甘肃卫视,http://m.061899.xyz/mg/gsws
-青海卫视,http://m.061899.xyz/mg/qhws
-陕西卫视,http://m.061899.xyz/mg/sxws
-宁夏卫视,http://m.061899.xyz/mg/nxws
-新疆卫视,http://m.061899.xyz/mg/xjws
-西藏卫视,http://m.061899.xyz/mg/xzws
-兵团卫视,http://m.061899.xyz/mg/btws
-吉林卫视,http://m.061899.xyz/mg/jlws
-家庭影院,http://m.061899.xyz/mg/jtyy
-动作电影,http://m.061899.xyz/mg/dzdy
-影迷电影,http://m.061899.xyz/mg/ymdy
-内蒙古视,http://m.061899.xyz/mg/nmgws
-黑龙江视,http://m.061899.xyz/mg/hljws
-重温经典,http://m.061899.xyz/mg/cwjd
-劲爆体育,http://m.061899.xyz/mg/jbty
-咪咕体育,http://m.061899.xyz/mg/mgty
-
-
-
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 
