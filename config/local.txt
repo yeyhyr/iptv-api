@@ -2261,6 +2261,76 @@ tvN DRAMA,https://stream1.freetv.fun/99d7e77cd5afac3768f148acf5e73bed3609f73da71
 
 ☘️测试,#genre#
 
-
+[BD]广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-17.m3u8
+[HD]广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
+[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-8.m3u8
+[HD]广州电视台新闻,https://stream1.freetv.fun/yan-zhou-dian-shi-tai-xin-wen-1.m3u8
+[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-11.m3u8
+[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-9.m3u8
+[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-2.ctv
+[BD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-25.ctv
+[SD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-6.m3u8
+[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-5.m3u8
+[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-24.m3u8
+[HD]广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-22.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-4.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-28.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-10.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-17.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-27.ctv
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-1.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-5.ctv
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-24.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-19.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-2.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-20.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-8.m3u8
+[HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-14.m3u8
+[BD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-15.m3u8
+[BD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-13.ctv
+[BD]广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-17.m3u8
+[BD]广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-23.ctv
+[BD]广东少儿高清,https://stream1.freetv.fun/yan-dong-shao-er-gao-qing-1.m3u8
+[BD]广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-1.m3u8
+[BD]广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-11.m3u8
+[BD]广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-5.ctv
+[HD]广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.m3u8
+[BD]广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-11.ctv
+[BD]广东新闻高清,https://stream1.freetv.fun/yan-dong-xin-wen-gao-qing-1.m3u8
+[BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-17.ctv
+[BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-14.ctv
+[BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-22.m3u8
+[BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-5.m3u8
+[BD]广东民生高清,https://stream1.freetv.fun/yan-dong-min-sheng-gao-qing-1.m3u8
+[BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-31.m3u8
+[BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.m3u8
+[BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-17.m3u8
+[BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-29.m3u8
+[BD]广东珠江高清,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-3.m3u8
+[BD]广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-12.ctv
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-87.m3u8
+[HD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-100.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-73.ctv
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-33.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-80.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-83.ctv
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-10.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-28.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-75.m3u8
+[HD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-86.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-36.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-52.m3u8
+[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-29.ctv
+[BD]广东卫视高清,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-1.m3u8
+[BD]广东卫视 4m1080,https://stream1.freetv.fun/yan-dong-wei-shi--4m1080-2.m3u8
+[BD]广东卫视 8m1080,https://stream1.freetv.fun/yan-dong-wei-shi--8m1080-2.m3u8
+[BD]广东卫视 4m1080,https://stream1.freetv.fun/yan-dong-wei-shi--4m1080-1.m3u8
+[BD]广东卫视 8m1080,https://stream1.freetv.fun/yan-dong-wei-shi--8m1080-1.m3u8
+[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
+[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
+[BD]广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-1.m3u8
+[BD]广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8
+[HD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-35.m3u8
 
 
