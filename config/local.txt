@@ -853,55 +853,7 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 亚洲旅游,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
 
 
-Arirang,https://smt.go-iptv.ggff.net/smart.php?id=arirang_twn&token=Goiptv
-AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
-MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
-Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
-HBO_HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
-HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
-HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
-HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
-HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
-
-CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
-Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
-Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
-Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
-Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
-SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
-Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
-Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
-One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
-tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
-Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
-Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
-Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
-Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
-Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
-CI,https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
-Discovery HD,https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
-亚洲TLC,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
-NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
-Fashion TV,https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
-History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
-BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
-BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
-MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
-NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
-Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
-TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
-Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
-HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
-
-
-
 ☘️国外频道3,#genre#
-CGTN,http://iptv.666230.xyz/iptv/hnyx.php/CGTN
-CGTN阿拉伯语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_A
-CGTN西班牙语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_E
-CGTN法语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_F
-CGTN俄语,http://iptv.666230.xyz/iptv/hnyx.php/CGTN_R
 Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
 Россия культура HD（俄羅斯文化高清頻道）,http://149.18.45.187:8060/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
 
@@ -1730,15 +1682,7 @@ ROCK_ENTERTAINMENT,https://live.catvod.com/live.php?id=Rockentertain&token=b2b5a
 HBOHD,https://live.catvod.com/live.php?id=hbohd_twn&token=981e523d257ec353d9d611ecfefaf3afbba6f5a4cc78567031cca3c1af1e2b20%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 HBOHITS,https://live.catvod.com/live.php?id=hbohit_twn&token=765a75a324d06a2e2544b17bbdb5468a9c9ec6259d9a8322dbf024c9d4f96489%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 
-☘️测试,#genre#
-Information,#genre#
-Official page: https://utako.moe,http://nl.utako.moe:8000/radio
-We need donations to maintain the server!,http://nl.utako.moe:8000/radio
-Donate: https://paypal.me/Tieptran1970,http://nl.utako.moe:8000/radio
- Please refrain from re-sharing those URLs! Read our gitflic repo for details.,http://nl.utako.moe:8000/radio
-Status,#genre#
-Primehome is temporary down.,http://nl.utako.moe:8000/radio
-Tokyo,#genre#
+☘️VPN日本Tokyo,#genre#
 NHK G,https://nl.utako.moe/NHK_G/index.m3u8
 NHK E,https://nl.utako.moe/NHK_E/index.m3u8
 NTV,https://nl.utako.moe/Nippon_TV/index.m3u8
@@ -1764,7 +1708,8 @@ Fuji TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
 TV Asahi (NSFW) (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
 TV Tokyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
 TOKYO MX1 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
-Kansai,#genre#
+
+☘️VPN日本Kansai,#genre#
 MBS,https://nl.utako.moe/mbs/index.m3u8
 ABC,https://nl.utako.moe/abc/index.m3u8
 TV Osaka,https://nl.utako.moe/tvo/index.m3u8
@@ -1779,7 +1724,8 @@ Kansai TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03
 ytv (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
 TV Osaka (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05
 SUN (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07
-BS,#genre#
+
+☘️VPN日本BS,#genre#
 NHK BS,https://nl.utako.moe/NHK_BS/index.m3u8
 BS NTV,https://nl.utako.moe/bsntv/index.m3u8
 BS Asahi,https://nl.utako.moe/bsasahi/index.m3u8
@@ -1819,16 +1765,17 @@ Green Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14
 Animax (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15
 Nihon Eiga Senmon (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23
 Sky A (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
- Fishing Vision (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25
- Disney Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24
- JCOM BS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
-CS,#genre#
+Fishing Vision (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25
+Disney Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24
+JCOM BS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
+
+☘️VPN日本CS,#genre#
 Gaora Sports,https://nl.utako.moe/gaora/index.m3u8
 AT-X,https://nl.utako.moe/AT-X/index.m3u8
 Space Shower TV,https://nl.utako.moe/spaceshower/index.m3u8
 MTV,https://nl.utako.moe/mtv/index.m3u8
 Kayo Pops,https://nl.utako.moe/kayopops/index.m3u8
- Kids Staton,https://nl.utako.moe/kids_station/index.m3u8
+Kids Staton,https://nl.utako.moe/kids_station/index.m3u8
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
 https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg,https://nl.utako.moe/cartoon_network/index.m3u8
 Nittele G+,https://nl.utako.moe/ntvgplus/index.m3u8
@@ -1854,128 +1801,69 @@ Channel Ginga,https://nl.utako.moe/gingach/index.m3u8
 Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
 Pigoo (NSFW),https://nl.utako.moe/pigoo/index.m3u8
 V Paradise (NSFW),https://nl.utako.moe/v_paradise/index.m3u8
- Jidaigeki Senmon (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04
- Toei Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27
- Eisei Gekijo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22
- Family Gekijyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20
- Movie Plus (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14
- Home Drama Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05
- Tabi Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12
- Fuji TV Next (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26
- Sky A  (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
- GAORA SPORTS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17
- Golf Network (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03
- Nittele G+ (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs02
- Mondo TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21
- Channel Ginga (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
- Space Shower TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26
- Music Japan TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06
- Kayo Pops (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13
- MTV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18
- LaLa TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19
- Takarazuka Sky Stage (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
- Kids Staton TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07
- Cartoon Network (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25
- National Geographic Japan (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10
- Disney Junior (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
- Discovery Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08
- Animal Planet (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24
- History (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09
- CNNj (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
- BBC News (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
- TBS News (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+Jidaigeki Senmon (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04
+Toei Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27
+Eisei Gekijo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22
+Family Gekijyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20
+Movie Plus (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14
+Home Drama Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05
+Tabi Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12
+Fuji TV Next (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26
+Sky A  (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
+GAORA SPORTS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17
+Golf Network (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03
+Nittele G+ (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs02
+Mondo TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21
+Channel Ginga (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
+Space Shower TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26
+Music Japan TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06
+Kayo Pops (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13
+MTV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18
+LaLa TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19
+Takarazuka Sky Stage (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
+Kids Staton TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07
+Cartoon Network (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25
+National Geographic Japan (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10
+Disney Junior (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
+Discovery Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08
+Animal Planet (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24
+History (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09
+CNNj (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
+BBC News (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
+TBS News (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
 
-綜合,#genre#
- 翡翠台,https://www.judy.xx.kg/websuper265.php?id=J
- 翡翠台 4K,https://www.judy.xx.kg/websuper265.php?id=JUHD
- TVB Plus,https://www.judy.xx.kg/websuper265.php?id=B
-戲劇電影,#genre#
- ROCK Extreme,https://www.judy.xx.kg/websuper265.php?id=RKEX
-新聞財經,#genre#
- 無綫新聞台,https://www.judy.xx.kg/websuper265.php?id=C
- 明珠台,https://www.judy.xx.kg/websuper265.php?id=P
-娛樂,#genre#
- SUPER獎門人,https://www.judy.xx.kg/websuper265.php?id=SVAR
- SUPER EYT,https://www.judy.xx.kg/websuper265.php?id=SEYT
-生活,#genre#
- SUPER識食,https://www.judy.xx.kg/websuper265.php?id=SFOO
- SUPER識嘆,https://www.judy.xx.kg/websuper265.php?id=STRA
-音樂綜藝,#genre#
- SUPER Music,https://www.judy.xx.kg/websuper265.php?id=SMUS
- SUPER金曲,https://www.judy.xx.kg/websuper265.php?id=SGOL
- SUPER煲劇,https://www.judy.xx.kg/websuper265.php?id=SSIT
- SUPER劇場,https://www.judy.xx.kg/websuper265.php?id=STVM
-生活探索,#genre#
- SUPER話當年,https://www.judy.xx.kg/websuper265.php?id=SDOC
-體育,#genre#
- SUPER Sports,https://www.judy.xx.kg/websuper265.php?id=SSPT
- 雲南瀾湄國際衛視,https://www.judy.xx.kg/websuper265.php?id=YNTV
- 安徽廣播電視台國際頻道,https://www.judy.xx.kg/websuper265.php?id=AHTV
- 北京電視台國際頻道,https://www.judy.xx.kg/websuper265.php?id=BJTV
- 廣西電視台國際頻道,https://www.judy.xx.kg/websuper265.php?id=GXTV
- 福建海峽衛視國際頻道,https://www.judy.xx.kg/websuper265.php?id=FJTV
- 湖南電視台國際頻道,https://www.judy.xx.kg/websuper265.php?id=HNTV
- 江蘇電視台國際頻道,https://www.judy.xx.kg/websuper265.php?id=JSTV
- 廣東廣播電視台大灣區衛視頻道,https://www.judy.xx.kg/websuper265.php?id=GBTV
- 浙江電視台國際頻道,https://www.judy.xx.kg/websuper265.php?id=ZJTV
- 深圳衛視國際頻道,https://www.judy.xx.kg/websuper265.php?id=SZTV
- myTV SUPER FREE,https://www.judy.xx.kg/websuper265.php?id=CWIN
- myTV SUPER 18台,https://www.judy.xx.kg/websuper265.php?id=C18
- 28 AI 智慧賽馬,https://www.judy.xx.kg/websuper265.php?id=C28
- 黃金翡翠台,https://www.judy.xx.kg/websuper265.php?id=TVG
- 千禧經典台,https://www.judy.xx.kg/websuper265.php?id=CTVC
- 華語劇台,https://www.judy.xx.kg/websuper265.php?id=CDR3
- 粵語片台,https://www.judy.xx.kg/websuper265.php?id=CCLM
- 亞洲劇台,https://www.judy.xx.kg/websuper265.php?id=CTVS
- 黃金華劇台,https://www.judy.xx.kg/websuper265.php?id=TVO
- 娛樂新聞台,https://www.judy.xx.kg/websuper265.php?id=CTVE
- 戲曲台,https://www.judy.xx.kg/websuper265.php?id=CCOC
-少兒,#genre#
- SUPER Kids Channel,https://www.judy.xx.kg/websuper265.php?id=KID
- ZooMoo,https://www.judy.xx.kg/websuper265.php?id=ZOO
- Nickelodeon,https://www.judy.xx.kg/websuper265.php?id=CNIKO
- Nick Jr.,https://www.judy.xx.kg/websuper265.php?id=CNIJR
- 美亞電影台,https://www.judy.xx.kg/websuper265.php?id=CMAM
- Thrill,https://www.judy.xx.kg/websuper265.php?id=CTHR
- 天映經典頻道,https://www.judy.xx.kg/websuper265.php?id=CCCM
- 中國電影頻道,https://www.judy.xx.kg/websuper265.php?id=CMC
- ROCK Action,https://www.judy.xx.kg/websuper265.php?id=CRTX
- KIX,https://www.judy.xx.kg/websuper265.php?id=CKIX
-探索自然,#genre#
- Love Nature HD,https://www.judy.xx.kg/websuper265.php?id=LNH
- Love Nature 4K,https://www.judy.xx.kg/websuper265.php?id=LN4
- Global Trekker,https://www.judy.xx.kg/websuper265.php?id=SMS
- ROCK綜藝娛樂,https://www.judy.xx.kg/websuper265.php?id=CRTE
-其他,#genre#
- AXN,https://www.judy.xx.kg/websuper265.php?id=CAXN
- Animax,https://www.judy.xx.kg/websuper265.php?id=CANI
- tvN,https://www.judy.xx.kg/websuper265.php?id=CJTV
- 無線衛星亞洲台,https://www.judy.xx.kg/websuper265.php?id=CTS1
- 創世電視,https://www.judy.xx.kg/websuper265.php?id=CRE
-時尚,#genre#
- FashionBox,https://www.judy.xx.kg/websuper265.php?id=FBX
- Mezzo Live HD,https://www.judy.xx.kg/websuper265.php?id=CMEZ
- 東方衛視國際頻道,https://www.judy.xx.kg/websuper265.php?id=DTV
- 鳳凰衛視中文台,https://www.judy.xx.kg/websuper265.php?id=PCC
- 鳳凰衛視資訊台,https://www.judy.xx.kg/websuper265.php?id=PIN
- 鳳凰衛視香港台,https://www.judy.xx.kg/websuper265.php?id=PHK
- PopC,https://www.judy.xx.kg/websuper265.php?id=POPC
- 中央電視台綜合頻道 (港澳版),https://www.judy.xx.kg/websuper265.php?id=CC1
- CGTN (中國環球電視網)記錄頻道,https://www.judy.xx.kg/websuper265.php?id=CGD
- CGTN (中國環球電視網)英語頻道,https://www.judy.xx.kg/websuper265.php?id=CGE
- 神州新聞台,https://www.judy.xx.kg/websuper265.php?id=CMN1
- 無線衛星新聞台,https://www.judy.xx.kg/websuper265.php?id=CTSN
- 亞洲新聞台,https://www.judy.xx.kg/websuper265.php?id=CCNA
- 半島電視台英語頻道,https://www.judy.xx.kg/websuper265.php?id=CJAZ
- France 24,https://www.judy.xx.kg/websuper265.php?id=CF24
- DW,https://www.judy.xx.kg/websuper265.php?id=CDW1
- NHK World-Japan,https://www.judy.xx.kg/websuper265.php?id=CNHK
- Arirang TV,https://www.judy.xx.kg/websuper265.php?id=CARI
- myTV SUPER直播足球3台,https://www.judy.xx.kg/websuper265.php?id=EVT3
- myTV SUPER直播足球4台,https://www.judy.xx.kg/websuper265.php?id=EVT4
- myTV SUPER直播足球5台,https://www.judy.xx.kg/websuper265.php?id=EVT5
- myTV SUPER直播足球6台,https://www.judy.xx.kg/websuper265.php?id=EVT6
- 互動窗 1,https://www.judy.xx.kg/websuper265.php?id=C3
- 互動窗 2,https://www.judy.xx.kg/websuper265.php?id=C2
-
+☘️测试,#genre#
+ofiii直播,#genre#
+台視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+台視新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
+中視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+中視新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+華視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+華視新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+三立新聞iNEWS,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+中天新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+寰宇新聞台灣台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+寰宇新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+寰宇財經台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+倪珍播新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
+倪珍英語新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=false
+倪珍越南語新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
+好消息,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
+好消息2台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
+第1商業台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+國會頻道1台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
+國會頻道2台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
+ELTV生活英語台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+Smart知識台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+亞洲旅遊台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+台灣戲劇台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
+龍華卡通台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
+龍華戲劇台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+龍華偶像台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+龍華日韓台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
+龍華經典台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
+龍華電影台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
+龍華洋片台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
+東森購物1台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
+東森購物2台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
 
