@@ -2260,17 +2260,16 @@ tvN DRAMA,https://stream1.freetv.fun/99d7e77cd5afac3768f148acf5e73bed3609f73da71
 韓國電影,https://stream1.freetv.fun/77de0333259506b335005f5e5da201ad19cf30c28043ba5034df81f3113a12f7.m3u8
 
 ☘️测试,#genre#
-
-[BD]广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-17.m3u8
-[HD]广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
-[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-8.m3u8
-[HD]广州电视台新闻,https://stream1.freetv.fun/yan-zhou-dian-shi-tai-xin-wen-1.m3u8
-[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-11.m3u8
-[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-9.m3u8
-[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-2.ctv
-[BD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-25.ctv
-[SD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-6.m3u8
-[HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-5.m3u8
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-17.m3u8
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-8.m3u8
+广州电视台新闻,https://stream1.freetv.fun/yan-zhou-dian-shi-tai-xin-wen-1.m3u8
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-11.m3u8
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-9.m3u8
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-2.ctv
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-25.ctv
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-6.m3u8
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-5.m3u8
 [HD]广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-24.m3u8
 [HD]广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-22.m3u8
 [HD]广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-4.m3u8
