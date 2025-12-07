@@ -697,12 +697,16 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 ☘️其他频道,#genre#
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 CHC家庭影院,https://migu.188766.xyz/?migutoken=177fffc72c9ccf11d52c043544c5baac&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD
 
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
 CHC动作电影,https://migu.188766.xyz/?migutoken=dfe054e0231229a4f7e56f8433767e05&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C
 
 CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 CHC影迷电影,https://migu.188766.xyz/?migutoken=52c85e7cfa6e76c40bc2dfb1fc47a936&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7
+
 
 
 
@@ -1443,13 +1447,6 @@ CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 深圳卫视,https://migu.188766.xyz/?migutoken=3d0e9b59861911af4f9ac4130df9ab68&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 苏州卫视,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-
-
-影视,#genre#
-CHC影迷,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7
-CHC动作,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C
-CHC家庭,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD
-
 
 
 
