@@ -1,1 +1,19 @@
+# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
+# 支持设置白名单：接口后添加$!
+# The local source list, one line per source, format: channel name, interface address
+# Support setting whitelist: add $! after the interface
+🌊港澳,#genre#
+
+
+📺VPN直播频道,#genre#
+Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
+Россия культура HD（俄羅斯文化高清頻道）,http://149.18.45.187:8060/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
+
+
+
+☘️VPN日本Tokyo,#genre#
+
+
+☘️测试,#genre#
+
 
