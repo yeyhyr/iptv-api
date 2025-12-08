@@ -944,8 +944,6 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 
-
-
 ☘️国外频道,#genre#
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -953,16 +951,6 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/05.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/06.m3u8
-亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
-亚洲旅游,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
-
-
-☘️国外频道3,#genre#
-Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
-Россия культура HD（俄羅斯文化高清頻道）,http://149.18.45.187:8060/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
-
-
-☘️国外频道2,#genre#
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -1262,6 +1250,8 @@ Astro LOL,https://smt.go-iptv.ggff.net/smart.php?id=Astro_lol&token=Goiptv
 Astro Rusi,https://smt.go-iptv.ggff.net/smart.php?id=Rusi&token=Goiptv
 WION,https://smt.go-iptv.ggff.net/smart.php?id=Wion&token=Goiptv
 RTM Asean,https://smt.go-iptv.ggff.net/smart.php?id=Rtmasean&token=Goiptv
+Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
+Россия культура HD（俄羅斯文化高清頻道）,http://149.18.45.187:8060/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
 
 ☘️GPT-印尼,#genre#
 TVRI National,https://smt.go-iptv.ggff.net/smart.php?id=TVRI&token=Goiptv
