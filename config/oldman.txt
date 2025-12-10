@@ -7,302 +7,92 @@
 无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 
-
-Now新闻台,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
-Now新闻,http://rihou.cc:555/tv/MtlNow新闻
+Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,https://cdn.163189.xyz/163189/now
 
-无线翡翠,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
-无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-
-无线翡翠4K,https://hk.188766.xyz/?migutoken=11fa3e64ea0083791f9759b25259d0d5&id=hk_fct4k&type=dy
+翡翠台,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
+翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 
 无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
 
-无线明珠,https://hk.188766.xyz/?migutoken=e61d53f1ca3c68507269c19bbeab5b7f&id=hk_mzt&type=dy
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
-无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
-无线明珠,http://bxtv.3a.ink/api.php?id=mz
+明珠台,https://hk.188766.xyz/?migutoken=e61d53f1ca3c68507269c19bbeab5b7f&id=hk_mzt&type=dy
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 
-无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+娱乐新闻台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
-TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
-TVB Plus,http://rihou.cc:555/tv/PdlPlus综合
-TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
-TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 
-TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBJ1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+
+TVBJade台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+
 
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+
 
 无线功夫,https://hk.188766.xyz/?migutoken=aad571c466167a4aedb75d5a125e8b49&id=hk_yzwx&type=dy
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
-无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
 
-无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 
-无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
-
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
-美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 
-pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 
-Now星影,http://rihou.cc:555/tv/MtlNow星影
-Now星影,http://rihou.cc:555/tv/BxlNow星影
-Now星影,http://bxtv.3a.ink/api.php?id=xingying
-Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
-Now星影,http://bxtv.3a.ink/api.php?id=xingying
-
-Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-Now爆谷,http://bxtv.3a.ink/api.php?id=baogu
-Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
-Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
-NOW爆谷,http://bxtv.3a.ink/api.php?id=baogu
-
-Now财经,http://rihou.cc:555/tv/MtlNow财经
-
-Now直播,http://rihou.cc:555/tv/MtlNow直播
-
-天映频道,http://rihou.cc:555/tv/STl天映频道l
-天映频道国语,http://rihou.cc:555/tv/STl天映频道
-天映经典,http://rihou.cc:555/tv/STl天映经典
-
 VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-VIUTV,http://rihou.cc:555/tv/MtlVIUTV粤
-VIUTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
-
-VIUTV英,http://rihou.cc:555/tv/MtlVIUTV英
-VIUTV英,https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
-
-VIUTV1台,http://rihou.cc:555/tv/MtlVIUTV壹
-VIUTV2台,http://rihou.cc:555/tv/MtlVIUTV贰
 
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-有线综合,http://rihou.cc:555/tv/Mtl有线综合
-
-RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK31,http://rihou.cc:555/tv/MtlRTHK-31
-RTHK31,https://smt.go-iptv.ggff.net/smart.php?id=rhk31_twn&token=Goiptv
-
-RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-RTHK32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
-
-有线赛讯,http://rihou.cc:555/tv/Mtl有线赛讯
+有线综合外语,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_hoy&type=dy
 
 AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
+
 澳视澳门,https://hk.188766.xyz/?migutoken=23d8878dc0cd2abe37c0b5799b73df22&id=hk_asam&type=dy
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 
 八度空间,https://hk.188766.xyz/?migutoken=f9961c16cbc5673a85d7e539137bb9b6&id=hk_8tv&type=dy
+
 CHU,https://hk.188766.xyz/?migutoken=e34adace4dcf21caad14aaf3ffb38279&id=hk_chu&type=dy
+
 CH5,https://hk.188766.xyz/?migutoken=df27cb6da5fdf966df39542de4cc4a62&id=hk_ch5&type=dy
+
 CH8,https://hk.188766.xyz/?migutoken=c2e1e1619ec8bc94dcd36cb3e8f57114&id=hk_ch8&type=dy
-
-HOY77,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_hoy&type=dy
-
-
-
 
 凤凰中文,https://hk.188766.xyz/?migutoken=3b6a923af130ebaadb4fa973e4fccea5&id=fhzw&pp=1
 凤凰中文,https://hk.188766.xyz/?migutoken=1070e2f6921bc476d91ab9e39fb33f3c&id=hk_fhzw&type=dy
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+
 
 凤凰资讯,https://hk.188766.xyz/?migutoken=93d4ca51dc593d049a840de93d844920&id=fhzx&pp=1
 凤凰资讯,https://hk.188766.xyz/?migutoken=fdbbedd10adb3a9d273bf5b0ff1b84ee&id=hk_fhzx&type=dy
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
 
 凤凰香港,https://hk.188766.xyz/?migutoken=2a232b63b1a7bd4a75e2f17ae930524b&id=fhhk&pp=1
 凤凰香港,https://hk.188766.xyz/?migutoken=613e800f369658ed2dbdfdc4b08b580e&id=hk_fhhk&type=dy
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 
-Now英超1台,http://rihou.cc:555/tv/XSlNow英超
-Now英超,http://rihou.cc:555/tv/XSlNow英超
-Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
-Now体育,http://rihou.cc:555/tv/XSlNow体育
-Now体育,http://rihou.cc:555/tv/MtlNow体育
-纬来体育,http://rihou.cc:555/tv/STl纬来体育
+中天新聞,http://bxtv.3a.ink/api.php?id=ztxw
+
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 
-🌊冰雪港澳,#genre#
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-POPC,http://bxtv.3a.ink/api.php?id=popc
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-
-
-
-
-🌊台湾,#genre#
-中天综合,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
-中天新闻,http://rihou.cc:555/tv/STl中天新闻
-中天新闻,http://rihou.cc:555/tv/SZl中天新闻
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-
-中天新闻,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
-中天娱乐,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
-中天亚洲,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
-寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
-寰宇新闻,https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
-寰宇财经,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
-东森新闻,http://rihou.cc:555/tv/STl东森新闻
-东森新闻,https://smt.go-iptv.ggff.net/smart.php?id=ettvnews&token=Goiptv
-东森财经,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
-东森综合,https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
-东森戏剧,https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
-东森电影,http://rihou.cc:555/tv/STl东森电影
-东森电影,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
-东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
-东森幼幼,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
-年代新闻,http://rihou.cc:555/tv/STl年代新闻
-年代新闻,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
-非凡新闻,http://rihou.cc:555/tv/STl非凡新闻
-非凡新闻,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
-民视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
-民视新闻,http://rihou.cc:555/tv/STl民视新闻
-民视新闻,https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
-民视台湾,https://smt.go-iptv.ggff.net/smart.php?id=ftvtaiwan_twn&token=Goiptv
-中视 HD,https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
-中视新闻,http://rihou.cc:555/tv/STl中视新闻
-中视新闻,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
-中视经典,https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
-台视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
-台视新闻,http://rihou.cc:555/tv/STl台视新闻
-台视新闻,https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
-台视综合,https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
-华视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ctshd_twn&token=Goiptv
-公视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
-公视台语,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
-三立台湾,https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
-三立综合,https://smt.go-iptv.ggff.net/smart.php?id=sanlizhonghe&token=Goiptv
-三立戏剧,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goipt
-
-闽镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
-
-tvbS HD,https://smt.go-iptv.ggff.net/smart.php?id=tvbs&token=Goiptv
-tvbS新闻,http://rihou.cc:555/tv/FYltvbS新闻
-tvbS新闻,http://rihou.cc:555/tv/STltvbS新闻
-tvbS新闻,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
-tvbS欢乐,https://smt.go-iptv.ggff.net/smart.php?id=tvbshuanle_twn&token=Goiptv
-tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
-
-八大第一,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
-八大综合,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
-八大戏剧,https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
-八大娱乐,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
-
-纬来体育,https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
-纬来日本,https://smt.go-iptv.ggff.net/smart.php?id=videolandjapan&token=Goiptv
-纬来电影,http://rihou.cc:555/tv/STl纬来电影
-纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
-纬来综合,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
-
-爱尔达体育1台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport_twn&token=Goiptv
-爱尔达体育2台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
-爱尔达体育3台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
-爱尔达体育4台,https://smt.go-iptv.ggff.net/smart.php?id=eltasports4_twn&token=Goiptv
-
-龙华戏剧,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
-龙华偶像,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
-
-靖天国际,https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
-靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
-大愛電視,https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
-大愛二台,https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
-EYE旅游,https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
-EYE戏剧,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
-
-好萊塢電影,http://rihou.cc:555/tv/STl好莱电影
-好萊塢電影,https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
-龙祥电影,http://rihou.cc:555/tv/STl龙祥电影
-龙祥时代,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
-華藝綜合,https://smt.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
-博斯运动一台,https://smt.go-iptv.ggff.net/smart.php?id=bosisport1_twn&token=Goiptv
-博斯运动二台,https://smt.go-iptv.ggff.net/smart.php?id=bosisport2_twn&token=Goiptv
-博斯高球一台,https://smt.go-iptv.ggff.net/smart.php?id=bosigolf1_twn&token=Goiptv
-博斯高球二台,https://smt.go-iptv.ggff.net/smart.php?id=bosigolf2_twn&token=Goiptv
-博斯网球台,https://smt.go-iptv.ggff.net/smart.php?id=bositennis_twn&token=Goiptv
-博斯无限台,https://smt.go-iptv.ggff.net/smart.php?id=bosiunlimited_twn&token=Goiptv
-好消息 2,https://smt.go-iptv.ggff.net/smart.php?id=good2_twn&token=Goiptv
 MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8 
-MTV 00s,http://iptv.prosto.tv:7000/ch129/video.m3u8s
 
-东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-非凡新闻,rtmp://f13h.mine.nu:1935/sat/tv581
-华视,rtmp://f13h.mine.nu:1935/sat/tv111
-民视,rtmp://f13h.mine.nu:1935/sat/tv051
-台视,rtmp://f13h.mine.nu:1935/sat/tv071
-纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
-中视,rtmp://f13h.mine.nu:1935/sat/tv091
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-momoTV,rtmp://f13h.mine.nu/sat/tv761
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
 
 
 
 
 
 📺央视频道,#genre#
-CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV1,http://m.061899.xyz/mg/cctv1
-CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV1,https://iptv.catvod.com/live.php?id=CCTV-1
 
-CCTV2,https://iptv.catvod.com/live.php?id=CCTV2
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV2,http://m.061899.xyz/mg/cctv2
-CCTV2,http://j.s.bkpcp.top/jj/cctv2
-CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV2,https://iptv.catvod.com/live.php?id=CCTV-2
+
 
 CCTV3,https://iptv.catvod.com/live.php?id=CCTV3
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -943,465 +733,6 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-
-☘️国外频道,#genre#
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/01.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/03.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/04.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/05.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/06.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-TBN Enlace,http://190.14.10.19:16000/play/a02x/index.m3u8
-Antena 3,http://190.14.10.19:16000/play/a038/index.m3u8
-AXN HD,http://190.14.10.19:16000/play/a07o/index.m3u8
-Azcorazon,http://190.14.10.19:16000/play/a02i/index.m3u8
-Azmundo,http://190.14.10.19:16000/play/a067/index.m3u8
-Baby TV,http://190.14.10.19:16000/play/a035/index.m3u8
-Canal11-GUA,http://190.14.10.19:16000/play/a04n/index.m3u8
-Canal13-GUA,http://190.14.10.19:16000/play/a04m/index.m3u8
-Canal 3 - GUA,http://190.14.10.19:16000/play/a08v/index.m3u8
-Canal7-GUA,http://190.14.10.19:16000/play/a05u/index.m3u8
-CARTOON NT HD,http://190.14.10.19:16000/play/a03y/index.m3u8
-Cartoonito,http://190.14.10.19:16000/play/a02c/index.m3u8
-Cine Latino,http://190.14.10.19:16000/play/a07b/index.m3u8
-CINECANAL HD,http://190.14.10.19:16000/play/a06o/index.m3u8
-CineMax,http://190.14.10.19:16000/play/a07c/index.m3u8
-CNNE,http://190.14.10.19:16000/play/a02u/index.m3u8
-Discovery Channel HD,http://190.14.10.19:16000/play/a07y/index.m3u8
-Discovery Home & Health,http://190.14.10.19:16000/play/a072/index.m3u8
-Discovery ID HD,http://190.14.10.19:16000/play/a082/index.m3u8
-Discovery Kids HD,http://190.14.10.19:16000/play/a03l/index.m3u8
-Discovery Science,http://190.14.10.19:16000/play/a03b/index.m3u8
-Discovery Turbo,http://190.14.10.19:16000/play/a071/index.m3u8
-Discovery World HD,http://190.14.10.19:16000/play/a07z/index.m3u8
-Disney,http://190.14.10.19:16000/play/a06z/index.m3u8
-Disney JR,http://190.14.10.19:16000/play/a02d/index.m3u8
-El Gourmet,http://190.14.10.19:16000/play/a05c/index.m3u8
-ESPN HD,http://190.14.10.19:16000/play/a07r/index.m3u8
-EURO Channel,http://190.14.10.19:16000/play/a05a/index.m3u8
-EWTN,http://190.14.10.19:16000/play/a02y/index.m3u8
-Exa TV,http://190.14.10.19:16000/play/a06j/index.m3u8
-FOX SPORTS 3 HD,http://190.14.10.19:16000/play/a07u/index.m3u8
-France24,http://190.14.10.19:16000/play/a02w/index.m3u8
-FUTV CR,http://190.14.10.19:16000/play/a06q/index.m3u8
-Golden,http://190.14.10.19:16000/play/a05l/index.m3u8
-Guatevision-GUA,http://190.14.10.19:16000/play/a021/index.m3u8
-H2,http://190.14.10.19:16000/play/a05b/index.m3u8
-HBO Family HD,http://190.14.10.19:16000/play/a043/index.m3u8
-HBO HD,http://190.14.10.19:16000/play/a040/index.m3u8
-HBO Plus HD,http://190.14.10.19:16000/play/a042/index.m3u8
-HBO XTREME HD,http://190.14.10.19:16000/play/a08k/index.m3u8
-HBO2 HD,http://190.14.10.19:16000/play/a041/index.m3u8
-History HD,http://190.14.10.19:16000/play/a02z/index.m3u8
-Hola!TV,http://190.14.10.19:16000/play/a03c/index.m3u8
-Home Garden Latino,http://190.14.10.19:16000/play/a03a/index.m3u8
-HTV,http://190.14.10.19:16000/play/a05k/index.m3u8
-ID,http://190.14.10.19:16000/play/a073/index.m3u8
-La voz de Maria,http://190.14.10.19:16000/play/a074/index.m3u8
-Latin America Sport,http://190.14.10.19:16000/play/a05h/index.m3u8
-LIFE TIME,http://190.14.10.19:16000/play/a02n/index.m3u8
-Mas Chic,http://190.14.10.19:16000/play/a037/index.m3u8
-MTV 00s,http://190.14.10.19:16000/play/a05j/index.m3u8
-MTV HD,http://190.14.10.19:16000/play/a031/index.m3u8
-MTV Hits,http://190.14.10.19:16000/play/a02p/index.m3u8
-Multimedios,http://190.14.10.19:16000/play/a03p/index.m3u8
-Multipremier,http://190.14.10.19:16000/play/a07a/index.m3u8
-Nat Geo HD,http://190.14.10.19:16000/play/a07v/index.m3u8
-Nick Jr,http://190.14.10.19:16000/play/a02b/index.m3u8
-Nickelodeon,http://190.14.10.19:16000/play/a06y/index.m3u8
-Paramount HD,http://190.14.10.19:16000/play/a07w/index.m3u8
-Playboy,http://190.14.10.19:16000/play/a045/index.m3u8
-Pasiones HD,http://190.14.10.19:16000/play/a080/index.m3u8
-RCN Novelas,http://190.14.10.19:16000/play/a059/index.m3u8
-Sembrador,http://190.14.10.19:16000/play/a05q/index.m3u8
-SEMILLITAS,http://190.14.10.19:16000/play/a02f/index.m3u8
-SONY HD,http://190.14.10.19:16000/play/a06n/index.m3u8
-SPACE HD,http://190.14.10.19:16000/play/a07p/index.m3u8
-STAR CHANNEL,http://190.14.10.19:16000/play/a070/index.m3u8
-Sun Channel,http://190.14.10.19:16000/play/a05d/index.m3u8
-TBS,http://190.14.10.19:16000/play/a02l/index.m3u8
-TCM,http://190.14.10.19:16000/play/a05m/index.m3u8
-Tele Antillas - RD,http://190.14.10.19:16000/play/a023/index.m3u8
-Telecentro - RD,http://190.14.10.19:16000/play/a04y/index.m3u8
-Telesistema RD,http://190.14.10.19:16000/play/a025/index.m3u8
-Teleuniverso - RD,http://190.14.10.19:16000/play/a04v/index.m3u8
-TLC,http://190.14.10.19:16000/play/a06g/index.m3u8
-TNT,http://190.14.10.19:16000/play/a02s/index.m3u8
-TNT Series HD,http://190.14.10.19:16000/play/a07x/index.m3u8
-Tooncast,http://190.14.10.19:16000/play/a066/index.m3u8
-TVChile,http://190.14.10.19:16000/play/a039/index.m3u8
-Universal,http://190.14.10.19:16000/play/a078/index.m3u8
-VENUS,http://190.14.10.19:16000/play/a05r/index.m3u8
-WARNER HD,http://190.14.10.19:16000/play/a06m/index.m3u8
-ZooMoo,http://190.14.10.19:16000/play/a036/index.m3u8
-Golden Premiere 2 HD,http://190.14.10.19:16000/play/a08q/index.m3u8
-AMC HD,http://190.14.10.19:16000/play/a098/index.m3u8
-ESPN 2 HD,http://190.14.10.19:16000/play/a093/index.m3u8
-ESPN 3 HD,http://190.14.10.19:16000/play/a094/index.m3u8
-ESPN HD,http://190.14.10.19:16000/play/a092/index.m3u8
-FX HD,http://190.14.10.19:16000/play/a099/index.m3u8
-Telemundo,http://190.14.10.19:16000/play/a09a/index.m3u8
-TNT Novelas,http://190.14.10.19:16000/play/a09b/index.m3u8
-TNT Series HD,http://190.14.10.19:16000/play/a097/index.m3u8
-Univision HD,http://190.14.10.19:16000/play/a09c/index.m3u8
-Animal Planet HD,http://190.14.10.19:16000/play/a09d/index.m3u8
-ESPN 5  HD,http://190.14.10.19:16000/play/a09e/index.m3u8
-A&E HD,http://190.14.10.19:16000/play/a09k/index.m3u8
-Sembrador,http://190.14.10.19:16000/play/a09n/index.m3u8
-LAS ESTRELLAS,http://190.14.10.19:16000/play/a09q/index.m3u8
-TL NOVELAS,http://190.14.10.19:16000/play/a09r/index.m3u8
-ESPN  4 HD,http://190.14.10.19:16000/play/a09t/index.m3u8
-ESPN 6,http://190.14.10.19:16000/play/a09s/index.m3u8
-SKY LA LIGA,http://190.14.10.19:16000/play/a09u/index.m3u8
-TUDN,http://190.14.10.19:16000/play/a09v/index.m3u8
-DISTRITO COMEDIA,http://190.14.10.19:16000/play/a09x/index.m3u8
-TL FOX PREMIUM,http://190.14.10.19:16000/play/a09z/index.m3u8
-TELE HIT,http://190.14.10.19:16000/play/a0a0/index.m3u8
-Canal Azteca - GUA,http://190.14.10.19:16000/play/a05t/index.m3u8
-TIGO SPORT,http://190.14.10.19:16000/play/a00ps/index.m3u8
-TN 23,http://190.14.10.19:16000/play/a09y/index.m3u8
-
-
-
-☘️GPT-新闻,#genre#
-Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
-ABC News,https://smt.go-iptv.ggff.net/smart.php?id=abcnews_glo&token=Goiptv
-东森财经新闻,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
-CBS HD,https://smt.go-iptv.ggff.net/smart.php?id=cbshd_glo&token=Goiptv
-CBSN HD,https://smt.go-iptv.ggff.net/smart.php?id=cbsn_glo&token=Goiptv
-France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
-DW (Deutsch),https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
-NHK World,https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
-Fox News,https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv
-CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
-CNN International,https://smt.go-iptv.ggff.net/smart.php?id=Cnn&token=Goiptv
-CNN backup,https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
-CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
-CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
-BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
-BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=Bbcnews&token=Goiptv
-Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
-Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
-
-☘️GPT-儿童,#genre#
-Baby TV Eng,https://smt.go-iptv.ggff.net/smart.php?id=Babytv&token=Goiptv
-CBeebies,https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
-Kids TV,https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
-Momo TV,https://smt.go-iptv.ggff.net/smart.php?id=momo1_twn&token=Goiptv
-Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
-Baby TV,https://smt.go-iptv.ggff.net/smart.php?id=babytv_twn&token=Goiptv
-MiaoMi,https://smt.go-iptv.ggff.net/smart.php?id=MiaoMi&token=Goiptv
-靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
-东森幼幼,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
-Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
-Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
-Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
-
-☘️GPT-体育,#genre#
-Astro Premier League 1,https://smt.go-iptv.ggff.net/smart.php?id=go_assp1&token=Goiptv
-Astro EPL 1 backup,https://smt.go-iptv.ggff.net/smart.php?id=go_assp1x&token=Goiptv
-Astro Premier League 2,https://smt.go-iptv.ggff.net/smart.php?id=go_assp2&token=Goiptv
-Astro Grandstand,https://smt.go-iptv.ggff.net/smart.php?id=go_assp3&token=Goiptv
-Astro Football,https://smt.go-iptv.ggff.net/smart.php?id=go_assp4&token=Goiptv
-Astro Sports Plus,https://smt.go-iptv.ggff.net/smart.php?id=go_sportsplus&token=Goiptv
-Astro Badminton 1,https://smt.go-iptv.ggff.net/smart.php?id=go_badminton1&token=Goiptv
-Astro Badminton 2,https://smt.go-iptv.ggff.net/smart.php?id=go_badminton2&token=Goiptv
-Astro W-Sports,https://smt.go-iptv.ggff.net/smart.php?id=go_assp5&token=Goiptv
-Supersports 1,https://smt.go-iptv.ggff.net/smart.php?id=Assp1&token=Goiptv
-Supersports 2,https://smt.go-iptv.ggff.net/smart.php?id=Assp2&token=Goiptv
-Supersports 3,https://smt.go-iptv.ggff.net/smart.php?id=Assp3&token=Goiptv
-Supersports 4,https://smt.go-iptv.ggff.net/smart.php?id=Assp4&token=Goiptv
-WWE,https://smt.go-iptv.ggff.net/smart.php?id=Wwe&token=Goiptv
-Fight Sports,https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
-NBA TV,https://smt.go-iptv.ggff.net/smart.php?id=Nba&token=Goiptv
-Astro Cricket,https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
-Astro Golf,https://smt.go-iptv.ggff.net/smart.php?id=Agolf&token=Goiptv
-Tnt Sports 1,https://smt.go-iptv.ggff.net/smart.php?id=6fac0aaead&token=Goiptv
-TNT Sports 2,https://smt.go-iptv.ggff.net/smart.php?id=d9a76a79cc&token=Goiptv
-TNT Sports 3,https://smt.go-iptv.ggff.net/smart.php?id=5fea4d73db&token=Goiptv
-TNT Sports 4,https://smt.go-iptv.ggff.net/smart.php?id=tntsport4&token=Goiptv
-Sony Ten 1,https://smt.go-iptv.ggff.net/smart.php?id=ten1_raj&token=Goiptv
-Sony Ten 2,https://smt.go-iptv.ggff.net/smart.php?id=ten2_raj&token=Goiptv
-Sony Ten 3,https://smt.go-iptv.ggff.net/smart.php?id=ten3_raj&token=Goiptv
-SPOTV 1 HD,https://smt.go-iptv.ggff.net/smart.php?id=go_spotv&token=Goiptv
-SPO TV 2,https://smt.go-iptv.ggff.net/smart.php?id=go_spotv2&token=Goiptv
-Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
-Skysports Cricket,https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
-Skysports EPL,https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
-Skysports Main Event,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
-Skysports News,https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
-Skysports Mix,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmix&token=Goiptv
-CCTV-5 体育频道,https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
-CCTV-5+ 体育赛事 HD,https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
-爱尔达体育2台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
-爱尔达体育3台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
-Rugby Pass TV,https://smt.go-iptv.ggff.net/smart.php?id=Rugbypasstv&token=Goiptv
-RTM Sports HD,https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
-Arena,https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
-Arena 2,https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
-BolaArena 1,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
-BolaArena 2,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
-Astro Beinsports 1,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein1&token=Goiptv
-Astro Beinsports 2,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein2&token=Goiptv
-Astro Beinsports 3,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein3&token=Goiptv
-
-☘️GPT-新加坡,#genre#
-Channel 5,https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
-Channel 8,https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv
-Suria,https://smt.go-iptv.ggff.net/smart.php?id=Suria&token=Goiptv
-Channel U,https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv
-Vasantham,https://smt.go-iptv.ggff.net/smart.php?id=Vasantham&token=Goiptv
-CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
-CNA backup,https://smt.go-iptv.ggff.net/smart.php?id=cna_twn&token=Goiptv
-MeWatch Ch 5,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch5&token=Goiptv
-MeWatch Ch 8,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch8&token=Goiptv
-MeWatch Ch U,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_chU&token=Goiptv
-MeWatch Suria,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Suria&token=Goiptv
-MeWatch Vasantham,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Vasantham&token=Goiptv
-MeWatch CNA,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_cna&token=Goiptv
-
-☘️GPT-马来西亚,#genre#
-TV1,https://smt.go-iptv.ggff.net/smart.php?id=TV1&token=Goiptv
-TV1 backup,https://smt.go-iptv.ggff.net/smart.php?id=TV1_backup&token=Goiptv
-TV2,https://smt.go-iptv.ggff.net/smart.php?id=TV2&token=Goiptv
-TV3,https://smt.go-iptv.ggff.net/smart.php?id=TV3&token=Goiptv
-TV3 SD,https://smt.go-iptv.ggff.net/smart.php?id=TV3_mega&token=Goiptv
-NTV7,https://smt.go-iptv.ggff.net/smart.php?id=NTV7&token=Goiptv
-TV8,https://smt.go-iptv.ggff.net/smart.php?id=TV8&token=Goiptv
-TV9,https://smt.go-iptv.ggff.net/smart.php?id=TV9&token=Goiptv
-Ria,https://smt.go-iptv.ggff.net/smart.php?id=Ria-0&token=Goiptv
-Ria-3,https://smt.go-iptv.ggff.net/smart.php?id=Ria_backup&token=Goiptv
-Al-Hijrah,https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah&token=Goiptv
-Al-Hijrah backup,https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah_backup&token=Goiptv
-Awani,https://smt.go-iptv.ggff.net/smart.php?id=Awani&token=Goiptv
-Bernama,https://smt.go-iptv.ggff.net/smart.php?id=Bernama&token=Goiptv
-Prima,https://smt.go-iptv.ggff.net/smart.php?id=Prima-0&token=Goiptv
-Prima backup,https://smt.go-iptv.ggff.net/smart.php?id=AAprima1&token=Goiptv
-Prima backup 2,https://smt.go-iptv.ggff.net/smart.php?id=AAprima&token=Goiptv
-Ceria,https://smt.go-iptv.ggff.net/smart.php?id=Ceria&token=Goiptv
-Astro MTV,https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
-Mecca Live HD,https://smt.go-iptv.ggff.net/smart.php?id=quran_mido&token=Goiptv
-Madinah HD,https://smt.go-iptv.ggff.net/smart.php?id=sunnah_mido&token=Goiptv
-Oasis,https://smt.go-iptv.ggff.net/smart.php?id=Oasis&token=Goiptv
-HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
-HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
-HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
-NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
-Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
-Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
-Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
-Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
-Siar,https://smt.go-iptv.ggff.net/smart.php?id=Siar&token=Goiptv
-Citra,https://smt.go-iptv.ggff.net/smart.php?id=AAcitra&token=Goiptv
-Citra backup,https://smt.go-iptv.ggff.net/smart.php?id=AAcitra1&token=Goiptv
-Sensasi,https://smt.go-iptv.ggff.net/smart.php?id=Sensasi&token=Goiptv
-Aura,https://smt.go-iptv.ggff.net/smart.php?id=Aura&token=Goiptv
-Rania,https://smt.go-iptv.ggff.net/smart.php?id=Rania&token=Goiptv
-KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
-Boo,https://smt.go-iptv.ggff.net/smart.php?id=Boo&token=Goiptv
-Awesome TV,https://smt.go-iptv.ggff.net/smart.php?id=Dsangat&token=Goiptv
-Astro Sonypix,https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
-Sony HD,https://smt.go-iptv.ggff.net/smart.php?id=SetOne&token=Goiptv
-TvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
-AEC,https://smt.go-iptv.ggff.net/smart.php?id=AEC&token=Goiptv
-华丽台 HD （Wah Lai Toi）,https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
-欢喜台 HD （Hua Hee Tai）,https://smt.go-iptv.ggff.net/smart.php?id=Huahee&token=Goiptv
-Astro QJ,https://smt.go-iptv.ggff.net/smart.php?id=Quanjia&token=Goiptv
-TVB Jade,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
-TVB Asia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
-TVB Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
-TVB Classic,https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
-AOD,https://smt.go-iptv.ggff.net/smart.php?id=Aodhd&token=Goiptv
-One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
-TVB 星河台 Xing He,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
-爱奇艺 iQiyi,https://smt.go-iptv.ggff.net/smart.php?id=Qiyi&token=Goiptv
-Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
-tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-CNN backup,https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
-Celestial Classic,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
-CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
-TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
-CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
-BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
-Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
-HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
-Goshop,https://smt.go-iptv.ggff.net/smart.php?id=Goshop&token=Goiptv
-Celestial Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
-Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
-Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
-Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
-AFC 亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
-Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
-Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
-Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
-Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
-RTM Sports HD,https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
-Arena,https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
-Arena 2,https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
-BolaArena 1,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
-BolaArena 2,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
-Astro LOL,https://smt.go-iptv.ggff.net/smart.php?id=Astro_lol&token=Goiptv
-Astro Rusi,https://smt.go-iptv.ggff.net/smart.php?id=Rusi&token=Goiptv
-WION,https://smt.go-iptv.ggff.net/smart.php?id=Wion&token=Goiptv
-RTM Asean,https://smt.go-iptv.ggff.net/smart.php?id=Rtmasean&token=Goiptv
-Ключ HD,http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/160048
-Россия культура HD（俄羅斯文化高清頻道）,http://149.18.45.187:8060/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
-
-☘️GPT-印尼,#genre#
-TVRI National,https://smt.go-iptv.ggff.net/smart.php?id=TVRI&token=Goiptv
-RCTI,https://smt.go-iptv.ggff.net/smart.php?id=Rcti&token=Goiptv
-Kompass TV,https://smt.go-iptv.ggff.net/smart.php?id=Kompass&token=Goiptv
-Berita Satu,https://smt.go-iptv.ggff.net/smart.php?id=BeritaSatu_eko&token=Goiptv
-Indosiar HD,https://smt.go-iptv.ggff.net/smart.php?id=Indosiar&token=Goiptv
-AnTV,https://smt.go-iptv.ggff.net/smart.php?id=Antv&token=Goiptv
-MNC TV,https://smt.go-iptv.ggff.net/smart.php?id=Mnctv&token=Goiptv
-Trans 7,https://smt.go-iptv.ggff.net/smart.php?id=Trans7_eko&token=Goiptv
-Transtv,https://smt.go-iptv.ggff.net/smart.php?id=Transtv&token=Goiptv
-JTV,https://smt.go-iptv.ggff.net/smart.php?id=JTV_eko&token=Goiptv
-Metro TV,https://smt.go-iptv.ggff.net/smart.php?id=metrotv_eko&token=Goiptv
-Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
-SCTV,https://smt.go-iptv.ggff.net/smart.php?id=SCTV&token=Goiptv
-Tvone,https://smt.go-iptv.ggff.net/smart.php?id=Tvone&token=Goiptv
-TVMU,https://smt.go-iptv.ggff.net/smart.php?id=TVMU_eko&token=Goiptv
-GTV,https://smt.go-iptv.ggff.net/smart.php?id=Gtv&token=Goiptv
-RTV,https://smt.go-iptv.ggff.net/smart.php?id=Rtv&token=Goiptv
-Jak TV,https://smt.go-iptv.ggff.net/smart.php?id=JakTV&token=Goiptv
-iNews TV,https://smt.go-iptv.ggff.net/smart.php?id=Inewstv&token=Goiptv
-Daai TV,https://smt.go-iptv.ggff.net/smart.php?id=DaaiTV&token=Goiptv
-Net TV,https://smt.go-iptv.ggff.net/smart.php?id=NetTV&token=Goiptv
-Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
-EWTN,https://smt.go-iptv.ggff.net/smart.php?id=Ewtn&token=Goiptv
-AlQuran AlKareem,https://smt.go-iptv.ggff.net/smart.php?id=AlQuran&token=Goiptv
-Tawaf TV,https://smt.go-iptv.ggff.net/smart.php?id=TawafTV&token=Goiptv
-Vision Prime,https://smt.go-iptv.ggff.net/smart.php?id=VisionPrime&token=Goiptv
-Muslim TV,https://smt.go-iptv.ggff.net/smart.php?id=MuslimTV&token=Goiptv
-Music TV,https://smt.go-iptv.ggff.net/smart.php?id=MusicTV&token=Goiptv
-Lifestyle&Fashion,https://smt.go-iptv.ggff.net/smart.php?id=Lifestyle&token=Goiptv
-Entertain,https://smt.go-iptv.ggff.net/smart.php?id=Entertain&token=Goiptv
-Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
-Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
-SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
-Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
-Fight Sports,https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
-Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
-One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
-tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-Celestial Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
-Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
-Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
-
-☘️GPT-印度,#genre#
-Sun TV HD,https://smt.go-iptv.ggff.net/smart.php?id=Suntv&token=Goiptv
-Star Vijay,https://smt.go-iptv.ggff.net/smart.php?id=Starvijay&token=Goiptv
-Colors Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Colorstam&token=Goiptv
-Sun Music,https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
-Astro Sunlife,https://smt.go-iptv.ggff.net/smart.php?id=Sunlife&token=Goiptv
-Astro Vaanavil,https://smt.go-iptv.ggff.net/smart.php?id=Vaanavil&token=Goiptv
-Zee Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Zeetamil&token=Goiptv
-Zee Business,https://smt.go-iptv.ggff.net/smart.php?id=Zeebusiness&token=Goiptv
-News 18 Tamil,https://smt.go-iptv.ggff.net/smart.php?id=news18tamil_raj&token=Goiptv
-Adithya,https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
-Makkal TV,https://smt.go-iptv.ggff.net/smart.php?id=Makkaltv&token=Goiptv
-Zee Action,https://smt.go-iptv.ggff.net/smart.php?id=Zeeaction&token=Goiptv
-Astro KTV,https://smt.go-iptv.ggff.net/smart.php?id=Astroktv&token=Goiptv
-Zee TV HD,https://smt.go-iptv.ggff.net/smart.php?id=Zeetvhd&token=Goiptv
-Zee Cinema HD,https://smt.go-iptv.ggff.net/smart.php?id=Zeecinemahd&token=Goiptv
-Color HD,https://smt.go-iptv.ggff.net/smart.php?id=Colorhd&token=Goiptv
-Starplus HD,https://smt.go-iptv.ggff.net/smart.php?id=Starplushd&token=Goiptv
-Picture HD,https://smt.go-iptv.ggff.net/smart.php?id=Npicture&token=Goiptv
-Zee News,https://smt.go-iptv.ggff.net/smart.php?id=Zeenews&token=Goiptv
-Asianet,https://smt.go-iptv.ggff.net/smart.php?id=asianet_raj&token=Goiptv
-Asianet News,https://smt.go-iptv.ggff.net/smart.php?id=asianetnews_raj&token=Goiptv
-Discovery World Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoveryworldtam_raj&token=Goiptv
-History Tamil,https://smt.go-iptv.ggff.net/smart.php?id=historytam_raj&token=Goiptv
-NatGeo Tamil,https://smt.go-iptv.ggff.net/smart.php?id=natgeotamil_raj&token=Goiptv
-Natgeo Wild Tamil,https://smt.go-iptv.ggff.net/smart.php?id=natgeowildtamil_raj&token=Goiptv
-Astro Sonypix,https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
-Discovery Kids Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoverykidtamil_raj&token=Goiptv
-Discovery Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoverytamil_raj&token=Goiptv
-Sony Yay Tamil,https://smt.go-iptv.ggff.net/smart.php?id=sonyyaytam_raj&token=Goiptv
-Sun TV India,https://smt.go-iptv.ggff.net/smart.php?id=suntv_raj&token=Goiptv
-Starmaa HD,https://smt.go-iptv.ggff.net/smart.php?id=starmaa_raj&token=Goiptv
-Starmaa Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmaamovies_raj&token=Goiptv
-Bollyone,https://smt.go-iptv.ggff.net/smart.php?id=Bollyone&token=Goiptv
-Astro Sunmusic,https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
-Vijay Super,https://smt.go-iptv.ggff.net/smart.php?id=vijaysuper_raj&token=Goiptv
-Vellithirai,https://smt.go-iptv.ggff.net/smart.php?id=Vellithirai&token=Goiptv
-
-☘️GPT-泰国,#genre#
-Channel 3 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
-Channel 5 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch5_pat&token=Goiptv
-Channel 7 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch7_pat&token=Goiptv
-MCOT HD Thailand-1,https://smt.go-iptv.ggff.net/smart.php?id=mcot_pat&token=Goiptv
-PPTV Thailand1,https://smt.go-iptv.ggff.net/smart.php?id=pptv_pat&token=Goiptv
-Thai Thai,https://smt.go-iptv.ggff.net/smart.php?id=thaithai_pat&token=Goiptv
-Amarin,https://smt.go-iptv.ggff.net/smart.php?id=amarin_pat&token=Goiptv
-Ch 8,https://smt.go-iptv.ggff.net/smart.php?id=ch8_pat&token=Goiptv
-GmmOne,https://smt.go-iptv.ggff.net/smart.php?id=gmmone_pat&token=Goiptv
-Mono,https://smt.go-iptv.ggff.net/smart.php?id=mono_pat&token=Goiptv
-Thairath,https://smt.go-iptv.ggff.net/smart.php?id=thairath_pat&token=Goiptv
-tpbs,https://smt.go-iptv.ggff.net/smart.php?id=tpbs_pat&token=Goiptv
-Workpoint,https://smt.go-iptv.ggff.net/smart.php?id=workpoint_pat&token=Goiptv
-Gmm Channel,https://smt.go-iptv.ggff.net/smart.php?id=gmmchannel_pat&token=Goiptv
-Nation,https://smt.go-iptv.ggff.net/smart.php?id=nation_pat&token=Goiptv
-Tnn24,https://smt.go-iptv.ggff.net/smart.php?id=tnn24_pat&token=Goiptv
-Nbt,https://smt.go-iptv.ggff.net/smart.php?id=nbt_pat&token=Goiptv
-New,https://smt.go-iptv.ggff.net/smart.php?id=new_pat&token=Goiptv
-TPTV,https://smt.go-iptv.ggff.net/smart.php?id=tptv_pat&token=Goiptv
-
-☘️GPT-英国,#genre#
-BBC 1,https://smt.go-iptv.ggff.net/smart.php?id=bbc1_antik&token=Goiptv
-BBC 2,https://smt.go-iptv.ggff.net/smart.php?id=bbc2_antik&token=Goiptv
-CBBC,https://smt.go-iptv.ggff.net/smart.php?id=cbbc_antik&token=Goiptv
-More4,https://smt.go-iptv.ggff.net/smart.php?id=more4_antik&token=Goiptv
-Freesports,https://smt.go-iptv.ggff.net/smart.php?id=freesports_antik&token=Goiptv
-Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
-Pick TV,https://smt.go-iptv.ggff.net/smart.php?id=picktv_antik&token=Goiptv
-itv 1,https://smt.go-iptv.ggff.net/smart.php?id=itv1_antik&token=Goiptv
-itv 2,https://smt.go-iptv.ggff.net/smart.php?id=itv2_antik&token=Goiptv
-Euronews,https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv
-Channel 4,https://smt.go-iptv.ggff.net/smart.php?id=channel4_antik&token=Goiptv
-NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
-CBeebies,https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
-History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
-Kids TV,https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
-France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
-DW (Deutsch),https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
-BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
-BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
-MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
-Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
-NHK World,https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
-Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
-HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
-NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
-Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
-Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
-Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
-CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
-Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
-Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
-CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
-TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
-BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcworldnews_antik&token=Goiptv
-HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
-Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
-Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
-Skysports Cricket,https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
-Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
-Skysports EPL,https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
-Skysports Main Event,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
-Skysports News,https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
-Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
-
-📺失效,#genre#
-
 
 
 
