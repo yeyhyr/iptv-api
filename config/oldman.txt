@@ -4,14 +4,19 @@
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
 
+
 无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 
-Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,https://cdn.163189.xyz/163189/now
+Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
+Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 
-翡翠台,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+翡翠台,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
+翡翠台,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
+翡翠台,http://rihou.cc:555/tv/[Mt]无线翡翠
 
 无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 
@@ -37,11 +42,15 @@ TVBJade台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 
+美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
+
 
 pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 
 VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+
+HOY78,http://rihou.cc:555/tv/[Mt]有线新闻
 
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 有线综合外语,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_hoy&type=dy
@@ -82,9 +91,88 @@ MTV 80S,http://iptv.prosto.tv:7000/ch130/video.m3u8
 
 星空衛視,https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.ctv
 
+ANIMAX,http://tl.061833.xyz/tl/animax
 
+有线赛讯,http://rihou.cc:555/tv/[Mt]有线赛讯
+有线综合,http://rihou.cc:555/tv/[Mt]有线综合
+Now财经,http://rihou.cc:555/tv/[Mt]Now财经
+Now直播,http://rihou.cc:555/tv/[Mt]Now直播
+Now体育,http://rihou.cc:555/tv/[Mt]Now体育
 
-
+🌊台湾,#genre#
+Amc电影4Gtv,http://rihou.cc:555/tv/[4G]Amc电影
+cnbc财经4Gtv,http://rihou.cc:555/tv/[4G]cnbc财经
+DW_之声4Gtv,http://rihou.cc:555/tv/[4G]DW_之声
+ELta旅游4Gtv,http://rihou.cc:555/tv/[4G]ELta旅游
+ELta娱乐4Gtv,http://rihou.cc:555/tv/[4G]ELta娱乐
+Fgm电影4Gtv,http://rihou.cc:555/tv/[4G]Fgm电影
+FRANCE4Gtv,http://rihou.cc:555/tv/[4G]FRANCE
+GLOBAL4Gtv,http://rihou.cc:555/tv/[4G]GLOBAL
+HItS电影4Gtv,http://rihou.cc:555/tv/[4G]HItS电影
+HqkkqTV4Gtv,http://rihou.cc:555/tv/[4G]HqkkqTV
+LifeTime4Gtv,http://rihou.cc:555/tv/[4G]LifeTime
+LUXE-TV4Gtv,http://rihou.cc:555/tv/[4G]LUXE-TV
+MAGEllA4Gtv,http://rihou.cc:555/tv/[4G]MAGEllA
+MEZZOl4Gtv,http://210.61.15.55:50007/4gtv-4gtv083/index.m3u8?proxy=true
+MEZZOl4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv083/index.m3u8?proxy=true
+NHK日本4Gtv,http://rihou.cc:555/tv/[4G]NHK日本
+rock娱乐4Gtv,http://rihou.cc:555/tv/[4G]rock娱乐
+TRACEU4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv082/index.m3u8?proxy=true
+tvbS欢乐4Gtv,http://rihou.cc:555/tv/[4G]tvbS欢乐
+tvbS精采4Gtv,http://rihou.cc:555/tv/[4G]tvbS精采
+tvbS闽南4Gtv,http://rihou.cc:555/tv/[4G]tvbS闽南
+tvbS新闻4Gtv,http://rihou.cc:555/tv/[4G]tvbS新闻
+tvbS综艺4Gtv,http://rihou.cc:555/tv/[4G]tvbS综艺
+阿里郎台4Gtv,http://210.61.15.55:50007/4gtv-4gtv079/index.m3u8?proxy=true
+阿里郎台4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv079/index.m3u8?proxy=true
+采昌影剧4Gtv,http://rihou.cc:555/tv/[4G]采昌影剧
+大爱贰高4Gtv,http://rihou.cc:555/tv/[4G]大爱贰高
+大爱壹高4Gtv,http://rihou.cc:555/tv/[4G]大爱壹高
+东森财经4Gtv,http://rihou.cc:555/tv/[4G]东森财经
+东森新闻4Gtv,http://rihou.cc:555/tv/[4G]东森新闻
+公视戏剧4Gtv,http://rihou.cc:555/tv/[4G]公视戏剧
+国会频贰4Gtv,http://rihou.cc:555/tv/[4G]国会频贰
+国会频壹4Gtv,http://rihou.cc:555/tv/[4G]国会频壹
+国际财经4Gtv,http://rihou.cc:555/tv/[4G]国际财经
+国家地理4Gtv,http://rihou.cc:555/tv/[4G]国家地理
+韩国娱乐4Gtv,http://rihou.cc:555/tv/[4G]韩国娱乐
+好消息贰4Gtv,http://rihou.cc:555/tv/[4G]好消息贰
+好消息壹4Gtv,http://rihou.cc:555/tv/[4G]好消息壹
+华视闽南4Gtv,http://rihou.cc:555/tv/[4G]华视闽南
+华视新闻4Gtv,http://rihou.cc:555/tv/[4G]华视新闻
+寰宇闽南4Gtv,http://rihou.cc:555/tv/[4G]寰宇闽南
+寰宇新闻4Gtv,http://rihou.cc:555/tv/[4G]寰宇新闻
+健康频道4Gtv,http://rihou.cc:555/tv/[4G]健康频道
+靖天电影4Gtv,http://rihou.cc:555/tv/[4G]靖天电影
+靖天国际4Gtv,http://rihou.cc:555/tv/[4G]靖天国际
+靖天欢乐4Gtv,http://rihou.cc:555/tv/[4G]靖天欢乐
+靖天日本4Gtv,http://rihou.cc:555/tv/[4G]靖天日本
+靖天戏剧4Gtv,http://rihou.cc:555/tv/[4G]靖天戏剧
+靖天映画4Gtv,http://rihou.cc:555/tv/[4G]靖天映画
+靖天育乐4Gtv,http://rihou.cc:555/tv/[4G]靖天育乐
+靖天资讯4Gtv,http://rihou.cc:555/tv/[4G]靖天资讯
+靖天综合4Gtv,http://rihou.cc:555/tv/[4G]靖天综合
+空间居家4Gtv,http://rihou.cc:555/tv/[4G]空间居家
+美国之音4Gtv,http://rihou.cc:555/tv/[4G]美国之音
+民视第一4Gtv,http://rihou.cc:555/tv/[4G]民视第一
+民视闽南4Gtv,http://rihou.cc:555/tv/[4G]民视闽南
+民视闽南4Gtv,http://rihou.cc:555/tv/[4G]民视南闽
+民视闽语4Gtv,http://rihou.cc:555/tv/[4G]民视闽语
+民视新闻4Gtv,http://rihou.cc:555/tv/[4G]民视新闻
+民视影剧4Gtv,http://rihou.cc:555/tv/[4G]民视影剧
+民视综艺4Gtv,http://rihou.cc:555/tv/[4G]民视综艺
+闽镜新闻4Gtv,http://rihou.cc:555/tv/[4G]闽镜新闻
+全球财经4Gtv,http://rihou.cc:555/tv/[4G]全球财经
+人间卫视4Gtv,http://rihou.cc:555/tv/[4G]人间卫视
+三立新闻4Gtv,http://rihou.cc:555/tv/[4G]三立新闻
+三立综合4Gtv,http://rihou.cc:555/tv/[4G]三立综合
+中视经典4Gtv,http://rihou.cc:555/tv/[4G]中视经典
+中视菁采4Gtv,http://rihou.cc:555/tv/[4G]中视菁采
+中视闽南4Gtv,http://rihou.cc:555/tv/[4G]中视闽南
+中视新闻4Gtv,http://rihou.cc:555/tv/[4G]中视新闻
+中天新闻4Gtv,http://rihou.cc:555/tv/[4G]中天新闻
+中天新闻4Gtv,http://rihou.cc:555/tv/[4G]中天新聞
+猪哥亮厅4Gtv,http://rihou.cc:555/tv/[4G]猪哥亮厅
 
 📺央视频道,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
