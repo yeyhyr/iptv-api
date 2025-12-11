@@ -5,9 +5,3 @@ http://epg.51zmt.top:8000/e.xml
 https://e.erw.cc/e.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 https://assets.livednow.com/epg.xml
-https://iptv.catvod.com/tv.m3u
-http://bxtv.3a.ink/live.txt
-https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
-https://iptv.catvod.com/tv.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
-https://bc.188766.xyz/?ip=&mima=bingchawusifengxian
