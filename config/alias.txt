@@ -7,13 +7,6 @@
 
 CCTV1,CCTV-1,re:CCTV[-\s]*0?1(?!\d),CCTV1,CCTV-01,CCTV-01_ITV,CCTV-01北联,CCTV-01电信,CCTV-01东联,CCTV-01高码,CCTV-01高清,CCTV-01广西,CCTV-01梅州,CCTV-01咪咕,CCTV-01汝阳,CCTV-01山东,CCTV-01上海,CCTV-01斯特,CCTV-01四川,CCTV-01太原,CCTV-01天津,CCTV-01影视,CCTV-01浙江,CCTV-01重庆,CCTV1综合,CCTV-1综合,CCTV1(B),CCTV1[1920*1080],CCTV1「IPV6」,CCTV1HD,CCTV-1HD,CCTV1-标清,CCTV1港澳牿,CCTV-1高清,CCTV1-综合,CCTV-1综合ᴴᴰ,CCTV-1 综合
 
-
-
-
-
-
-
-
 CCTV2,CCTV-2,re:CCTV[-\s]*0?2,CCTV2,CCTV-02,CCTV-02_ITV,CCTV-02北联,CCTV-02电信,CCTV-02东联,CCTV-02高码,CCTV-02高清,CCTV-02广西,CCTV-02梅州,CCTV-02咪咕,CCTV-02汝阳,CCTV-02山东,CCTV-02上海,CCTV-02斯特,CCTV-02四川,CCTV-02太原,CCTV-02天津,CCTV-02影视,CCTV-02浙江,CCTV-02重庆,CCTV2财经,CCTV-2财经,CCTV2[1280*720],CCTV2「IPV6」,CCTV20241,CCTV22,CCTV250,CCTV2HD,CCTV-2HD,CCTV2-标清,CCTV2-财经,CCTV-2财经ᴴᴰ,CCTV-2高清,CCTV-2 财经
 
 CCTV3,CCTV-3,re:CCTV[-\s]*0?3,CCTV3,CCTV-03,CCTV-03_ITV,CCTV-03北联,CCTV-03电信,CCTV-03东联,CCTV-03高码,CCTV-03高清,CCTV-03广西,CCTV-03梅州,CCTV-03咪咕,CCTV-03汝阳,CCTV-03山东,CCTV-03上海,CCTV-03斯特,CCTV-03四川,CCTV-03太原,CCTV-03天津,CCTV-03影视,CCTV-03浙江,CCTV-03重庆,CCTV3综艺,CCTV-3综艺,CCTV3[1920*1080],CCTV3「IPV6」,CCTV3HD,CCTV-3HD,CCTV3-标清,CCTV-3高清,CCTV-3-高清,CCTV3-综艺,CCTV-3综艺ᴴᴰ,CCTV-3 综艺
@@ -84,20 +77,26 @@ CGTN俄语,CGTN俄罗斯语
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
 翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,无线翡翠,翡翠台（字幕）
-无线新闻,无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+无线新闻,无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台,無線新聞台
+美亚电影,美亞電影台
+千禧经典,千禧經典台
+华丽翡翠,华丽翡翠台
 Now新闻,Now新闻台
 TVB Plus,tvb plus,TVB plus
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl,无线明珠,明珠台（字幕）
 RTHK31,港台电视 31,港台電視 31,RTHK31,RTHK 31,RTHK-31
 RTHK32,港台电视 32,港台電視 32,RTHK32,RTHK 32,RTHK-32
-北京卫视,北京卫视4K,北京卫视4K超高清
-凤凰中文,凤凰卫视中文台
-凤凰香港,凤凰卫视香港台
+PopC电影,POPC
+
+
+凤凰中文,凤凰卫视中文台,鳳凰衛視中文台
+凤凰资讯,凤凰资讯台，鳳凰衛視資訊台
+凤凰香港,凤凰卫视香港台,鳳凰衛視香港台
 福建文体,福建体育
 福建经济,福建经视
 FZTV1,FZTV-1,福州综合,福州1-新闻
 FZTV3,FZTV-3,福州生活,福州3-生活
-
+中天新闻,中天新聞台
 三立台湾,三立台湾台
 TVBS新闻,TVBS新闻台
 TVBS欢乐,TVBS欢乐台
@@ -124,6 +123,7 @@ TVBS欢乐,TVBS欢乐台
 
 
 北京卫视,北京卫视台
+北京卫视4K,北京卫视4K超高清
 东方卫视,东方卫视台
 天津卫视,天津卫视台
 重庆卫视,重庆卫视台
