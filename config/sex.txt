@@ -15,9 +15,7 @@
 
 
 ☘️测试,#genre#
-https://live.saileitv.com/channel/n7549189d/index.m3u8?q=1765644296607&sign=c398d25ebb1c325fae87ca22c6cfaf0b&ts=1765644373
-
-
+https://live.saileitv.com/channel/n7549189d/index.m3u8
 
 
 
