@@ -15,8 +15,7 @@
 
 
 ☘️测试,#genre#
-http://8.218.84.3:8885/live/b91dZ4pRvAp6LSIvE991m3S4WM0jMmn1lBcoaFNHK1oIcthLdZcusY5Kyr8Sh2QOZiBdzVWhnrW58iycxISRvpN6krVK56H8Nhg5Hm9rPSO2ZQdVPrLRrdibkUeYwiBa6rfeE1YpsyDebYPNeKkJazDpXpLQrbpp3p1Nc5OzaqxkVdWoCbK2hSrWbVoV4QOQM-PN_wxiryPCntP7PJ15lA.m3u8
-
+https://live.saileitv.com/channel/n7549189d/index.m3u8?q=1765644296607&sign=c398d25ebb1c325fae87ca22c6cfaf0b&ts=1765644373
 
 
 
