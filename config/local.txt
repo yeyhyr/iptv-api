@@ -4,7 +4,9 @@
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
 
-无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-12.m3u8
+无线新闻,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
+无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-2.ctv
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 
 
