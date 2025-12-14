@@ -5,7 +5,7 @@
 🌊港澳,#genre#
 
 
-无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 
