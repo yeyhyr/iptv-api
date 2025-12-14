@@ -211,6 +211,21 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 POPC,http://bxtv.3a.ink/api.php?id=popc
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
+🌊冰茶港澳,#genre#
+凤凰中文,https://mgev.188766.xyz/?migutoken=27937bb4f59e7ccf888bab529bcccb09&id=fhzw&pp=1
+凤凰中文,https://mgev.188766.xyz/?migutoken=0447c4cbb5b59de9eb3c785abcecb5d4&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=8b7c5627a0b5c2f4953f2529f834c8eb&id=fhzx&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=9f9641380ad3c2efc499555c7b08fa8d&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=43f9b56d04fd3cc5dce2e5bbe24be2ad&id=fhhk&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=c53f47ef86391cfe991905ef262f36ee&id=hk_fhhk&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=7ad1d1fe94743830f43d5bbb6b364161&id=hk_fct&type=dy
+翡翠台4K,https://mgev.188766.xyz/?migutoken=7fe3e760c86792e73bab52473075d948&id=hk_fct4k&type=dy
+无线新闻,https://mgev.188766.xyz/?migutoken=069f4f10fc42118e0011d3697e31dfee&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=28ca7b2cb82809f28ac9f4d1e3b72933&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=eaf9e094e8ae66ee324fe71a786c7fc7&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=a01d8e474ba3d7f3191bf10a9aab0702&id=hk_mzt&type=dy
+TVB星河,https://mgev.188766.xyz/?migutoken=b45e0b438f1749ecd6c37f689f51bdc3&id=hk_tvbxh&type=dy
+TVB功夫,https://mgev.188766.xyz/?migutoken=e742b6af63dd75946218158d8526b201&id=hk_yzwx&type=dy
 
 
 
