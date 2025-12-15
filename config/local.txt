@@ -15,28 +15,6 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
 
 
-
-
-
-
-
-
-
-
-
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-
-
-TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河台国,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-
-
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-
-
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -66,6 +44,7 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://rihou.cc:555/tv/PdlPlus综合
 TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
 TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
@@ -75,14 +54,21 @@ TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
+无线星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+
+
+
 无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
+
 
 无线功夫,https://hk.188766.xyz/?migutoken=aad571c466167a4aedb75d5a125e8b49&id=hk_yzwx&type=dy
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+无线功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
+
 
 无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
@@ -147,8 +133,10 @@ RTHK32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
 AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://hk.188766.xyz/?migutoken=23d8878dc0cd2abe37c0b5799b73df22&id=hk_asam&type=dy
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
+
 
 八度空间,https://hk.188766.xyz/?migutoken=f9961c16cbc5673a85d7e539137bb9b6&id=hk_8tv&type=dy
 CHU,https://hk.188766.xyz/?migutoken=e34adace4dcf21caad14aaf3ffb38279&id=hk_chu&type=dy
