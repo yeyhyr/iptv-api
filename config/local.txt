@@ -15,8 +15,30 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线翡翠,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
@@ -25,8 +47,6 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
 无线翡翠4K,https://hk.188766.xyz/?migutoken=11fa3e64ea0083791f9759b25259d0d5&id=hk_fct4k&type=dy
 
-无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
 
 无线明珠,https://hk.188766.xyz/?migutoken=e61d53f1ca3c68507269c19bbeab5b7f&id=hk_mzt&type=dy
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
@@ -45,6 +65,7 @@ TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://rihou.cc:555/tv/PdlPlus综合
 TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
 TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
@@ -52,13 +73,15 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+
 
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-
 
 
 无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
@@ -71,9 +94,19 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 
 
 无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+无线千禧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
+
+
+
+无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
+
+有线综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 
 无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
 
@@ -109,6 +142,7 @@ Now直播,http://rihou.cc:555/tv/MtlNow直播
 天映经典,http://rihou.cc:555/tv/STl天映经典
 
 VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://rihou.cc:555/tv/MtlVIUTV粤
 VIUTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
 
@@ -133,6 +167,7 @@ RTHK32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
 AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳门Mac,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://hk.188766.xyz/?migutoken=23d8878dc0cd2abe37c0b5799b73df22&id=hk_asam&type=dy
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
@@ -144,6 +179,65 @@ CH5,https://hk.188766.xyz/?migutoken=df27cb6da5fdf966df39542de4cc4a62&id=hk_ch5&
 CH8,https://hk.188766.xyz/?migutoken=c2e1e1619ec8bc94dcd36cb3e8f57114&id=hk_ch8&type=dy
 
 HOY77,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_hoy&type=dy
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+
+
+凤凰中文,https://hk.188766.xyz/?migutoken=3b6a923af130ebaadb4fa973e4fccea5&id=fhzw&pp=1
+凤凰中文,https://hk.188766.xyz/?migutoken=1070e2f6921bc476d91ab9e39fb33f3c&id=hk_fhzw&type=dy
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+
+凤凰资讯,,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://hk.188766.xyz/?migutoken=93d4ca51dc593d049a840de93d844920&id=fhzx&pp=1
+凤凰资讯,https://hk.188766.xyz/?migutoken=fdbbedd10adb3a9d273bf5b0ff1b84ee&id=hk_fhzx&type=dy
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
+凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+
+
+
+凤凰香港,https://hk.188766.xyz/?migutoken=2a232b63b1a7bd4a75e2f17ae930524b&id=fhhk&pp=1
+凤凰香港,https://hk.188766.xyz/?migutoken=613e800f369658ed2dbdfdc4b08b580e&id=hk_fhhk&type=dy
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
+凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+
+
+Now英超1台,http://rihou.cc:555/tv/XSlNow英超
+Now英超,http://rihou.cc:555/tv/XSlNow英超
+Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
+Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
+Now体育,http://rihou.cc:555/tv/XSlNow体育
+Now体育,http://rihou.cc:555/tv/MtlNow体育
+
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+
+Astro劇集,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+
+Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
 翡翠台,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 美亚電影台(香港),http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
@@ -180,51 +274,6 @@ Now爆谷粤bx,http://rihou.cc:555/tv/[Bx]Now爆谷
 
 
 
-凤凰中文,https://hk.188766.xyz/?migutoken=3b6a923af130ebaadb4fa973e4fccea5&id=fhzw&pp=1
-凤凰中文,https://hk.188766.xyz/?migutoken=1070e2f6921bc476d91ab9e39fb33f3c&id=hk_fhzw&type=dy
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-
-凤凰资讯,https://hk.188766.xyz/?migutoken=93d4ca51dc593d049a840de93d844920&id=fhzx&pp=1
-凤凰资讯,https://hk.188766.xyz/?migutoken=fdbbedd10adb3a9d273bf5b0ff1b84ee&id=hk_fhzx&type=dy
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
-
-凤凰香港,https://hk.188766.xyz/?migutoken=2a232b63b1a7bd4a75e2f17ae930524b&id=fhhk&pp=1
-凤凰香港,https://hk.188766.xyz/?migutoken=613e800f369658ed2dbdfdc4b08b580e&id=hk_fhhk&type=dy
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-
-
-Now英超1台,http://rihou.cc:555/tv/XSlNow英超
-Now英超,http://rihou.cc:555/tv/XSlNow英超
-Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
-Now体育,http://rihou.cc:555/tv/XSlNow体育
-Now体育,http://rihou.cc:555/tv/MtlNow体育
-纬来体育,http://rihou.cc:555/tv/STl纬来体育
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-
-Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-
-
 
 🌊冰雪港澳,#genre#
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
@@ -259,6 +308,8 @@ TVB功夫,https://mgev.188766.xyz/?migutoken=e742b6af63dd75946218158d8526b201&id
 
 
 🌊台湾,#genre#
+MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
+France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 Amc电影4Gtv,http://rihou.cc:555/tv/[4G]Amc电影
 cnbc财经4Gtv,http://rihou.cc:555/tv/[4G]cnbc财经
 DW_之声4Gtv,http://rihou.cc:555/tv/[4G]DW_之声
@@ -332,7 +383,7 @@ tvbS综艺4Gtv,http://rihou.cc:555/tv/[4G]tvbS综艺
 中天新闻4Gtv,http://rihou.cc:555/tv/[4G]中天新闻
 中天新闻4Gtv,http://rihou.cc:555/tv/[4G]中天新聞
 猪哥亮厅4Gtv,http://rihou.cc:555/tv/[4G]猪哥亮厅
-
+纬来体育,http://rihou.cc:555/tv/STl纬来体育
 
 
 
@@ -1652,9 +1703,11 @@ rollor,https://stream1.freetv.fun/7800a2993b8300f0ec15bb3d01410220078c20af415866
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,rtmp://f13h.mine.nu:1935/sat/tv111
 華視HD,https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
 
 
