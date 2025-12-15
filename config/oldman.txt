@@ -13,7 +13,10 @@ Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 
-翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
 翡翠台,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 翡翠台,http://rihou.cc:555/tv/[Mt]无线翡翠
