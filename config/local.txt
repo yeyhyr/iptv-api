@@ -4,9 +4,13 @@
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
 
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
+
 
 Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
@@ -14,40 +18,29 @@ Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线翡翠,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线翡翠,http://r.jdshipin.com/GeWKr?id=mzt720
 
 无线翡翠4K,https://hk.188766.xyz/?migutoken=11fa3e64ea0083791f9759b25259d0d5&id=hk_fct4k&type=dy
 
 
+无线明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+无线明珠,http://php.jdshipin.com:8880/iptv.php?id=mzt
+无线明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+无线明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 无线明珠,https://hk.188766.xyz/?migutoken=e61d53f1ca3c68507269c19bbeab5b7f&id=hk_mzt&type=dy
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
@@ -56,6 +49,7 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
 无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
 无线明珠,http://bxtv.3a.ink/api.php?id=mz
+
 
 无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
@@ -78,14 +72,14 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+无线星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-
 无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
-
+无线星河（国）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
 无线功夫,https://hk.188766.xyz/?migutoken=aad571c466167a4aedb75d5a125e8b49&id=hk_yzwx&type=dy
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
@@ -93,18 +87,33 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
 
 
+TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
+
+
 无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
+无线千禧,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 无线千禧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
+无线千禧,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+无线千禧,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+无线千禧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+
 
 
 
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+
 无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
+
 
 有线综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 
@@ -115,6 +124,10 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+
+
 
 ANIMAX(香港),http://tl.061833.xyz/tl/animax
 
@@ -141,16 +154,20 @@ Now直播,http://rihou.cc:555/tv/MtlNow直播
 天映频道国语,http://rihou.cc:555/tv/STl天映频道
 天映经典,http://rihou.cc:555/tv/STl天映经典
 
-VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://rihou.cc:555/tv/MtlVIUTV粤
 VIUTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
 
+VIUTV英,http://r.jdshipin.com/vSJvl
+VIUTV英,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIUTV英,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 VIUTV英,http://rihou.cc:555/tv/MtlVIUTV英
 VIUTV英,https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
 
-VIUTV1台,http://rihou.cc:555/tv/MtlVIUTV壹
-VIUTV2台,http://rihou.cc:555/tv/MtlVIUTV贰
 
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 有线综合,http://rihou.cc:555/tv/Mtl有线综合
@@ -217,7 +234,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 Now英超1台,http://rihou.cc:555/tv/XSlNow英超
 Now英超,http://rihou.cc:555/tv/XSlNow英超
@@ -385,6 +402,8 @@ tvbS综艺4Gtv,http://rihou.cc:555/tv/[4G]tvbS综艺
 猪哥亮厅4Gtv,http://rihou.cc:555/tv/[4G]猪哥亮厅
 纬来体育,http://rihou.cc:555/tv/STl纬来体育
 
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
 
 
 
@@ -1592,12 +1611,42 @@ tvbs新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
 非凡新闻,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8?proxy=true
 非凡新闻,rtmp://f13h.mine.nu:1935/sat/tv581
 闽镜新闻,http://152.32.229.52:5050/4gtv-4gtv075/index.m3u8?proxy=true
-民视新闻,http://152.32.229.52:5050/litv-ftv13/index.m3u8?proxy=true
+
+
 中视新闻,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8?proxy=true
+中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-6.m3u8
+
 华视新闻,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8?proxy=true
+
+
+
+台视HD,rtmp://f13h.mine.nu/sat/tv071
+台视HD,https://stream1.freetv.fun/b56616ca791b5b2b499c15067c91ada89782e642978a957edec7038d5b5cd248.ctv
+台视HD,rtmp://f13h.mine.nu:1935/sat/tv071
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8?proxy=true
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-5.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-7.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+
+
+
+
+民视,https://stream1.freetv.fun/min-shi-1.m3u8
 民视闽南,http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视闽南,http://152.32.229.52:5050/4gtv-4gtv155/index.m3u8?proxy=true
+民视新闻,http://152.32.229.52:5050/litv-ftv13/index.m3u8?proxy=true
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+
 中视闽南,http://152.32.229.52:5050/4gtv-4gtv040/index.m3u8?proxy=true
 华视闽南,http://152.32.229.52:5050/4gtv-4gtv041/index.m3u8?proxy=true
 台视闽南,http://152.32.229.52:5050/4gtv-4gtv066/index.m3u8?proxy=true
@@ -1635,8 +1684,9 @@ tvbs台剧,http://152.32.229.52:5050/4gtv-live088/index.m3u8?proxy=true
 靖天映画,http://152.32.229.52:5050/4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,http://152.32.229.52:5050/4gtv-4gtv058/index.m3u8?proxy=true
 
-
-
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+CNN,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 
 
@@ -1667,9 +1717,7 @@ rollor,https://stream1.freetv.fun/7800a2993b8300f0ec15bb3d01410220078c20af415866
 人間衛視,https://stream1.freetv.fun/deb275c8240dc42c4dd7fd690936326d3764e97addbcdbda7e8c5148eade104e.m3u8
 人間衛視,https://stream1.freetv.fun/e99f84db7af77f8299a00e9ac8e49b32251360693a2c4802fc1e3aa91e942da2.m3u8
 公視臺語臺,https://stream1.freetv.fun/529550b78324d2bdefb0fe08cfd31c5482661dbbac741711047d41c87c941435.ctv
-台視HD,rtmp://f13h.mine.nu/sat/tv071
-台視HD,https://stream1.freetv.fun/b56616ca791b5b2b499c15067c91ada89782e642978a957edec7038d5b5cd248.ctv
-台視HD,rtmp://f13h.mine.nu:1935/sat/tv071
+
 國會頻道1,https://stream1.freetv.fun/512cd4edeb7160ca02542585a638ec0508c099008368e203dd41c0d924ff6e78.m3u8
 國會頻道2,https://stream1.freetv.fun/8cdd553a812ddd9a4657531eaf33a235a34febea6cb124e29c6357c6649fb275.m3u8
 東森亞洲新聞,https://stream1.freetv.fun/769243f668e6ffa1dfcbf56f1dcc086f47c3a2cbc8f83af53fefbe2f6d7462c4.m3u8
@@ -1709,7 +1757,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
-
+ANN日本新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 
 
 📡VPN央视频道,#genre#
