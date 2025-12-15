@@ -4,9 +4,7 @@
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
 
-无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-12.m3u8
-无线新闻,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
-无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-2.ctv
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 
@@ -15,6 +13,34 @@ Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
+
+
+
+
+
+
+
+
+
+
+
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+
+
+TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河台国,http://php.jdshipin.com/smt.php?id=Xinhe
+TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+
+
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+无线翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线翡翠,https://hk.188766.xyz/?migutoken=83a1ce8639ed5abcbad4c120b73fd0ec&id=hk_fct&type=dy
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
@@ -27,11 +53,15 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 无线明珠,https://hk.188766.xyz/?migutoken=e61d53f1ca3c68507269c19bbeab5b7f&id=hk_mzt&type=dy
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
 无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
 无线明珠,http://bxtv.3a.ink/api.php?id=mz
 
+无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+
 
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
@@ -48,17 +78,20 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
 
 无线功夫,https://hk.188766.xyz/?migutoken=aad571c466167a4aedb75d5a125e8b49&id=hk_yzwx&type=dy
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
 
+无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 
 无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
 
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
@@ -188,6 +221,9 @@ Now爆谷粤bx,http://rihou.cc:555/tv/[Bx]Now爆谷
 凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+
+
 Now英超1台,http://rihou.cc:555/tv/XSlNow英超
 Now英超,http://rihou.cc:555/tv/XSlNow英超
 Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
@@ -196,6 +232,11 @@ Now体育,http://rihou.cc:555/tv/XSlNow体育
 Now体育,http://rihou.cc:555/tv/MtlNow体育
 纬来体育,http://rihou.cc:555/tv/STl纬来体育
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+
+Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+
 
 🌊冰雪港澳,#genre#
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
@@ -962,6 +1003,7 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 
 ☘️国外频道,#genre#
