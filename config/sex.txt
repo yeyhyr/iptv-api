@@ -16,50 +16,83 @@
 
 
 ☘️测试,#genre#
-x4men,http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215650
-b la la,http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
-xmen4,http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215576
-o la la,http://31.148.48.15:80/O-la-la/index.m3u8
-pxz,http://206.212.244.47:8080/X5xRz0/944877/159952
-playboys,http://31.148.48.15/Playboy_TV/playlist.m3u8
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
-TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
-重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
-综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
-TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
 
-天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
+TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
+ 
+Love Nature（汉）,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
+ 
+民视台湾,http://152.32.229.52:5050/4gtv-4gtv001/index.m3u8?proxy=true
+民视,http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
+民视第一,http://152.32.229.52:5050/4gtv-4gtv003/index.m3u8?proxy=true
+民视综艺,http://152.32.229.52:5050/4gtv-4gtv004/index.m3u8?proxy=true
+猪歌亮经典秀,http://152.32.229.52:5050/4gtv-4gtv006/index.m3u8?proxy=true
+中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
+非凡新闻,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8?proxy=true
 影迷数位电影,http://152.32.229.52:5050/4gtv-4gtv011/index.m3u8?proxy=true
-
+CNEX纪录片,http://152.32.229.52:5050/4gtv-4gtv013/index.m3u8?proxy=true
+时尚运动,http://152.32.229.52:5050/4gtv-4gtv014/index.m3u8?proxy=true
+韩国娱乐,http://152.32.229.52:5050/4gtv-4gtv016/index.m3u8?proxy=true
 amc电影,http://152.32.229.52:5050/4gtv-4gtv017/index.m3u8?proxy=true
-1900影剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
-爱星影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9476806
+Da Vinci,http://152.32.229.52:5050/4gtv-4gtv018/index.m3u8?proxy=true
+八大精彩,http://152.32.229.52:5050/4gtv-4gtv034/index.m3u8?proxy=true
+八大综合,http://152.32.229.52:5050/4gtv-4gtv039/index.m3u8?proxy=true
+中视,http://152.32.229.52:5050/4gtv-4gtv040/index.m3u8?proxy=true
+华视新闻,http://152.32.229.52:5050/4gtv-4gtv041/index.m3u8?proxy=true
+公视戏剧,http://152.32.229.52:5050/4gtv-4gtv042/index.m3u8?proxy=true
+Hakka TV,http://152.32.229.52:5050/4gtv-4gtv043/index.m3u8?proxy=true
+靖天卡通,http://152.32.229.52:5050/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋戏剧,http://152.32.229.52:5050/4gtv-4gtv045/index.m3u8?proxy=true
+靖天综合,http://152.32.229.52:5050/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://152.32.229.52:5050/4gtv-4gtv047/index.m3u8?proxy=true
+非凡商业,http://152.32.229.52:5050/4gtv-4gtv048/index.m3u8?proxy=true
+采昌影剧,http://152.32.229.52:5050/4gtv-4gtv049/index.m3u8?proxy=true
+台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8?proxy=true
+华视新闻,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8?proxy=true
+Gio tv,http://152.32.229.52:5050/4gtv-4gtv053/index.m3u8?proxy=true
+靖天欢乐,http://152.32.229.52:5050/4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画,http://152.32.229.52:5050/4gtv-4gtv055/index.m3u8?proxy=true
+台视财经,http://152.32.229.52:5050/4gtv-4gtv056/index.m3u8?proxy=true
+靖洋卡通,http://152.32.229.52:5050/4gtv-4gtv057/index.m3u8?proxy=true
+靖天戏剧,http://152.32.229.52:5050/4gtv-4gtv058/index.m3u8?proxy=true
+古典音乐,http://152.32.229.52:5050/4gtv-4gtv059/index.m3u8?proxy=true
+靖天育乐,http://152.32.229.52:5050/4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际,http://152.32.229.52:5050/4gtv-4gtv063/index.m3u8?proxy=true
+中视菁采,http://152.32.229.52:5050/4gtv-4gtv064/index.m3u8?proxy=true
+靖天资讯,http://152.32.229.52:5050/4gtv-4gtv065/index.m3u8?proxy=true
+台视,http://152.32.229.52:5050/4gtv-4gtv066/index.m3u8?proxy=true
+TVBS精采,http://152.32.229.52:5050/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS欢乐,http://152.32.229.52:5050/4gtv-4gtv068/index.m3u8?proxy=true
+ELTA娱乐,http://152.32.229.52:5050/4gtv-4gtv070/index.m3u8?proxy=true
+TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
+TVBS,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
+中视新闻,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8?proxy=true
+镜新闻,http://152.32.229.52:5050/4gtv-4gtv075/index.m3u8?proxy=true
+亚洲旅游,http://152.32.229.52:5050/4gtv-4gtv076/index.m3u8?proxy=true
+trace sport,http://152.32.229.52:5050/4gtv-4gtv077/index.m3u8?proxy=true
+arirang lorea,http://152.32.229.52:5050/4gtv-4gtv079/index.m3u8?proxy=true
+中视经典,http://152.32.229.52:5050/4gtv-4gtv080/index.m3u8?proxy=true
+turban音乐,http://152.32.229.52:5050/4gtv-4gtv082/index.m3u8?proxy=true
+mezzo live,http://152.32.229.52:5050/4gtv-4gtv083/index.m3u8?proxy=true
+国会频道1,http://152.32.229.52:5050/4gtv-4gtv084/index.m3u8?proxy=true
+国会频道2,http://152.32.229.52:5050/4gtv-4gtv085/index.m3u8?proxy=true
+智林体育,http://152.32.229.52:5050/4gtv-4gtv101/index.m3u8?proxy=true
+戏剧 litv,http://152.32.229.52:5050/4gtv-4gtv104/index.m3u8?proxy=true
+中天亚洲,http://152.32.229.52:5050/4gtv-4gtv109/index.m3u8?proxy=true
+东森新闻,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
+东森财经新闻,http://152.32.229.52:5050/4gtv-4gtv153/index.m3u8?proxy=true
+民视,http://152.32.229.52:5050/4gtv-4gtv155/index.m3u8?proxy=true
+寰宇新闻台湾,http://152.32.229.52:5050/4gtv-4gtv156/index.m3u8?proxy=true
 
-私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
-峨眉电影,http://117.174.25.254:8188/rtp/239.0.0.9:5140$四川移动
-凤凰资讯,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
-RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
-凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+
 
 ☘️VPN 日本,#genre#
 JAPAN HDV,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
@@ -189,6 +222,8 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
 Russian,http://live.redtraffic.xyz:80/russian.m3u8
+o la la,http://31.148.48.15:80/O-la-la/index.m3u8
+playboys,http://31.148.48.15/Playboy_TV/playlist.m3u8
 BCU Charm HD,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/18053/manifest.m3u8
 Beate Uhse,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12163/manifest.m3u8
 Blacked,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6178/manifest.m3u8
