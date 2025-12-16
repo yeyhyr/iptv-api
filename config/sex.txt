@@ -44,53 +44,6 @@
 
 ☘️测试,#genre#
 
-13,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-30,https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
-32,https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
-33,https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-34,https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
-35,https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
-36,https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-37,https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
-38,https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
-39,https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
-40,https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
-41,https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
-44,https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
-45,https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
-46,https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
-47,https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
-49,https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
-52,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-57,https://stream.ads.ottera.tv/playlist.m3u8?network_id=58
-58,https://stream.ads.ottera.tv/playlist.m3u8?network_id=59
-59,https://stream.ads.ottera.tv/playlist.m3u8?network_id=60
-60,https://stream.ads.ottera.tv/playlist.m3u8?network_id=61
-62,https://stream.ads.ottera.tv/playlist.m3u8?network_id=63
-63,https://stream.ads.ottera.tv/playlist.m3u8?network_id=64
-64,https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
-69,https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
-70,https://stream.ads.ottera.tv/playlist.m3u8?network_id=71
-71,https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-72,https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
-73,https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
-75,https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
-76,https://stream.ads.ottera.tv/playlist.m3u8?network_id=77
-78,https://stream.ads.ottera.tv/playlist.m3u8?network_id=79
-79,https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
-80,https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
-81,https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
-82,https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
-83,https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
-84,https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
-92,https://stream.ads.ottera.tv/playlist.m3u8?network_id=93
-99,https://stream.ads.ottera.tv/playlist.m3u8?network_id=100
-101,https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
-114,https://stream.ads.ottera.tv/playlist.m3u8?network_id=115
-116,https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
-117,https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
-118,https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
-124,https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
 
 
 
