@@ -202,6 +202,8 @@ AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 
 
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
+
 八度空间,https://hk.188766.xyz/?migutoken=f9961c16cbc5673a85d7e539137bb9b6&id=hk_8tv&type=dy
 CHU,https://hk.188766.xyz/?migutoken=e34adace4dcf21caad14aaf3ffb38279&id=hk_chu&type=dy
 CH5,https://hk.188766.xyz/?migutoken=df27cb6da5fdf966df39542de4cc4a62&id=hk_ch5&type=dy
@@ -248,6 +250,8 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 Now英超1台,http://rihou.cc:555/tv/XSlNow英超
 Now英超,http://rihou.cc:555/tv/XSlNow英超
 Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
@@ -264,6 +268,8 @@ Astro劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -277,6 +283,13 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
+
+
+
+1900影剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
+爱星影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9476806
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 
 翡翠台,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 美亚電影台(香港),http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
@@ -310,8 +323,6 @@ Now爆谷粤bx,http://rihou.cc:555/tv/[Bx]Now爆谷
 无线明珠Bxtv,http://rihou.cc:555/tv/[Bx]无线明珠
 无线千禧Bxtv,http://rihou.cc:555/tv/[Bx]无线千禧
 无线赛马Bxtv,http://rihou.cc:555/tv/[Bx]无线赛马
-
-
 
 
 🌊冰雪港澳,#genre#
@@ -427,7 +438,8 @@ tvbS综艺4Gtv,http://rihou.cc:555/tv/[4G]tvbS综艺
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
 
-
+天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 
 📺央视频道,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
