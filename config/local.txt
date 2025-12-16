@@ -2016,9 +2016,6 @@ CHC影迷電影,https://stream1.freetv.fun/9c51861c134f5e2e53ef56eef8d4ca5ab3269
 
 苏州卫视,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
-
-📡VPN地方频道,#genre#
-
 📡VPN广东频道,#genre#
 南國都市,https://stream1.freetv.fun/e760fb5e5162fca504bcc3eb9c21b199906cb92bd109adc673650c26f69506d2.m3u8
 南國都市,https://stream1.freetv.fun/63b19e3d3d115230a2db8b1875129e25a56eb740187ccb2ca52bc8a6afa2b0b9.m3u8
@@ -2101,12 +2098,10 @@ CHC影迷電影,https://stream1.freetv.fun/9c51861c134f5e2e53ef56eef8d4ca5ab3269
 廣東珠江HD,https://stream1.freetv.fun/6115aadb0da4010b3ff3c49d52f5100c48686ce70329ddef796f995ac136111d.m3u8
 廣東珠江HD,https://stream1.freetv.fun/7f7f3d093404d862c4a47c81731ae346d9ad177ccd8c91326ec459db90b8a64a.m3u8
 廣東珠江HD,https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.ctv
-廣東珠江HD,https://stream1.freetv.fun/206a4d8ed30880e818bfc7088149ff72c90d86176e470bd749088207dcc13074.ctv
 廣東珠江HD,https://stream1.freetv.fun/f101bf561ce41aaba754005fbb7213b43b661cb62d41e6a17d9abcf64b6cd768.m3u8
 廣東珠江HD,https://stream1.freetv.fun/04428a48ff376402f2390af00c5f7dc8abc625e497b18839d7837c389edfb3d7.ctv
 廣東珠江HD,https://stream1.freetv.fun/254458c6c3c95a5477268ce2dd81aad42bf5da89f99c9815424b7583535aac3f.ctv
 廣東珠江HD,https://stream1.freetv.fun/c9e67a8d71df4c6411fd715e629eb179ea6eb30acd4d96efc45d8944110eb64e.ctv
-廣東珠江HD,https://stream1.freetv.fun/562fb4c226aada7876a3157d893a4dd00279cb69eecfadab3ca7a442f0d13722.ctv
 廣東珠江HD,https://stream1.freetv.fun/2c39014d4c282fc274d6267c1b797245535eda96d19f38a44ad4657e57d725d7.ctv
 廣東珠江HD,https://stream1.freetv.fun/76820ca40d39340e9c58b988a9b5bfd52535bf6089bd56d0b67e00c3f5c84af1.ctv
 廣東珠江HD,https://stream1.freetv.fun/72effab16f15ef42127e7de36a93863d61990a7cab75472df9027ba78e7b2440.m3u8
@@ -2124,22 +2119,7 @@ TV Asahi,https://nl.utako.moe/TV_Asahi/index.m3u8
 TV Tokyo,https://nl.utako.moe/TV_Tokyo/index.m3u8
 TOKYO MX1,https://nl.utako.moe/Tokyo_MX1/index.m3u8
 TOKYO MX2,https://nl.utako.moe/Tokyo_MX2/index.m3u8
-NHK G HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
-NHK E HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02
-NTV HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03
-TBS HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd04
-Fuji TV HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05
-TV Asahi HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06
-TV Tokyo HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07
-TOKYO MX1 HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08
-NHK G (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
-NHK E (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
-NTV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
-TBS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
-Fuji TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
-TV Asahi (NSFW) (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
-TV Tokyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
-TOKYO MX1 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
+
 
 ☘️VPN日本Kansai,#genre#
 MBS,https://nl.utako.moe/mbs/index.m3u8
@@ -2149,13 +2129,7 @@ Kansai TV,https://nl.utako.moe/kansaitv/index.m3u8
 ytv,https://nl.utako.moe/ytv/index.m3u8
 KBS,https://nl.utako.moe/kbs/index.m3u8
 SUN,https://nl.utako.moe/suntv/index.m3u8
-NHK G Osaka (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
-MBS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01
-ABC (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx02
-Kansai TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03
-ytv (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
-TV Osaka (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05
-SUN (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07
+
 
 ☘️VPN日本BS,#genre#
 NHK BS,https://nl.utako.moe/NHK_BS/index.m3u8
@@ -2174,32 +2148,12 @@ JSport 1,https://nl.utako.moe/js1/index.m3u8
 JSport 2,https://nl.utako.moe/js2/index.m3u8
 JSport 3,https://nl.utako.moe/js3/index.m3u8
 JSport 4,https://nl.utako.moe/js4/index.m3u8
+
 Green Channel,https://nl.utako.moe/green/index.m3u8
 Animax,https://nl.utako.moe/Animax/index.m3u8
 Nihon Eiga Senmon,https://nl.utako.moe/nihoneiga/index.m3u8
 Sky A,https://nl.utako.moe/skya/index.m3u8
-NHK BS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11
-BS NTV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02
-BS Asahi (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs03
-BS TBS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs04
-BS TV Tokyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs05
-BS Fuji (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs06
-NHK BS4K (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01
-WOWOW Prime (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12
-WOWOW Cinema (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs07
-WOWOW Live (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20
-BS 10 Star Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08
-JSport 1 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18
-JSport 2 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs19
-JSport 3 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs21
-JSport 4 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22
-Green Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14
-Animax (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15
-Nihon Eiga Senmon (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23
-Sky A (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
-Fishing Vision (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25
-Disney Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24
-JCOM BS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
+
 
 ☘️VPN日本CS,#genre#
 Gaora Sports,https://nl.utako.moe/gaora/index.m3u8
@@ -2209,12 +2163,10 @@ MTV,https://nl.utako.moe/mtv/index.m3u8
 Kayo Pops,https://nl.utako.moe/kayopops/index.m3u8
 Kids Staton,https://nl.utako.moe/kids_station/index.m3u8
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
-https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg,https://nl.utako.moe/cartoon_network/index.m3u8
 Nittele G+,https://nl.utako.moe/ntvgplus/index.m3u8
 Family Gekijyo,https://nl.utako.moe/familygeki/index.m3u8
 Mondo TV,https://nl.utako.moe/mondo/index.m3u8
 Music ON TV,https://nl.utako.moe/musicon/index.m3u8
-Mnet,https://nl.utako.moe/mnet/index.m3u8
 TBS Channel 1,https://nl.utako.moe/tbsch1/index.m3u8
 TBS Channel 2,https://nl.utako.moe/tbsch2/index.m3u8
 TV Asahi Channel 1,https://nl.utako.moe/ex_ch1/index.m3u8
@@ -2233,37 +2185,6 @@ Channel Ginga,https://nl.utako.moe/gingach/index.m3u8
 Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
 Pigoo (NSFW),https://nl.utako.moe/pigoo/index.m3u8
 V Paradise (NSFW),https://nl.utako.moe/v_paradise/index.m3u8
-Jidaigeki Senmon (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04
-Toei Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27
-Eisei Gekijo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22
-Family Gekijyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20
-Movie Plus (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14
-Home Drama Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05
-Tabi Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12
-Fuji TV Next (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26
-Sky A  (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
-GAORA SPORTS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17
-Golf Network (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03
-Nittele G+ (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs02
-Mondo TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21
-Channel Ginga (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
-Space Shower TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26
-Music Japan TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06
-Kayo Pops (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13
-MTV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18
-LaLa TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19
-Takarazuka Sky Stage (Primehome),https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
-Kids Staton TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07
-Cartoon Network (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25
-National Geographic Japan (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10
-Disney Junior (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
-Discovery Channel (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08
-Animal Planet (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24
-History (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09
-CNNj (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
-BBC News (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
-TBS News (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
-
 
 ☘️VPN韓國,#genre#
 Arirang TV,https://stream1.freetv.fun/2e63bb7d7fb069be5166f7dd990f700e07b5c44aea9c717275c1ed7053759ab3.m3u8
