@@ -12,55 +12,52 @@
 
 
 ☘️VPN日本Tokyo,#genre#
-TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
-TVB翡翠台 H.265,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d
-TVB Plus(低延时),p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
-TVB Plus H.265,p3p://167.114.175.6:55331/653e4d3e000b344f0c91357e73163f82
-TVB无线新闻,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
-TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
-TVB无线新闻 H.265,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e
-TVB财体资讯,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
-TVB财体资讯 H.265,p3p://167.114.175.6:55331/611d989d0005244a4a7f24d111282ffb
-TVB明珠,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
-TVB明珠 H.265,p3p://167.114.175.6:55331/602f1ba9000814efa6f2970333d309d9
-Viu TV,p3p://167.114.175.6:55331/611d99820007a67c4a82a3fe3cc749de
-VIU TV H.265,p3p://167.114.175.6:55331/5fed3234000c7a49a57dbd6e14af358f
-VIU 6,p3p://167.114.175.6:55331/5fed31e7000736e2a57c8f4c14d55d36
-凤凰电影,p3p://167.114.175.6:55331/65ac2b5d00016c25b9badc664c7548fd
-香港国际财经,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7
-HOY资讯,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
-HOY TV,p3p://167.114.175.6:55331/62184bc3000cd48f11e47b06202b7e18
-TVB娱乐新闻,p3p://167.114.175.6:55331/5fe7f68d000e73d9910d2a86341258f7
-黄金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
-KTSF-26,p3p://167.114.175.6:55331/6707fd9800050f5c45c7ba6968f47d24
-TVB经典,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
-TVB功夫台,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
-TVB华语剧,p3p://167.114.175.6:55331/653e4acf0006e0e80c87b2c8194d5791
-TVB粤语片,p3p://167.114.175.6:55331/653e4b8d00001a450c8a973c06325101
+
 
 
 ☘️测试,#genre#
 
+有线新闻频道,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+无线新闻高清HD公众源,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 
-无线翡翠高码,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-ViuTv_粤高码,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-ViuTv_英高码,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-
-
-
-RTHK-32高码,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
-RTHK-33高码,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-RTHK-34高码,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-
+ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+天映频道粤高,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv18_twn
+美亚电影国高,https://fr-us7.jdiptv.cc/live/xgmydygy.m3u8http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+美亚电影标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
 
 
+翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 
 
+翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
+亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+澳門Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 
-
+TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河台,http://php.jdshipin.com/smt.php?id=Xinhe
+千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
 
 
