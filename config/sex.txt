@@ -16,49 +16,45 @@
 
 
 ☘️测试,#genre#
+中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
+TVBS新聞台,http://122.117.71.103:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
+緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
+好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息2台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-有线新闻频道,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-无线新闻高清HD公众源,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 
-ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-天映频道粤高,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv18_twn
-美亚电影国高,https://fr-us7.jdiptv.cc/live/xgmydygy.m3u8http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-美亚电影标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
-
-
-翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+卡塔尔·半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8#https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CBS新闻,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+GB新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+欧洲·Eurosport2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 
-翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+中天新闻[1920x1080],http://222.128.55.152:9080/live/fc.m3u8
+寰宇新闻[1920x1080],http://222.128.55.152:9080/live/hy.m3u8
+台视新闻[1920x1080],http://222.128.55.152:9080/live/ts.m3u8
+TVB无线新闻[1920x1080],http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+有线新闻[1920x1080],http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+翡翠台[1920x1080],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
-亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-澳門Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 
-TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河台,http://php.jdshipin.com/smt.php?id=Xinhe
-千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-
+亚洲新闻[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
 
