@@ -4,16 +4,19 @@
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
 
-
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线新闻,https://hk.188766.xyz/?migutoken=e1484e77f68d8fc4e87187c7de6785e3&id=hk_wxxw&type=dy
 
+Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 
 
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -27,15 +30,19 @@ Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 
 娱乐新闻台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 
 TVBJ1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 TVBJade台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
-
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
@@ -45,6 +52,8 @@ TVBJade台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 
