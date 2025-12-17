@@ -45,11 +45,6 @@
 ☘️测试,#genre#
 
 
-NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
-
-
 
 ☘️VPN 日本,#genre#
 JAPAN HDV,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
