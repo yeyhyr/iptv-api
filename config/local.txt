@@ -144,17 +144,6 @@ ANIMAX(香港),http://tl.061833.xyz/tl/animax
 pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 
-Now星影,http://rihou.cc:555/tv/MtlNow星影
-Now星影,http://rihou.cc:555/tv/BxlNow星影
-Now星影,http://bxtv.3a.ink/api.php?id=xingying
-Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
-Now星影,http://bxtv.3a.ink/api.php?id=xingying
-
-Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-Now爆谷,http://bxtv.3a.ink/api.php?id=baogu
-Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
-Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
-NOW爆谷,http://bxtv.3a.ink/api.php?id=baogu
 
 Now财经,http://rihou.cc:555/tv/MtlNow财经
 
@@ -304,6 +293,9 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 🌊日后港澳,#genre#
 有线新闻欣赏,http://rihou.cc:555/tv/[FY]有线新闻
 无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
+无线新闻SXtv,http://rihou.cc:555/tv/[SX]无线新闻
+无线翡翠SXtv,http://rihou.cc:555/tv/[SX]无线翡翠
+无线明珠SXtv,http://rihou.cc:555/tv/[SX]无线明珠
 Plus综合欣赏,http://rihou.cc:555/tv/[Pd]Plus综合
 Now星影粤bx,http://rihou.cc:555/tv/[Bx]Now星影
 Now爆谷粤bx,http://rihou.cc:555/tv/[Bx]Now爆谷
@@ -333,9 +325,24 @@ Now紫金欣赏,http://rihou.cc:555/tv/[Hk]Now紫金
 凤凰中文欣赏,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯欣赏,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港欣赏,http://rihou.cc:555/tv/[Pd]凤凰香港
+
+凤凰中文SXtv,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰资讯SXtv,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港SXtv,http://rihou.cc:555/tv/[SX]凤凰香港
+无线千禧SXtv,http://rihou.cc:555/tv/[SX]无线千禧
 pₒₚc电影欣赏,http://rihou.cc:555/tv/[Hk]pₒₚc电影
-
-
+美亚电影国Sx,http://rihou.cc:555/tv/[SX]美亚电影
+天映频道国Sx,http://rihou.cc:555/tv/[SX]天映频道
+天映经典粤Sx,http://rihou.cc:555/tv/[SX]天映经典
+VIUTV'粤SXtv,http://rihou.cc:555/tv/[SX]VIUTV粤
+VIUTV'英SXtv,http://rihou.cc:555/tv/[SX]VIUTV英
+tvbS新闻SXtv,http://rihou.cc:555/tv/[SX]tvbS新闻
+AstroaodSXtv,http://rihou.cc:555/tv/[SX]Astroaod
+AstroAecSXtv,http://rihou.cc:555/tv/[SX]AstroAec
+Astro_QJSXtv,http://rihou.cc:555/tv/[SX]Astro_QJ
+Astro爱奇sxtv,http://rihou.cc:555/tv/[SX]Astro爱奇
+Astro欢喜sxtv,http://rihou.cc:555/tv/[SX]Astro欢喜
+八度空间SXtv,http://rihou.cc:555/tv/[SX]八度空间
 
 
 
@@ -1598,6 +1605,22 @@ ViuTV HD,https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c75
 ViuTV HD,https://stream1.freetv.fun/acf28668e5790e2d2ac642051e52d00b0ea2372b79f0526617aa30a9af34b16b.ct
 now Sports 3,https://stream1.freetv.fun/bcd919dbb5fcd2a8cbe5a7b2eb4d34c98cb1e59ddce51d34e143382ae0a06c04.ctv
 snaap!,https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc07104336818f2b841c1fae70b.m3u8
+有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+
+无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
+
+澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
+重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
 明珠臺(備),https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 明珠臺(備),https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.ctv
 明珠臺(備),https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
@@ -1744,6 +1767,17 @@ tvbs台剧,http://152.32.229.52:5050/4gtv-live088/index.m3u8?proxy=true
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 
+龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华洋片Pdtv,http://rihou.cc:555/tv/[Pd]龙华洋片
+龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华卡通Pdtv,http://rihou.cc:555/tv/[Pd]龙华卡通
+龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 
 
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
