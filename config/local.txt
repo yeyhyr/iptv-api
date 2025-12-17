@@ -289,7 +289,6 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 
 
-
 🌊日后港澳,#genre#
 有线新闻欣赏,http://rihou.cc:555/tv/[FY]有线新闻
 无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
@@ -344,6 +343,36 @@ Astro爱奇sxtv,http://rihou.cc:555/tv/[SX]Astro爱奇
 Astro欢喜sxtv,http://rihou.cc:555/tv/[SX]Astro欢喜
 八度空间SXtv,http://rihou.cc:555/tv/[SX]八度空间
 
+tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS闽南
+pₒₚc电影Hktv,http://rihou.cc:555/tv/[Hk]pₒₚc电影
+无线功夫国hk,http://rihou.cc:555/tv/[Hk]无线功夫
+无线星河国hk,http://rihou.cc:555/tv/[Hk]无线星河
+无线生活Hktv,http://rihou.cc:555/tv/[Hk]无线生活
+无线翡剧Hktv,http://rihou.cc:555/tv/[Hk]无线翡剧
+无线明剧Hktv,http://rihou.cc:555/tv/[Hk]无线明剧
+无线奖门Hktv,http://rihou.cc:555/tv/[Hk]无线奖门
+无线金曲Hktv,http://rihou.cc:555/tv/[Hk]无线金曲
+黄金翡翠Hktv,http://rihou.cc:555/tv/[Hk]黄金翡翠
+黄金华剧Hktv,http://rihou.cc:555/tv/[Hk]黄金华剧
+澳视澳门FYtv,http://iptv.4666888.xyz/iptv2A.php?id=41
+凤凰中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=27
+有线新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=31
+无线翡翠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=34
+无线华丽FYtv,http://iptv.4666888.xyz/iptv2A.php?id=28
+无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
+无线娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=36
+无线千禧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=22
+无线1_美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
+无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
+无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
+有线综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=35
+美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
+tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
+纬来电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=40
+东森电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=48
+中天新闻Hktv,http://rihou.cc:555/tv/[Hk]中天新聞
+寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
+中视新闻Hktv,http://rihou.cc:555/tv/[Hk]中视新闻
 
 
 
@@ -806,6 +835,7 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-1.m3u8
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8
+广东体育FYtv,http://iptv.4666888.xyz/iptv2A.php?id=20
 
 广东新闻,https://hk.188766.xyz/?migutoken=303d604cced0618c4c8ee795416ca0bc&id=gd_gdxw&type=sz
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.m3u8
@@ -819,6 +849,7 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-17.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-29.m3u8
 广东珠江高清,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-3.m3u8
+广东珠江FYtv,http://iptv.4666888.xyz/iptv2A.php?id=19
 
 广东民生,https://hk.188766.xyz/?migutoken=fbe1a0213012c8a22f316d5875866da1&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-17.ctv
@@ -1609,6 +1640,10 @@ snaap!,https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc0710433
 有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
 无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
+NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
+
 
 无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
 无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
