@@ -43,46 +43,58 @@
 
 
 ☘️测试,#genre#
+中天综合,http://51.89.166.17:3002/index.php?id=ctizhonghe
+中天娱乐,http://51.89.166.17:3002/index.php?id=ctient
+中天亚洲,http://51.89.166.17:3002/index.php?id=ctiasia_twn
+中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
+中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+中视闽南,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
+中视经典,http://51.89.166.17:3002/index.php?id=zhongshi_twn
+无线新闻,https://migu.188766.xyz/?migutoken=fee1ba90d853e4ece4c07da075f00064&id=inews_twn&type=dy
+天映经典,https://migu.188766.xyz/?migutoken=617d2dca7fc3014130a4fca92d16fd19&id=Celestial2&type=dy
+天映电影,https://migu.188766.xyz/?migutoken=bf4522502bd22bb22605c94b4d8086ba&id=Celestial&type=dy
+台视综合,http://51.89.166.17:3002/index.php?id=ttvzhonghe
+台视新闻,http://51.89.166.17:3002/index.php?id=ttvnews_twn
+台视闽南,http://51.89.166.17:3002/index.php?id=ttv_taiwan
+千禧经典,https://migu.188766.xyz/?migutoken=dad4503c8b400ac1f43c2729d4ce4f5a&id=Tvbclassic&type=dy
+年代新闻,http://51.89.166.17:3002/index.php?id=niandainews_twn
+明珠台,https://migu.188766.xyz/?migutoken=2bd0dfb9296733bb9136f23cda590141&id=pearl_twn&type=dy
+民视新闻,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+民视台湾,http://51.89.166.17:3002/index.php?id=ftvtaiwan_twn
+民视闽南,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
+民视第一,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
+寰宇新闻,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
+华视闽南,http://51.89.166.17:3002/index.php?id=ctshd_twn
+华丽翡翠台,https://migu.188766.xyz/?migutoken=cba20a74b270c02a491a119c29685fbf&id=Tvbjade&type=dy
+公视台语,http://51.89.166.17:3002/index.php?id=ctv2_twn
+凤凰资讯,https://migu.188766.xyz/?migutoken=d7e4ffb871febce65d0047d724cd0601&id=phoenixinfo_hd&type=dy
+凤凰资讯,https://migu.188766.xyz/?migutoken=ac12c4f16c20b5ca01938c5bf4cebf16&id=fhzx&pp=1
+凤凰中文,https://migu.188766.xyz/?migutoken=bef191b350c3bbe0dfb2d62c13b004b0&id=phoenixtv_hd&type=dy
+凤凰中文,https://migu.188766.xyz/?migutoken=a8f161c632e6f8b02ce63c1d8568f0e9&id=fhzw&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=7ec4cb8be4f5917cbb251e1d4f1faf34&id=fhhk&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=7cf7ff1c8c1cc5004e50234a482f596e&id=hkphoenix_twn&type=dy
+翡翠台,https://migu.188766.xyz/?migutoken=a3053965d7cbe307fc5da9abcf4dde7e&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+翡翠台,https://migu.188766.xyz/?migutoken=7db8ffb9b5a2e21d44f7d5128246ca04&id=jade_twn&type=dy
+非凡新闻,http://51.89.166.17:3002/index.php?id=feifannews_twn
+东森综合,http://51.89.166.17:3002/index.php?id=ettvzhonghe
+东森洋片,http://51.89.166.17:3002/index.php?id=ettvwestern
+东森新闻,http://51.89.166.17:3002/index.php?id=ettvnews
+东森戏剧,http://51.89.166.17:3002/index.php?id=ettvdrama
+八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
+八大娱乐,http://51.89.166.17:3002/index.php?id=badaentertain
+八大戏剧,http://51.89.166.17:3002/index.php?id=badadrama
+八大第一,http://51.89.166.17:3002/index.php?id=badafirst
+TVB星河,https://migu.188766.xyz/?migutoken=f36d19ed3c75c870883a9c4e6ee70128&id=Xinhe&type=dy
+tvbs新闻,http://51.89.166.17:3002/index.php?id=tvbs_n
+tvbs闽南,http://51.89.166.17:3002/index.php?id=tvbs
+tvbs欢乐,http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
+Discover,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
+Astro 欢喜,https://migu.188766.xyz/?migutoken=c21e9aecfdc794482e43e2d6ce82aba6&id=Huahee&type=dy
+Astro QJ,https://migu.188766.xyz/?migutoken=c77b8dec7d2da909575415787d64656c&id=Quanjia&type=dy
+Astro AOD,https://migu.188766.xyz/?migutoken=3c0f02487115aa1a310f9060cf94cf9f&id=Aodhd&type=dy
+Astro AEC,https://migu.188766.xyz/?migutoken=e283f91449a9f4e28f59dc981c7dfa15&id=AEC&type=dy
 
-综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
-重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
-无线新闻,https://cdn6.101.qzz.io/163189/wxxw
-无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
-无线翡翠,https://cdn6.101.qzz.io/163189/fct
-纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-民視綜藝，http://iptv.4666888.xyz/iptv2A.php?id=46
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
-美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-龍華电影，http://iptv.4666888.xyz/iptv2A.php?id=45
-靖天电影，http://iptv.4666888.xyz/iptv2A.php?id=56
-凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
-VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
-TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
-TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
-Plus综合,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-Astro 欢喜,https://migu.188766.xyz/?migutoken=92913d0328f2ac0e90cd85962dddf891&id=Huahee&type=dy
+
 
 
 ☘️VPN 日本,#genre#
