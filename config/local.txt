@@ -93,7 +93,7 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 
 无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河（国）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-
+无线星河（国）,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 
 
 
@@ -127,6 +127,11 @@ TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 
 
+
+
+
+无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
@@ -139,6 +144,9 @@ TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 
 有线综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 
 无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
 
@@ -257,6 +265,8 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
 
 Now英超1台,http://rihou.cc:555/tv/XSlNow英超
 Now英超,http://rihou.cc:555/tv/XSlNow英超
@@ -267,6 +277,11 @@ Now体育,http://rihou.cc:555/tv/MtlNow体育
 
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+
 Astro劇集,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
@@ -275,10 +290,19 @@ Astro劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+
+
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+香港有线18台,http://bxtv.3a.ink/api.php?id=18
+
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -517,86 +541,23 @@ TVB功夫,https://mgev.188766.xyz/?migutoken=e742b6af63dd75946218158d8526b201&id
 🌊台湾,#genre#
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-Amc电影4Gtv,http://rihou.cc:555/tv/[4G]Amc电影
-cnbc财经4Gtv,http://rihou.cc:555/tv/[4G]cnbc财经
-DW_之声4Gtv,http://rihou.cc:555/tv/[4G]DW_之声
-ELta旅游4Gtv,http://rihou.cc:555/tv/[4G]ELta旅游
-ELta娱乐4Gtv,http://rihou.cc:555/tv/[4G]ELta娱乐
-Fgm电影4Gtv,http://rihou.cc:555/tv/[4G]Fgm电影
-FRANCE4Gtv,http://rihou.cc:555/tv/[4G]FRANCE
-GLOBAL4Gtv,http://rihou.cc:555/tv/[4G]GLOBAL
-HItS电影4Gtv,http://rihou.cc:555/tv/[4G]HItS电影
-HqkkqTV4Gtv,http://rihou.cc:555/tv/[4G]HqkkqTV
-LifeTime4Gtv,http://rihou.cc:555/tv/[4G]LifeTime
-LUXE-TV4Gtv,http://rihou.cc:555/tv/[4G]LUXE-TV
-MAGEllA4Gtv,http://rihou.cc:555/tv/[4G]MAGEllA
+
 MEZZOl4Gtv,http://210.61.15.55:50007/4gtv-4gtv083/index.m3u8?proxy=true
 MEZZOl4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv083/index.m3u8?proxy=true
-NHK日本4Gtv,http://rihou.cc:555/tv/[4G]NHK日本
-rock娱乐4Gtv,http://rihou.cc:555/tv/[4G]rock娱乐
 TRACEU4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv082/index.m3u8?proxy=true
-tvbS欢乐4Gtv,http://rihou.cc:555/tv/[4G]tvbS欢乐
-tvbS精采4Gtv,http://rihou.cc:555/tv/[4G]tvbS精采
-tvbS闽南4Gtv,http://rihou.cc:555/tv/[4G]tvbS闽南
-tvbS新闻4Gtv,http://rihou.cc:555/tv/[4G]tvbS新闻
-tvbS综艺4Gtv,http://rihou.cc:555/tv/[4G]tvbS综艺
 阿里郎台4Gtv,http://210.61.15.55:50007/4gtv-4gtv079/index.m3u8?proxy=true
 阿里郎台4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv079/index.m3u8?proxy=true
-采昌影剧4Gtv,http://rihou.cc:555/tv/[4G]采昌影剧
-大爱贰高4Gtv,http://rihou.cc:555/tv/[4G]大爱贰高
-大爱壹高4Gtv,http://rihou.cc:555/tv/[4G]大爱壹高
-东森财经4Gtv,http://rihou.cc:555/tv/[4G]东森财经
-东森新闻4Gtv,http://rihou.cc:555/tv/[4G]东森新闻
-公视戏剧4Gtv,http://rihou.cc:555/tv/[4G]公视戏剧
-国会频贰4Gtv,http://rihou.cc:555/tv/[4G]国会频贰
-国会频壹4Gtv,http://rihou.cc:555/tv/[4G]国会频壹
-国际财经4Gtv,http://rihou.cc:555/tv/[4G]国际财经
-国家地理4Gtv,http://rihou.cc:555/tv/[4G]国家地理
-韩国娱乐4Gtv,http://rihou.cc:555/tv/[4G]韩国娱乐
-好消息贰4Gtv,http://rihou.cc:555/tv/[4G]好消息贰
-好消息壹4Gtv,http://rihou.cc:555/tv/[4G]好消息壹
-华视闽南4Gtv,http://rihou.cc:555/tv/[4G]华视闽南
-华视新闻4Gtv,http://rihou.cc:555/tv/[4G]华视新闻
-寰宇闽南4Gtv,http://rihou.cc:555/tv/[4G]寰宇闽南
-寰宇新闻4Gtv,http://rihou.cc:555/tv/[4G]寰宇新闻
-健康频道4Gtv,http://rihou.cc:555/tv/[4G]健康频道
-靖天电影4Gtv,http://rihou.cc:555/tv/[4G]靖天电影
-靖天国际4Gtv,http://rihou.cc:555/tv/[4G]靖天国际
-靖天欢乐4Gtv,http://rihou.cc:555/tv/[4G]靖天欢乐
-靖天日本4Gtv,http://rihou.cc:555/tv/[4G]靖天日本
-靖天戏剧4Gtv,http://rihou.cc:555/tv/[4G]靖天戏剧
-靖天映画4Gtv,http://rihou.cc:555/tv/[4G]靖天映画
-靖天育乐4Gtv,http://rihou.cc:555/tv/[4G]靖天育乐
-靖天资讯4Gtv,http://rihou.cc:555/tv/[4G]靖天资讯
-靖天综合4Gtv,http://rihou.cc:555/tv/[4G]靖天综合
-空间居家4Gtv,http://rihou.cc:555/tv/[4G]空间居家
-美国之音4Gtv,http://rihou.cc:555/tv/[4G]美国之音
-民视第一4Gtv,http://rihou.cc:555/tv/[4G]民视第一
-民视闽南4Gtv,http://rihou.cc:555/tv/[4G]民视闽南
-民视闽南4Gtv,http://rihou.cc:555/tv/[4G]民视南闽
-民视闽语4Gtv,http://rihou.cc:555/tv/[4G]民视闽语
-民视新闻4Gtv,http://rihou.cc:555/tv/[4G]民视新闻
-民视影剧4Gtv,http://rihou.cc:555/tv/[4G]民视影剧
-民视综艺4Gtv,http://rihou.cc:555/tv/[4G]民视综艺
-闽镜新闻4Gtv,http://rihou.cc:555/tv/[4G]闽镜新闻
-全球财经4Gtv,http://rihou.cc:555/tv/[4G]全球财经
-人间卫视4Gtv,http://rihou.cc:555/tv/[4G]人间卫视
-三立新闻4Gtv,http://rihou.cc:555/tv/[4G]三立新闻
-三立综合4Gtv,http://rihou.cc:555/tv/[4G]三立综合
-中视经典4Gtv,http://rihou.cc:555/tv/[4G]中视经典
-中视菁采4Gtv,http://rihou.cc:555/tv/[4G]中视菁采
-中视闽南4Gtv,http://rihou.cc:555/tv/[4G]中视闽南
-中视新闻4Gtv,http://rihou.cc:555/tv/[4G]中视新闻
-中天新闻4Gtv,http://rihou.cc:555/tv/[4G]中天新闻
-中天新闻4Gtv,http://rihou.cc:555/tv/[4G]中天新聞
-猪哥亮厅4Gtv,http://rihou.cc:555/tv/[4G]猪哥亮厅
-纬来体育,http://rihou.cc:555/tv/STl纬来体育
+
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
 
 天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+
+台湾台,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 📺央视频道,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
