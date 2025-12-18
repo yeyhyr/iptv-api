@@ -43,57 +43,51 @@
 
 
 ☘️测试,#genre#
-中天综合,http://51.89.166.17:3002/index.php?id=ctizhonghe
-中天娱乐,http://51.89.166.17:3002/index.php?id=ctient
-中天亚洲,http://51.89.166.17:3002/index.php?id=ctiasia_twn
-中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
-中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
-中视闽南,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
-中视经典,http://51.89.166.17:3002/index.php?id=zhongshi_twn
-无线新闻,https://migu.188766.xyz/?migutoken=fee1ba90d853e4ece4c07da075f00064&id=inews_twn&type=dy
-天映经典,https://migu.188766.xyz/?migutoken=617d2dca7fc3014130a4fca92d16fd19&id=Celestial2&type=dy
-天映电影,https://migu.188766.xyz/?migutoken=bf4522502bd22bb22605c94b4d8086ba&id=Celestial&type=dy
-台视综合,http://51.89.166.17:3002/index.php?id=ttvzhonghe
-台视新闻,http://51.89.166.17:3002/index.php?id=ttvnews_twn
-台视闽南,http://51.89.166.17:3002/index.php?id=ttv_taiwan
-千禧经典,https://migu.188766.xyz/?migutoken=dad4503c8b400ac1f43c2729d4ce4f5a&id=Tvbclassic&type=dy
-年代新闻,http://51.89.166.17:3002/index.php?id=niandainews_twn
-明珠台,https://migu.188766.xyz/?migutoken=2bd0dfb9296733bb9136f23cda590141&id=pearl_twn&type=dy
-民视新闻,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
-民视台湾,http://51.89.166.17:3002/index.php?id=ftvtaiwan_twn
-民视闽南,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
-民视第一,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
-寰宇新闻,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
-华视闽南,http://51.89.166.17:3002/index.php?id=ctshd_twn
-华丽翡翠台,https://migu.188766.xyz/?migutoken=cba20a74b270c02a491a119c29685fbf&id=Tvbjade&type=dy
-公视台语,http://51.89.166.17:3002/index.php?id=ctv2_twn
-凤凰资讯,https://migu.188766.xyz/?migutoken=d7e4ffb871febce65d0047d724cd0601&id=phoenixinfo_hd&type=dy
-凤凰资讯,https://migu.188766.xyz/?migutoken=ac12c4f16c20b5ca01938c5bf4cebf16&id=fhzx&pp=1
-凤凰中文,https://migu.188766.xyz/?migutoken=bef191b350c3bbe0dfb2d62c13b004b0&id=phoenixtv_hd&type=dy
-凤凰中文,https://migu.188766.xyz/?migutoken=a8f161c632e6f8b02ce63c1d8568f0e9&id=fhzw&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=7ec4cb8be4f5917cbb251e1d4f1faf34&id=fhhk&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=7cf7ff1c8c1cc5004e50234a482f596e&id=hkphoenix_twn&type=dy
-翡翠台,https://migu.188766.xyz/?migutoken=a3053965d7cbe307fc5da9abcf4dde7e&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-翡翠台,https://migu.188766.xyz/?migutoken=7db8ffb9b5a2e21d44f7d5128246ca04&id=jade_twn&type=dy
-非凡新闻,http://51.89.166.17:3002/index.php?id=feifannews_twn
-东森综合,http://51.89.166.17:3002/index.php?id=ettvzhonghe
-东森洋片,http://51.89.166.17:3002/index.php?id=ettvwestern
-东森新闻,http://51.89.166.17:3002/index.php?id=ettvnews
-东森戏剧,http://51.89.166.17:3002/index.php?id=ettvdrama
-八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
-八大娱乐,http://51.89.166.17:3002/index.php?id=badaentertain
-八大戏剧,http://51.89.166.17:3002/index.php?id=badadrama
-八大第一,http://51.89.166.17:3002/index.php?id=badafirst
-TVB星河,https://migu.188766.xyz/?migutoken=f36d19ed3c75c870883a9c4e6ee70128&id=Xinhe&type=dy
-tvbs新闻,http://51.89.166.17:3002/index.php?id=tvbs_n
-tvbs闽南,http://51.89.166.17:3002/index.php?id=tvbs
-tvbs欢乐,http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
-Discover,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
-Astro 欢喜,https://migu.188766.xyz/?migutoken=c21e9aecfdc794482e43e2d6ce82aba6&id=Huahee&type=dy
-Astro QJ,https://migu.188766.xyz/?migutoken=c77b8dec7d2da909575415787d64656c&id=Quanjia&type=dy
-Astro AOD,https://migu.188766.xyz/?migutoken=3c0f02487115aa1a310f9060cf94cf9f&id=Aodhd&type=dy
-Astro AEC,https://migu.188766.xyz/?migutoken=e283f91449a9f4e28f59dc981c7dfa15&id=AEC&type=dy
 
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
+香港有线18台,http://bxtv.3a.ink/api.php?id=18
+
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade
+台湾台,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
+香港31台,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+香港32台,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+香港33台,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+
+华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+HOY77,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+HOY77,http://bziyunshao.synology.me:8891/bysid/77
+HOY78,http://bziyunshao.synology.me:8891/bysid/78
+HOY78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY78,http://bziyunshao.synology.me:8891/bysid/78
 
 
 
