@@ -4,6 +4,8 @@
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
 
+
+无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -13,12 +15,23 @@
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 
 
+
+
+
+
+
+
+
+
+
 Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
 
+无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
+无线翡翠,https://cdn6.101.qzz.io/163189/fct
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -34,7 +47,7 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 无线翡翠,http://r.jdshipin.com/GeWKr?id=mzt720
 无线翡翠4K,https://hk.188766.xyz/?migutoken=11fa3e64ea0083791f9759b25259d0d5&id=hk_fct4k&type=dy
 
-
+无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
 无线明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
 无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
@@ -69,7 +82,7 @@ TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
-
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -129,6 +142,9 @@ TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
 
+美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
@@ -202,7 +218,7 @@ HOY77,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_ho
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 
-
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰中文,https://hk.188766.xyz/?migutoken=3b6a923af130ebaadb4fa973e4fccea5&id=fhzw&pp=1
 凤凰中文,https://hk.188766.xyz/?migutoken=1070e2f6921bc476d91ab9e39fb33f3c&id=hk_fhzw&type=dy
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
@@ -214,6 +230,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://hk.188766.xyz/?migutoken=93d4ca51dc593d049a840de93d844920&id=fhzx&pp=1
