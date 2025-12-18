@@ -21,6 +21,11 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+无线翡翠,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
+无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
 
 
 无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
