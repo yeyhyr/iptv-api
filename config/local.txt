@@ -8,6 +8,7 @@
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -23,6 +24,8 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
@@ -56,6 +59,10 @@ TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
 TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 
+
+
+
+
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -72,6 +79,14 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河（国）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 无线星河（国）,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+无线星河（国）,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+
+
+
+
+
+
+
 
 
 
@@ -87,7 +102,7 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-
+TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
@@ -202,11 +217,9 @@ CH8,https://hk.188766.xyz/?migutoken=c2e1e1619ec8bc94dcd36cb3e8f57114&id=hk_ch8&
 
 HOY77,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_hoy&type=dy
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
+HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰中文,https://hk.188766.xyz/?migutoken=3b6a923af130ebaadb4fa973e4fccea5&id=fhzw&pp=1
-凤凰中文,https://hk.188766.xyz/?migutoken=1070e2f6921bc476d91ab9e39fb33f3c&id=hk_fhzw&type=dy
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://j.s.bkpcp.top/js/fhzw
@@ -219,8 +232,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,https://hk.188766.xyz/?migutoken=93d4ca51dc593d049a840de93d844920&id=fhzx&pp=1
-凤凰资讯,https://hk.188766.xyz/?migutoken=fdbbedd10adb3a9d273bf5b0ff1b84ee&id=hk_fhzx&type=dy
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx
@@ -230,8 +242,8 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 
 
-凤凰香港,https://hk.188766.xyz/?migutoken=2a232b63b1a7bd4a75e2f17ae930524b&id=fhhk&pp=1
-凤凰香港,https://hk.188766.xyz/?migutoken=613e800f369658ed2dbdfdc4b08b580e&id=hk_fhhk&type=dy
+
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港,http://j.s.bkpcp.top/js/fhxg
@@ -259,10 +271,10 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-
 Astro劇集,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
+Astroaod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -274,6 +286,7 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 
 香港有线18台,http://bxtv.3a.ink/api.php?id=18
 
