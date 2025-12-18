@@ -43,43 +43,9 @@
 
 
 ☘️测试,#genre#
-无线娱乐cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
-无线娱乐cs测试,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
-无线星河cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
-无线星河cs测试,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-无线新闻cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻cs测试,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-无线千禧cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-无线千禧cs测试,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-无线明珠cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
-无线明珠cs测试,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-无线华丽粤玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Wlt
-无线华丽粤,https://cdn9.163189.xyz/smt1.1.php?id=Wlt
-无线华丽国玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
-无线华丽国,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-无线翡翠cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
-无线翡翠cs测试,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-美亚电影cs测试,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-凤凰资讯cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-凤凰资讯cs测试,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
-凤凰中文cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-凤凰中文cs测试,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
-凤凰香港cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
-凤凰香港cs测试,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
-八度空间cs测试,https://cdn9.163189.xyz/smt1.1.php?id=TV8
-VIUTV粤cs测试,https://cdn9.163189.xyz/smt1.1.php?id=viu1_twn
-VIUTV英cs测试,https://cdn9.163189.xyz/smt1.1.php?id=viusix_twn
-RTHK-32cs测试,https://cdn9.163189.xyz/smt1.1.php?id=rhk32_twn
-RTHK-31cs测试,https://cdn9.163189.xyz/smt1.1.php?id=rhk31_twn
-Plus综合cs测试,https://cdn9.163189.xyz/smt1.1.php?id=j2_twn
-Astr欢喜cs测试,https://cdn9.163189.xyz/smt1.1.php?id=Huahee
-Astr爱奇cs测试,https://cdn9.163189.xyz/smt1.1.php?id=Qiyi
-AstrQJ国cs测试,https://cdn9.163189.xyz/smt1.1.php?id=Quanjia
-Astr-Aodcs测试,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-Astr-AeCcs测试,https://cdn9.163189.xyz/smt1.1.php?id=AEC
- Plus综合cs测试,https://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
+
+
+
 
 
 
