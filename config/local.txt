@@ -5,6 +5,7 @@
 🌊港澳,#genre#
 
 
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -15,11 +16,14 @@
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 
 
+
+
+
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
-
+无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -29,6 +33,7 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
+
 
 
 无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
@@ -48,7 +53,7 @@ Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-
+TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
@@ -312,7 +317,7 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 
-翡翠台,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
+
 美亚電影台(香港),http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 
 
@@ -549,6 +554,39 @@ TRACEU4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv082/index.m3u8?proxy=true
 台湾台,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华洋片Pdtv,http://rihou.cc:555/tv/[Pd]龙华洋片
+龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华卡通Pdtv,http://rihou.cc:555/tv/[Pd]龙华卡通
+龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
+
+
+🌊体育,#genre#
+NOW英超1,http://vocotv.pro:80/live/robins/robins/715574.m3u8
+NOW英超2,http://vocotv.pro:80/live/robins/robins/715573.m3u8
+NOW英超3,http://vocotv.pro:80/live/robins/robins/715572.m3u8
+NOW英超4,http://vocotv.pro:80/live/robins/robins/715571.m3u8
+NOW英超5,http://vocotv.pro:80/live/robins/robins/715570.m3u8
+NOW英超6,http://vocotv.pro:80/live/robins/robins/715569.m3u8
+NOW体育1,http://vocotv.pro:80/live/robins/robins/715566.m3u8
+NOW体育2,http://vocotv.pro:80/live/robins/robins/715565.m3u8
+NOW体育4,http://vocotv.pro:80/live/robins/robins/715563.m3u8
+NOW体育5,http://vocotv.pro:80/live/robins/robins/715562.m3u8
+NOW体育6,http://vocotv.pro:80/live/robins/robins/715561.m3u8
+NOW体育7,http://vocotv.pro:80/live/robins/robins/715560.m3u8
+NOW体育7,http://vocotv.pro:80/live/robins/robins/715568.m3u8
+NOW体育精选,http://vocotv.pro:80/live/robins/robins/715567.m3u8
+NOW体育精选,http://vocotv.pro:80/live/robins/robins/715559.m3u8
+NOW体育4K1,http://vocotv.pro:80/live/robins/robins/715558.m3u8
+NOW体育4K1,http://vocotv.pro:80/live/robins/robins/715557.m3u8
+
+
 
 📺央视频道,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
@@ -1963,6 +2001,61 @@ RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 8
+
+
+
+
+🌊VPN台湾2,#genre#
+amc電影,https://stream1.freetv.fun/164886d4f4c7fddefd455209a45a8e289566df8649a1c4d0b0071e2d29f3dc93.m3u8
+amc電影,https://stream1.freetv.fun/17ff5963519aafe4f65d3f26535c396c9f95c80b2faabaf9b1719061fa7a5fe7.m3u8
+amc電影,https://stream1.freetv.fun/8e454a0d39d6715c3309b25b9075efb04e0b8b5b21a6f39547b07d062cbeb98a.m3u8
+amc電影,https://stream1.freetv.fun/a6d74aa0af985c7325aeb66d7346395d0cd1ba6ef0e103bb1cf5eee168da39f9.m3u8
+
+amc電影,https://stream1.freetv.fun/ad7211fc797585fd39ab7d6bfc83567df4703cc5c2a5286b8f328d9b4345133c.m3u8
+
+amc電影,https://stream1.freetv.fun/bc49016b2d707e48c2cd1954a13d5ca455a531d528054c29565a794428e1d6ab.m3u8
+amc電影,https://stream1.freetv.fun/f41707a4dc886d2e796abbfb17748d61902ac2aab29c07d472eaa31168bd1070.m3u8
+amc電影台 *4g,https://stream1.freetv.fun/7d10cdb8a08a05c6dec2f2437d21004391328454bae8186c772fcc504626c00c.m3u8
+
+elta生活旅遊 *4g,https://stream1.freetv.fun/827b6fd14ca73bb9a41cae224da922667ad7a2c4bd096d2186feedd10b08caf9.m3u8
+elta生活旅遊,https://stream1.freetv.fun/58ec8ed17bc85325b8207a300e3a5e082ffc03e626cf03b1e8b659244d1def29.m3u8
+elta生活旅遊,https://stream1.freetv.fun/73333e56589d91abddc8689092319453a941523c969e54b937a72ea37c910b6b.m3u8
+elta生活旅遊,https://stream1.freetv.fun/74439b51dbac7ac3ec02de17697507aa05fd91aa2e31959e8b69041c0a8d57c7.m3u8
+elta生活旅遊,https://stream1.freetv.fun/9cc6f850fbf1d9b8db206c52b10cf3f9020981271f32b6d4f33bdf875a1ba015.m3u8
+elta生活旅遊,https://stream1.freetv.fun/a11e0b3b8652399e1305bf0770da905a04d2f1083ec894986b6d392ff8eb71ec.m3u8
+elta生活旅遊,https://stream1.freetv.fun/a1767df558840256d66065533368cf9fb1a0f799bf03e37cfa0da28b33dc75f5.m3u8
+elta生活旅遊,https://stream1.freetv.fun/e37ad196f2b44473864094a8e966af900eea3b4558aa46b82a0522c6f4ac5d1e.m3u8
+elta娛樂 *4g,https://stream1.freetv.fun/43723768128ebb001fa213130c4e65e073dc44887b07dd79f35f0f4e06fa9069.m3u8
+elta娛樂 *4g,https://stream1.freetv.fun/f512e1ecdb8be8598b4409d654f8778514fa15912a86012d8a03871d76020d9b.m3u8
+elta娛樂,https://stream1.freetv.fun/059e0d23717a6ce1a144f6514449b90fa5dcbdc4ab2f33f494a761c128f4c93f.m3u8
+elta娛樂,https://stream1.freetv.fun/0a5ca84685972cbc96a494220f936133d22aab12382e214513ba531fcac4757e.m3u8
+elta娛樂,https://stream1.freetv.fun/17330f31a065eef87c1df555156b8d97ada146ccefe7c4f6035983ef0b0c0d4b.m3u8
+elta娛樂,https://stream1.freetv.fun/187c9d39095c0c66fa50cb2a86fab75863d1906cefd9b12dff165153bd15b14f.m3u8
+elta娛樂,https://stream1.freetv.fun/3347c8e07bd3900941f1e8000e0d9f3d53ff57b88a21dab9f0e845f107c95e5e.m3u8
+elta娛樂,https://stream1.freetv.fun/411dfd6cff0965e294c56220ef197d71e6fb840e3ade5614ea5aa5953c962c5c.m3u8
+elta娛樂,https://stream1.freetv.fun/52846d27f253e1ac1f64f5628ff8dcf3764d351c60ac92e5afc79347a3b101ca.m3u8
+elta娛樂,https://stream1.freetv.fun/64f622094d33d45c9c491d12e1cfeca0b93cbdc078b0c01d35d50b86d335810a.m3u8
+elta娛樂,https://stream1.freetv.fun/650cf44c93aa3eff743b37a8a76eb6284665841d09a1e9162598ffb581a33dd3.m3u8
+elta娛樂,https://stream1.freetv.fun/67de9b43370c14b58c024880f0b07f6c3eb30353f23bfe92e9beb6d10def4d75.m3u8
+elta娛樂,https://stream1.freetv.fun/9b03e8e519e2ee226688f0af7abd21688426e25a240e5b154c99f4b9702d0de0.m3u8
+elta娛樂,https://stream1.freetv.fun/cdc2aeb3f18c15447822fc8bdfe3574cd328960420f8f9c4f39d271ddc15808d.m3u8
+elta娛樂,https://stream1.freetv.fun/e803ebc8ce60d6d544566236afcb4f9c58652eddb175c3fe432308657b8ea033.m3u8
+elta娛樂,https://stream1.freetv.fun/fdb48d62adf7e03cdac9a8fa129dac310bd27ae9ce7386e40e52e703dec9bd20.m3u8
+eltv生活英語,https://stream1.freetv.fun/0440c6095a7d890018633b27a6f36791c3085917184b721b9399f4c6fa46ca6b.m3u8
+eltv生活英語,https://stream1.freetv.fun/1911751a1c7513f87dfb5dad84faa0f27a94fd7919a7fa3ecf837dc300acb6d4.m3u8
+eltv生活英語,https://stream1.freetv.fun/2dc2a010f2dbafbccb069634186fe6269dfbef8e1e7128fffc8cbb77c94d0a13.m3u8
+eltv生活英語,https://stream1.freetv.fun/40453d344b505fe80917a799a1c51d37740d8df3e9a8c5f7af581b2ddae100ae.m3u8
+eltv生活英語,https://stream1.freetv.fun/42c36f2f2b400acb0d754b782aad20586410bc23d775e16b134911a0661446c9.m3u8
+eltv生活英語,https://stream1.freetv.fun/5e54aadceeca9990c6c1ffb971b5f228d864f2e879580d7afa1c36a82a061a77.m3u8
+eltv生活英語,https://stream1.freetv.fun/8452c7411979303e6016a2478c031d3dc61568773209d408847fb7e1fd7c8c26.m3u8
+eltv生活英語,https://stream1.freetv.fun/8be4c72d598677fad71fffe3ab830eb87cba9625eafe040d3a01b3a6e0a81d6a.m3u8
+eltv生活英語,https://stream1.freetv.fun/8c88f547c833af779682a8c3a47cd3d9a3808bc8346fd61f1aeb0ae35029f9b3.m3u8
+eltv生活英語,https://stream1.freetv.fun/bb3b932c1f976ff2d2372c9969abbdb8f1b435de3d79ba7e1fcd060b5fa4ea16.m3u8
+eltv生活英語,https://stream1.freetv.fun/e6d87a36b28957cb88532c41f38fb1877cc0f521490488f2bf6259b7253c87e8.m3u8
+eltv生活英語,https://stream1.freetv.fun/f3fad7266aaffb2c72660ec50c1b84a274bb6f6e3b221155e1d710d8e29c15e0.m3u8
+豬哥亮歌廳秀,https://stream1.freetv.fun/fdaf851bbb60d44da48dc334b6a19b1f8bb738b66938c4d48cf2d12f1b8f6330.m3u8
+
+
 
 
 
