@@ -43,47 +43,42 @@
 
 
 ☘️测试,#genre#
-16,http://kstv.us:8080/haw5UJfF68/1729172230/47170
-BLUE,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
-Brazzers,https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10263.m3u8
-Dorcel,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Eroxx,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
-Eroxx,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
-Eroxx,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
-fashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-FemJoy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6212/index.m3u8
-FemJoy,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
-MetArt FHD,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
-PLAYBOY,https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10265.m3u8
-pnTV,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-R1,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-R1,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6280/index.m3u8
-R2,https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10265.m3u8
-R3,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-R3,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-R3,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-R3,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
-SEXY HOT,https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10268.m3u8
-Venus,https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10264.m3u8
-Ню Арт HD (18+),http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/31716/index.m3u8
-🐰,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
-🐰,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
-🐰,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-🐰,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-🐰,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-🐰,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/6242/index.m3u8
-🐰,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/6242/index.m3u8
-🐰,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6242/index.m3u8
-🐰,http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/6242/index.m3u8
-🐰🌸,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
-🐰🌸,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
-🐰🌸,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/527/index.m3u8
-🐰🌸,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/527/index.m3u8
-🐰🌸,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/527/index.m3u8
-密1,http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
-密2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-密2,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
-密3,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+Erox,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Erox,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
+fashionTV1,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+fashionTV2,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+fashionTV3,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
+fashionTV4,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+fashionTV5,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+br,http://206.212.244.71:8080/live/4wVQA7/625159/215573.m3u8
+x42,http://206.212.244.71:8080/live/4wVQA7/625159/215574.m3u8
+let,http://206.212.244.71:8080/live/4wVQA7/625159/215575.m3u8
+holed,http://206.212.244.71:8080/live/4wVQA7/625159/215578.m3u8
+h,http://206.212.244.71:8080/live/4wVQA7/625159/215579.m3u8
+x43,http://206.212.244.71:8080/live/4wVQA7/625159/215581.m3u8
+x44,http://206.212.244.71:8080/live/4wVQA7/625159/215583.m3u8
+jay,http://206.212.244.71:8080/live/4wVQA7/625159/215584.m3u8
+x5,http://206.212.244.71:8080/live/4wVQA7/625159/215585.m3u8
+babes,http://206.212.244.71:8080/live/4wVQA7/625159/215586.m3u8
+boxx,http://206.212.244.71:8080/live/4wVQA7/625159/215587.m3u8
+x45,http://206.212.244.71:8080/live/4wVQA7/625159/215590.m3u8
+only,http://206.212.244.71:8080/live/4wVQA7/625159/215591.m3u8
+scam,http://206.212.244.71:8080/live/4wVQA7/625159/215593.m3u8
+x46,http://206.212.244.71:8080/live/4wVQA7/625159/215595.m3u8
+tee,http://206.212.244.71:8080/live/4wVQA7/625159/215597.m3u8
+na,http://206.212.244.71:8080/live/4wVQA7/625159/215598.m3u8
+ad,http://206.212.244.71:8080/live/4wVQA7/625159/215599.m3u8
+th,http://206.212.244.71:8080/live/4wVQA7/625159/215600.m3u8
+Шокирующееhttp://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6229/index.m3u8
+центральное,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/20090/manifest.m3u8
+japan,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
+1311http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1311
+ПЕPBЫЙ FHD,http://kstv.us/Wolf/8338187957/47284
+HUSTLER HD,http://cdnx1.plusx.tv:8880/345/mono.m3u8?token=0e318668ba9b1d41dd3333
+gay,http://tvs.lol:8080/play/Xpy6xhRWC6JtqMYrU_pnGzyBJFg1s8QraY7LQF6v5AFW5e2Y6UanLp2SQXdhlUu9
+
 
 
 
@@ -109,6 +104,10 @@ Miami TV5,http://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 Miami TV5,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 Miami TV7,http://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
 Miami TV7,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+密1,http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
+密2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+密4,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+密3,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 Liberty HD,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/16069/index.m3u8
 
 ☘️VPN sexTV2,#genre#
@@ -358,6 +357,19 @@ Yosso TV Sexy,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/14176/index.m3u8
 🌷4,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 🌷5,https://live.iptvxxx.net/hustlertv.m3u8
 🌷6,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+FemJoy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6212/index.m3u8
+MetArt FHD,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
+R1,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+R1,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6280/index.m3u8
+R1,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+R1,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
+Ню Арт HD (18+),http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/31716/index.m3u8
+🐰,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+🐰🌸,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
+
+
+
 
 ☘️VPN sexTV,#genre#
 
