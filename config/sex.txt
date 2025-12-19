@@ -45,37 +45,33 @@
 ☘️测试,#genre#
 
 
-Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
-有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
-有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
-无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
-无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
-无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
-无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华洋片Pdtv,http://rihou.cc:555/tv/[Pd]龙华洋片
-龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华卡通Pdtv,http://rihou.cc:555/tv/[Pd]龙华卡通
-龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
-CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
+
+中天新闻Hktv,http://rihou.cc:555/tv/[Hk]中天新聞
+寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
+中视新闻Hktv,http://rihou.cc:555/tv/[Hk]中视新闻
+中旺电视Hktv,http://rihou.cc:555/tv/[Hk]中旺电视
+tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS闽南
+HUB娱家Hktv,http://rihou.cc:555/tv/[Hk]HUB娱家
+HUB都会Hktv,http://rihou.cc:555/tv/[Hk]HUB都会
+Now华剧Hktv,http://rihou.cc:555/tv/[Hk]Now华剧
+Now剧集Hktv,http://rihou.cc:555/tv/[Hk]Now剧集
+Now紫金Hktv,http://rihou.cc:555/tv/[Hk]Now紫金
+Now星影国hk,http://rihou.cc:555/tv/[Hk]Now星影
+Now爆谷国hk,http://rihou.cc:555/tv/[Hk]Now爆谷
+pₒₚc电影Hktv,http://rihou.cc:555/tv/[Hk]pₒₚc电影
+cm+电影Hktv,http://rihou.cc:555/tv/[Hk]cm电影
+美亚电影Hktv,http://rihou.cc:555/tv/[Hk]美亚电影
+东森电影粤hk,http://rihou.cc:555/tv/[Hk]东森电影
+无线功夫国hk,http://rihou.cc:555/tv/[Hk]无线功夫
+无线星河国hk,http://rihou.cc:555/tv/[Hk]无线星河
+无线生活Hktv,http://rihou.cc:555/tv/[Hk]无线生活
+无线翡剧Hktv,http://rihou.cc:555/tv/[Hk]无线翡剧
+无线明剧Hktv,http://rihou.cc:555/tv/[Hk]无线明剧
+无线奖门Hktv,http://rihou.cc:555/tv/[Hk]无线奖门
+无线金曲Hktv,http://rihou.cc:555/tv/[Hk]无线金曲
+黄金翡翠Hktv,http://rihou.cc:555/tv/[Hk]黄金翡翠
+黄金华剧Hktv,http://rihou.cc:555/tv/[Hk]黄金华剧
+
 
 
 ☘️VPN 日本,#genre#
