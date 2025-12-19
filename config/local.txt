@@ -23,6 +23,11 @@ Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 
+
+NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
+NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
+NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
