@@ -522,20 +522,25 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
 🌊冰茶港澳,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=27937bb4f59e7ccf888bab529bcccb09&id=fhzw&pp=1
-凤凰中文,https://mgev.188766.xyz/?migutoken=0447c4cbb5b59de9eb3c785abcecb5d4&id=hk_fhzw&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=8b7c5627a0b5c2f4953f2529f834c8eb&id=fhzx&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=9f9641380ad3c2efc499555c7b08fa8d&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=43f9b56d04fd3cc5dce2e5bbe24be2ad&id=fhhk&pp=1
-凤凰香港,https://mgev.188766.xyz/?migutoken=c53f47ef86391cfe991905ef262f36ee&id=hk_fhhk&type=dy
-翡翠台,https://mgev.188766.xyz/?migutoken=7ad1d1fe94743830f43d5bbb6b364161&id=hk_fct&type=dy
-翡翠台4K,https://mgev.188766.xyz/?migutoken=7fe3e760c86792e73bab52473075d948&id=hk_fct4k&type=dy
-无线新闻,https://mgev.188766.xyz/?migutoken=069f4f10fc42118e0011d3697e31dfee&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=28ca7b2cb82809f28ac9f4d1e3b72933&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=eaf9e094e8ae66ee324fe71a786c7fc7&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=a01d8e474ba3d7f3191bf10a9aab0702&id=hk_mzt&type=dy
-TVB星河,https://mgev.188766.xyz/?migutoken=b45e0b438f1749ecd6c37f689f51bdc3&id=hk_tvbxh&type=dy
-TVB功夫,https://mgev.188766.xyz/?migutoken=e742b6af63dd75946218158d8526b201&id=hk_yzwx&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=a824fe91ca2f97ab2d6a986c748170e0&id=fhzw&pp=1
+凤凰中文,https://mgev.188766.xyz/?migutoken=5d430ab865f638eba5fb85f889c18f39&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=52b4a2ce042205fdf1e836ecf26d5c66&id=fhzx&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=e609d017d1b4b2dce32f9c7f1dc4b7c6&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=19d6f137b06f15c8a68d579ebd819ac7&id=fhhk&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=bdf208ae57228f6c2006552418c46879&id=hk_fhhk&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=5860c6628e32c4b03bd0a12e79ea96f5&id=hk_fct&type=dy
+翡翠台4K,https://mgev.188766.xyz/?migutoken=adbd4200275aa6734648c3737beda4d1&id=hk_fct4k&type=dy
+无线新闻,https://mgev.188766.xyz/?migutoken=27bc8916ecf3aaacaca54d0b75417249&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=838f92594d468e47f8300daa29c3ab50&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=23d95bc6c5c6eb31e148166e2d962fbe&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=53fb131d4b05dac846fc06f3cc7a24c7&id=hk_mzt&type=dy
+TVB星河,https://mgev.188766.xyz/?migutoken=dc59b184940b487766ddc417cbb7a2aa&id=hk_tvbxh&type=dy
+TVB功夫,https://mgev.188766.xyz/?migutoken=11f26bb6277783269b48e3078771f090&id=hk_yzwx&type=dy
+八度空间,https://mgev.188766.xyz/?migutoken=ea433af355bd96d5450b3c83d2ee4d05&id=hk_8tv&type=dy
+CHU,https://mgev.188766.xyz/?migutoken=d64e200064bb7686450010f6b6b0fa25&id=hk_chu&type=dy
+CH5,https://mgev.188766.xyz/?migutoken=c8066bab6925049e43466957481698ff&id=hk_ch5&type=dy
+CH8,https://mgev.188766.xyz/?migutoken=21d6cc3babfe60dd63a80ceb0900eff8&id=hk_ch8&type=dy
+HOY77,https://mgev.188766.xyz/?migutoken=fc0b4fe9b5b02cc440f978e77844d27a&id=hk_hoy&type=dy
 
 
 
@@ -923,13 +928,9 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 
 ☘️广东频道,#genre#
 广东体育,https://migu.188766.xyz/?migutoken=dbac9553f8abae5344ddd6fc1c0fe919&id=hk_gdty&type=dy
-广东体育,https://hk.188766.xyz/?migutoken=ee2b3eee8e9d14b2c31945f9c197eb02&id=gd_gdty&type=sz
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-35.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
-广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-1.m3u8
-广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8
-广东体育FYtv,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 
 广东新闻,https://hk.188766.xyz/?migutoken=303d604cced0618c4c8ee795416ca0bc&id=gd_gdxw&type=sz
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.m3u8
