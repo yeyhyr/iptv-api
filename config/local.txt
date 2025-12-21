@@ -17,12 +17,16 @@
 
 
 
-
-
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
+now新闻,http://hls.168.us.kg/u/332/master.m3u8
 
+now财经,http://hls.168.us.kg/u/333/master.m3u8
+Now财经,http://rihou.cc:555/tv/MtlNow财经
+
+Now直播,http://rihou.cc:555/tv/MtlNow直播
+now直播,http://hls.168.us.kg/u/331/master.m3u8
 
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
@@ -163,7 +167,17 @@ HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亚电影-台湾,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 
+天映频道,http://rihou.cc:555/tv/STl天映频道l
+天映频道-马来西亚,http://php.jdshipin.com/smt.php?id=Celestial
+天映频道-马来西亚(备),http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
+天映经典频道,http://php.jdshipin.com/smt.php?id=Celestial2
+
+天映频道国语,http://rihou.cc:555/tv/STl天映频道
+
+天映经典,http://rihou.cc:555/tv/STl天映经典
 
 
 ANIMAX(香港),http://tl.061833.xyz/tl/animax
@@ -172,15 +186,19 @@ pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 
 
-Now财经,http://rihou.cc:555/tv/MtlNow财经
-
-Now直播,http://rihou.cc:555/tv/MtlNow直播
-
-天映频道,http://rihou.cc:555/tv/STl天映频道l
-天映频道国语,http://rihou.cc:555/tv/STl天映频道
-天映经典,http://rihou.cc:555/tv/STl天映经典
 
 
+
+
+爱尔达体育3台,http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
+
+
+
+
+
+
+
+ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
@@ -188,6 +206,8 @@ ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://rihou.cc:555/tv/MtlVIUTV粤
 VIUTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
 
+
+VIUTV英,http://hls.168.us.kg/u/96/master.m3u8
 VIUTV英,http://r.jdshipin.com/vSJvl
 VIUTV英,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV英,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
@@ -229,6 +249,7 @@ HOY77,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_ho
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd\
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
@@ -239,6 +260,8 @@ HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 
+
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -263,6 +286,8 @@ HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+
+
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
@@ -323,9 +348,10 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 
 
-美亚電影台(香港),http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 
 
+韩国GCN电视,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+恐怖电影院,https://yylunbo.ottiptv.cc/yy/24066336
 
 
 
@@ -595,7 +621,15 @@ NOW体育精选,http://vocotv.pro:80/live/robins/robins/715567.m3u8
 NOW体育精选,http://vocotv.pro:80/live/robins/robins/715559.m3u8
 NOW体育4K1,http://vocotv.pro:80/live/robins/robins/715558.m3u8
 NOW体育4K1,http://vocotv.pro:80/live/robins/robins/715557.m3u8
-
+NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+NOW体育4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+NOW体育5,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 
 
 📺央视频道,#genre#
