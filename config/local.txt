@@ -922,8 +922,8 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 
 
 ☘️广东频道,#genre#
-广东体育,https://migu.188766.xyz/?migutoken=bcaedae9aff077322807aa07a013b3ed&id=hk_gdty&type=dy
-广东体育,https://hk.188766.xyz/?migutoken=98afedb83920738b252a7ba5b78078c9&id=gd_gdty&type=sz
+广东体育,https://migu.188766.xyz/?migutoken=dbac9553f8abae5344ddd6fc1c0fe919&id=hk_gdty&type=dy
+广东体育,https://hk.188766.xyz/?migutoken=ee2b3eee8e9d14b2c31945f9c197eb02&id=gd_gdty&type=sz
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-35.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
