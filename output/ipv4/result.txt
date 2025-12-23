@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-21 18:13:24,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-12-23 18:15:24,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -10,7 +10,6 @@
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 
 🌊港澳,#genre#
 翡翠台,http://rihou.cc:555/tv/[Mt]无线翡翠
@@ -24,10 +23,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 🌊台湾,#genre#
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-三立新闻,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 三立新闻,http://152.32.229.52:5050/iNEWS/index.m3u8?proxy=true
+三立新闻,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -71,8 +70,8 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
