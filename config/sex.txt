@@ -27,10 +27,31 @@
 
 ☘️测试,#genre#
 
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB Plus,https://cdn6.101.qzz.io/163189/tvbp
+TVB Plus(双音轨),https://o11.163189.xyz/stream/tvb/tvbp/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
 NOW新闻,https://cdn.163189.xyz/163189/now
-NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=42e57e1e78da0b8220b1ec69bc8384d1
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
+凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯台,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港台,https://cdn6.101.qzz.io/163189/fhhk
+凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
+HOY77,https://cdn6.101.qzz.io/163189/hoy
+ViuTV,https://cdn.163189.xyz/163189/viu
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro QJ,https://o11.163189.xyz/stream/live/qj/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+
 
 
 
