@@ -795,9 +795,6 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 
 📡卫视频道,#genre#
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
-北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC
-
-北京卫视4K,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E5%8F%B0
 
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
@@ -805,7 +802,7 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 湖南卫视,http://m.061899.xyz/mg/hunws
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97
 
-湖南卫视4K,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K%E5%8F%B0
+
 
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
@@ -813,42 +810,36 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 浙江卫视,http://m.061899.xyz/mg/zjws
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F
 
-浙江卫视4K,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K%E5%8F%B0
+
 
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F
 
-江苏卫视4K,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K%E5%8F%B0
 
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C
 
-广东卫视4K,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K%E5%8F%B0
 
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
 深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
 深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://m.061899.xyz/mg/szws
-深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3
-深圳卫视4K,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K%E5%8F%B0
+
 
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E5%8F%B0
 东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
 东方卫视,http://go.bkpcp.top/mg/dfws
 东方卫视,http://m.061899.xyz/mg/dfws
-东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9
 
-东方卫视4K,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K%E5%8F%B0
+
 
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
-天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5
+
 
 
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
 山东卫视,http://go.bkpcp.top/mg/sdws
 山东卫视,http://m.061899.xyz/mg/sdws
-山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C
+
 
 辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
 
@@ -859,27 +850,24 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
 江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://m.061899.xyz/mg/jxws
-江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF
+
 
 
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
 四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
 四川卫视,http://m.061899.xyz/mg/scws
-四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D
-
-四川卫视4K,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K%E5%8F%B0
 
 
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
 重庆卫视,http://m.061899.xyz/mg/cqws
-重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86
+
 
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
 湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://m.061899.xyz/mg/hubws
-湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97
+
 
 
 
@@ -888,9 +876,8 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
 东南卫视,http://m.061899.xyz/mg/dnws
-东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97
 
-海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+
 海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
 海南卫视,http://m.061899.xyz/mg/hinws
 海南卫视,http://go.bkpcp.top/mg/hinws
@@ -903,59 +890,60 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 吉林卫视,http://m.061899.xyz/mg/jlws
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97
+
 
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81
 
 甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
-甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83
+
 
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF
+陕西卫视,http://go.bkpcp.top/mg/sxws
+陕西卫视,http://m.061899.xyz/mg/sxws
 
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF
 
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 黑龙江卫视,http://m.061899.xyz/mg/hljws
-黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F
 
-陕西卫视,http://go.bkpcp.top/mg/sxws
-陕西卫视,http://m.061899.xyz/mg/sxws
+
+
 
 西藏卫视,http://m.061899.xyz/mg/xzws
+西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
+
+
+
+
 
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
 兵团卫视,http://go.bkpcp.top/mg/btws
 兵团卫视,http://m.061899.xyz/mg/btws
-兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2
+
 
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0
-内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4
+
 
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
-安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD
+
 
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97
+
 
 
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF
+
 
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97
 
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0
-贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E
+
 
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86
 
-西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F
+
 
 
 
