@@ -149,15 +149,18 @@ TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
 
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-有线综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+HOY77韩,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+HOY77粤,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY77粤,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 
-无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
+
+
 
 美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
@@ -167,44 +170,22 @@ HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影-台湾,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 
 天映频道,http://rihou.cc:555/tv/STl天映频道l
 天映频道-马来西亚,http://php.jdshipin.com/smt.php?id=Celestial
 天映频道-马来西亚(备),http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
+
 天映经典频道,http://php.jdshipin.com/smt.php?id=Celestial2
 
-天映频道国语,http://rihou.cc:555/tv/STl天映频道
-
-天映经典,http://rihou.cc:555/tv/STl天映经典
-
-
-ANIMAX(香港),http://tl.061833.xyz/tl/animax
-
-pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
-
-
-
-
-
-
-爱尔达体育3台,http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
-
-
-
-
-
-
 
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-VIUTV,http://rihou.cc:555/tv/MtlVIUTV粤
-VIUTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
+
 
 
 VIUTV英,http://hls.168.us.kg/u/96/master.m3u8
@@ -215,17 +196,7 @@ VIUTV英,http://rihou.cc:555/tv/MtlVIUTV英
 VIUTV英,https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
 
 
-有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-有线综合,http://rihou.cc:555/tv/Mtl有线综合
 
-RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK31,http://rihou.cc:555/tv/MtlRTHK-31
-RTHK31,https://smt.go-iptv.ggff.net/smart.php?id=rhk31_twn&token=Goiptv
-
-RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-RTHK32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
-
-有线赛讯,http://rihou.cc:555/tv/Mtl有线赛讯
 
 AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
@@ -240,14 +211,7 @@ AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
 
-八度空间,https://hk.188766.xyz/?migutoken=f9961c16cbc5673a85d7e539137bb9b6&id=hk_8tv&type=dy
-CHU,https://hk.188766.xyz/?migutoken=e34adace4dcf21caad14aaf3ffb38279&id=hk_chu&type=dy
-CH5,https://hk.188766.xyz/?migutoken=df27cb6da5fdf966df39542de4cc4a62&id=hk_ch5&type=dy
-CH8,https://hk.188766.xyz/?migutoken=c2e1e1619ec8bc94dcd36cb3e8f57114&id=hk_ch8&type=dy
 
-HOY77,https://hk.188766.xyz/?migutoken=6ca03a1b85b1a29ca7aeac7f2fe55958&id=hk_hoy&type=dy
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd\
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
@@ -292,25 +256,17 @@ HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
-
-Now英超1台,http://rihou.cc:555/tv/XSlNow英超
-Now英超,http://rihou.cc:555/tv/XSlNow英超
-Now英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-Now Spors Prime,http://rihou.cc:555/tv/XSlNow体育
-Now体育,http://rihou.cc:555/tv/XSlNow体育
-Now体育,http://rihou.cc:555/tv/MtlNow体育
-
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 
+
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+Astro AOD,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-Astro劇集,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
-Astroaod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 
 Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
@@ -323,12 +279,12 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 
-香港有线18台,http://bxtv.3a.ink/api.php?id=18
+
 
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
 
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -346,9 +302,6 @@ Astro華麗,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 爱星影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9476806
 私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
-
-
-
 
 韩国GCN电视,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 恐怖电影院,https://yylunbo.ottiptv.cc/yy/24066336
@@ -548,25 +501,27 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
 🌊冰茶港澳,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=a824fe91ca2f97ab2d6a986c748170e0&id=fhzw&pp=1
-凤凰中文,https://mgev.188766.xyz/?migutoken=5d430ab865f638eba5fb85f889c18f39&id=hk_fhzw&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=52b4a2ce042205fdf1e836ecf26d5c66&id=fhzx&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=e609d017d1b4b2dce32f9c7f1dc4b7c6&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=19d6f137b06f15c8a68d579ebd819ac7&id=fhhk&pp=1
-凤凰香港,https://mgev.188766.xyz/?migutoken=bdf208ae57228f6c2006552418c46879&id=hk_fhhk&type=dy
-翡翠台,https://mgev.188766.xyz/?migutoken=5860c6628e32c4b03bd0a12e79ea96f5&id=hk_fct&type=dy
-翡翠台4K,https://mgev.188766.xyz/?migutoken=adbd4200275aa6734648c3737beda4d1&id=hk_fct4k&type=dy
-无线新闻,https://mgev.188766.xyz/?migutoken=27bc8916ecf3aaacaca54d0b75417249&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=838f92594d468e47f8300daa29c3ab50&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=23d95bc6c5c6eb31e148166e2d962fbe&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=53fb131d4b05dac846fc06f3cc7a24c7&id=hk_mzt&type=dy
-TVB星河,https://mgev.188766.xyz/?migutoken=dc59b184940b487766ddc417cbb7a2aa&id=hk_tvbxh&type=dy
-TVB功夫,https://mgev.188766.xyz/?migutoken=11f26bb6277783269b48e3078771f090&id=hk_yzwx&type=dy
-八度空间,https://mgev.188766.xyz/?migutoken=ea433af355bd96d5450b3c83d2ee4d05&id=hk_8tv&type=dy
-CHU,https://mgev.188766.xyz/?migutoken=d64e200064bb7686450010f6b6b0fa25&id=hk_chu&type=dy
-CH5,https://mgev.188766.xyz/?migutoken=c8066bab6925049e43466957481698ff&id=hk_ch5&type=dy
-CH8,https://mgev.188766.xyz/?migutoken=21d6cc3babfe60dd63a80ceb0900eff8&id=hk_ch8&type=dy
-HOY77,https://mgev.188766.xyz/?migutoken=fc0b4fe9b5b02cc440f978e77844d27a&id=hk_hoy&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=12be4b83f5fb693af3280ce9340fc853&id=fhzw&pp=1
+凤凰中文,https://mgev.188766.xyz/?migutoken=a8593d75e0aa0dc4951e93da959bffab&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=adfb1d2973e98aca10144faea6fc37e6&id=fhzx&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=756f5118524370d4aedbb87fc2ff6ec3&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=6137f680501835369cef41785d94d0be&id=fhhk&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=db21666235225e20cb7c32d906f84c47&id=hk_fhhk&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=d5022dbd413c8359d2209dde0c2ee02a&id=hk_fct&type=dy
+翡翠台4K,https://mgev.188766.xyz/?migutoken=04b18d3ebfaa725a1dda1e2b6beae6a3&id=hk_fct4k&type=dy
+无线新闻,https://mgev.188766.xyz/?migutoken=7c3a9aa1251f7a0b2a772807a0099cf1&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=867a7fb42912a535911801350f2b51ee&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=6bf743d282ca7d750e1b1bedcb440a28&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=07deb5af02e5ea50760cf710d447e237&id=hk_mzt&type=dy
+TVB星河,https://mgev.188766.xyz/?migutoken=049851b327268c5201a25ed7ba48e132&id=hk_tvbxh&type=dy
+TVB功夫,https://mgev.188766.xyz/?migutoken=fab62604566f7352a166e08fe94d4685&id=hk_yzwx&type=dy
+八度空间,https://mgev.188766.xyz/?migutoken=d2bdf2670260d35db6b1f33e86debf31&id=hk_8tv&type=dy
+CHU,https://mgev.188766.xyz/?migutoken=47673a61537cd8326c57e9af15eb7904&id=hk_chu&type=dy
+CH5,https://mgev.188766.xyz/?migutoken=ce246011fe5fa01fde85b5b9e79eac13&id=hk_ch5&type=dy
+CH8,https://mgev.188766.xyz/?migutoken=db59b9c0caa45ed0346a9e035ecd091b&id=hk_ch8&type=dy
+澳视澳门,https://mgev.188766.xyz/?migutoken=0bce4333a96906cb7cc58beca1ca7747&id=hk_asam&type=dy
+HOY77,https://mgev.188766.xyz/?migutoken=ff1c389d760648049711f3bdbac7bc15&id=hk_hoy&type=dy
+
 
 
 
