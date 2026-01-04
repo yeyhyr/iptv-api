@@ -14,18 +14,17 @@
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
 
 
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 
-Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
-now新闻,http://hls.168.us.kg/u/332/master.m3u8
+Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 
 now财经,http://hls.168.us.kg/u/333/master.m3u8
-Now财经,http://rihou.cc:555/tv/MtlNow财经
 
-Now直播,http://rihou.cc:555/tv/MtlNow直播
 now直播,http://hls.168.us.kg/u/331/master.m3u8
 
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
@@ -33,6 +32,7 @@ NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠,http://74.91.26.218:82/live/jade.m3u8
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -950,6 +950,7 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 
 ☘️广东频道,#genre#
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
 
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-7.m3u8
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-5.ctv
