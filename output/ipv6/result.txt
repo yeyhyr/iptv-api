@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 18:20:39,https://migu.188766.xyz/?migutoken=e099f316aab75416499e61ef2c1fcce3&id=CCTV1&type=yy
+2026-01-21 18:20:42,https://migu.188766.xyz/?migutoken=e099f316aab75416499e61ef2c1fcce3&id=CCTV1&type=yy
 
 📺央视频道,#genre#
 CCTV1,https://migu.188766.xyz/?migutoken=e099f316aab75416499e61ef2c1fcce3&id=CCTV1&type=yy
@@ -10,8 +10,8 @@ CCTV2,http://bxtv.3a.ink/api.php?id=cctv2
 CCTV3,https://migu.188766.xyz/?migutoken=4cf72d312189b8c52aa6ddd2049fe9a0&id=CCTV3&type=yy
 CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
 CCTV4,https://migu.188766.xyz/?migutoken=a2f3aec6719d473813c8472fa1f8ba84&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
-CCTV4,https://migu.188766.xyz/?migutoken=f2fa66dda1580b8f1cb9a56e427850ea&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV4,https://migu.188766.xyz/?migutoken=de896fed586a70ec4cefae279cb13faf&id=CCTV4&type=yy
+CCTV4,https://migu.188766.xyz/?migutoken=f2fa66dda1580b8f1cb9a56e427850ea&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV5,https://migu.188766.xyz/?migutoken=14980bcc43174c61fb883d90820eb8b1&id=CCTV5&type=yy
 CCTV5,https://migu.188766.xyz/?migutoken=6312bf752faccbec6183f50d76342551&id=CCTV5p&type=yy
 CCTV5+,https://migu.188766.xyz/?migutoken=6312bf752faccbec6183f50d76342551&id=CCTV5p&type=yy
@@ -548,6 +548,7 @@ CCTV-4欧洲,https://migu.188766.xyz/?migutoken=f2fa66dda1580b8f1cb9a56e427850ea
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
 
 🌊港澳,#genre#
+翡翠台,https://mgev.188766.xyz/?migutoken=d5022dbd413c8359d2209dde0c2ee02a&id=hk_fct&type=dy
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://cdn6.101.qzz.io/163189/fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -555,7 +556,6 @@ CCTV-4欧洲,https://migu.188766.xyz/?migutoken=f2fa66dda1580b8f1cb9a56e427850ea
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台,https://mgev.188766.xyz/?migutoken=d5022dbd413c8359d2209dde0c2ee02a&id=hk_fct&type=dy
 翡翠台,https://live.catvod.com/iptv.php?id=fct002&token=2c5b49721fef575514811bdfc518b48a408b2ade87c1ed8985ef13232484afae%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 翡翠台,https://live.catvod.com/iptv.php?id=fct003&token=88d91a5eaf9ba39bd204bc48032c44ed2828ed58f78512c91f6a7f5ea168cedb%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 翡翠台4K,https://mgev.188766.xyz/?migutoken=04b18d3ebfaa725a1dda1e2b6beae6a3&id=hk_fct4k&type=dy
@@ -572,10 +572,10 @@ CCTV-4欧洲,https://migu.188766.xyz/?migutoken=f2fa66dda1580b8f1cb9a56e427850ea
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,https://mgev.188766.xyz/?migutoken=07deb5af02e5ea50760cf710d447e237&id=hk_mzt&type=dy
-Now新闻,https://mgev.188766.xyz/?migutoken=867a7fb42912a535911801350f2b51ee&id=hk_now&type=dy
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
+Now新闻,https://mgev.188766.xyz/?migutoken=867a7fb42912a535911801350f2b51ee&id=hk_now&type=dy
 Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,https://live.catvod.com/iptv.php?id=nownews&token=74958cf112639dec4146d63067a6dbd1644fcd0a87b3ef07ac2d3aa78260f4b6%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 Now新闻,https://mgev.188766.xyz/?migutoken=28ca7b2cb82809f28ac9f4d1e3b72933&id=hk_now&type=dy
