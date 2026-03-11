@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 18:36:35,https://iptv.catvod.com/live.php?id=CCTV-1
+2026-03-11 18:30:38,https://iptv.catvod.com/live.php?id=CCTV-1
 
 📺央视频道,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV-1
@@ -7,47 +7,47 @@ CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV-1%20%E7%BB%BC%E5%90%88
 CCTV2,https://iptv.catvod.com/live.php?id=CCTV-2
 CCTV2,https://iptv.catvod.com/live.php?id=CCTV-2%20%E8%B4%A2%E7%BB%8F
-CCTV3,https://iptv.catvod.com/live.php?id=CCTV-3
 CCTV3,https://iptv.catvod.com/live.php?id=CCTV-3%20%E7%BB%BC%E8%89%BA
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV4K
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4K
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV-3
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
-CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5%20%E4%BD%93%E8%82%B2
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4K
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV4K
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5
-CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV5,https://iptv.catvod.com/live.php?id=CCTV5plus
-CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5plus
-CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5%2B%20%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
-CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5plus
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5plus
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5%20%E4%BD%93%E8%82%B2
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1
-CCTV7,https://iptv.catvod.com/live.php?id=CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6
 CCTV7,https://iptv.catvod.com/live.php?id=CCTV-7
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
 CCTV8,https://iptv.catvod.com/live.php?id=CCTV-8
 CCTV8,https://iptv.catvod.com/live.php?id=CCTV-8%20%E7%94%B5%E8%A7%86%E5%89%A7
-CCTV9,https://iptv.catvod.com/live.php?id=CCTV-9
 CCTV9,https://iptv.catvod.com/live.php?id=CCTV-9%20%E7%BA%AA%E5%BD%95
-CCTV10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV-9
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV-10
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV-11
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=8
-CCTV11,https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
-CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
-CCTV13,https://iptv.catvod.com/live.php?id=CCTV-13
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB
-CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV-13
 CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV-15
+CCTV16,https://iptv.catvod.com/live.php?id=CCTV16
 CCTV16,https://iptv.catvod.com/live.php?id=CCTV16-4k
 CCTV16,https://iptv.catvod.com/live.php?id=CCTV-16
-CCTV16,https://iptv.catvod.com/live.php?id=CCTV16
-CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17
 
 💰央视付费频道,#genre#
 
@@ -56,8 +56,8 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -79,8 +79,8 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0
-青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
+青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -91,6 +91,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
 
 ☘️广东频道,#genre#
+茂名综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9728&tk=a0c4f6cfaba3
 
 🌊港澳,#genre#
 重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8%E5%8F%B0
@@ -102,10 +103,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 🎬电影频道,#genre#
-CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
-CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
+CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C
+CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
@@ -127,8 +128,8 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-新动漫,https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1
 新动漫,https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB
+新动漫,https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
