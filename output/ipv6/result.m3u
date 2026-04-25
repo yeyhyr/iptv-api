@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yeyhyr/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-23 19:02:33
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-25 18:36:09
 https://live.catvod.com/iptv.php?id=rthk33&token=5a6b025d83c9ce28e8316d690359536a897ff162588068221bbf1541b1eb89db%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 https://live.catvod.com/iptv.php?id=rthk33&token=5a6b025d83c9ce28e8316d690359536a897ff162588068221bbf1541b1eb89db%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
