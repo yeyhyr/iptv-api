@@ -40,23 +40,11 @@ NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d
 无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
 
 
-
+无线明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
+无线明珠,https://cdn6.163189.xyz/163189/mzt
 无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
-无线明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com:8880/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-无线明珠,http://bxtv.3a.ink/api.php?id=mz
 
-
-无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
@@ -72,10 +60,9 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 
 
 
+无线1_美,http://iptv.4666888.xyz/iptv2A.php?id=25
+无线1_美,http://iptv.4666888.xyz/iptv2A.php?id=26
 
-TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 无线星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -83,65 +70,34 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
 
 
-
-无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
-无线星河（国）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 无线星河（国）,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-无线星河（国）,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 
 
+无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
+无线功夫,https://cdn6.163189.xyz/163189/yzwx
+无线功夫,https://cdn6.101.qzz.io/163189/yzwx
 
-
-
-
-
-
-
-
-
-
-
-
-无线功夫,https://hk.188766.xyz/?migutoken=aad571c466167a4aedb75d5a125e8b49&id=hk_yzwx&type=dy
-无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
-无线功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
-
-
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-
-无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-无线千禧,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-无线千禧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
-无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
-无线千禧,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-无线千禧,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-无线千禧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-
-
-
-
-
-
-
-
-
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽,http://iptv.4666888.xyz/iptv2A.php?id=28
+无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
+无线华丽,https://cdn6.163189.xyz/163189/hlfct
 无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-
 
 无线华丽国语,http://iptv.4666888.xyz/iptv2A.php?id=28
+
+无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=22
+无线千禧,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+
+无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
+
+
+
+
+
+
+
+
+
+
 
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
