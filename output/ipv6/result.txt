@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-31 19:27:35,https://live.catvod.com/iptv.php?id=rthk33&token=5a6b025d83c9ce28e8316d690359536a897ff162588068221bbf1541b1eb89db%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
+2026-06-01 23:48:38,https://live.catvod.com/iptv.php?id=rthk33&token=5a6b025d83c9ce28e8316d690359536a897ff162588068221bbf1541b1eb89db%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 
 📺央视频道,#genre#
 CCTV1,https://live.catvod.com/iptv.php?id=rthk33&token=5a6b025d83c9ce28e8316d690359536a897ff162588068221bbf1541b1eb89db%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
@@ -9,8 +9,6 @@ CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
 CCTV13,https://live.catvod.com/iptv.php?id=cctv13&token=63ec92da55166e86ad195b852c5b546eab3307f329aa9478955fed5de647d649%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 CETV1,https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.ctv
 CETV1,https://stream1.freetv.fun/da35c24c83335a7bcc71382e437f168201a41aa7b9806b67031a6b17c7930fdc.ctv
-CETV1,http://iptv.666230.xyz/iptv/hnyx.php/CETV1
-CETV4,http://iptv.666230.xyz/iptv/hnyx.php/CETV4
 
 💰央视付费频道,#genre#
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
