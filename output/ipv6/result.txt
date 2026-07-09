@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 20:23:09,https://iptv.catvod.com/live.php?id=CCTV-1
+2026-07-09 20:26:50,https://iptv.catvod.com/live.php?id=CCTV-1
 
 📺央视频道,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV-1
@@ -14,19 +14,19 @@ CCTV3,https://iptv.catvod.com/live.php?id=CCTV-3
 CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4K
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5plus
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5plus
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5%2B%20%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
-CCTV5+,https://iptv.catvod.com/live.php?id=CCTV-5
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5plus
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV-5plus
+CCTV5+,https://iptv.catvod.com/live.php?id=CCTV-5
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV-5%2B%20%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
-CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1
 CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1
 CCTV7,https://iptv.catvod.com/live.php?id=CCTV-7
 CCTV7,https://iptv.catvod.com/live.php?id=CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
 CCTV8,https://iptv.catvod.com/live.php?id=CCTV-8
@@ -36,13 +36,13 @@ CCTV10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV-10
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV-11
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
-CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
 CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
 CCTV13,https://iptv.catvod.com/live.php?id=CCTV-13
 CCTV13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB
 CCTV13,https://live.catvod.com/iptv.php?id=cctv13&token=63ec92da55166e86ad195b852c5b546eab3307f329aa9478955fed5de647d649%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
-CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV-15
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90
 CCTV16,https://iptv.catvod.com/live.php?id=CCTV-16
@@ -53,8 +53,8 @@ CETV1,https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8
 CETV1,https://stream1.freetv.fun/da35c24c83335a7bcc71382e437f168201a41aa7b9806b67031a6b17c7930fdc.ctv
 CCTV-4美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
 CCTV-4美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
-CCTV-4欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
 CCTV-4欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
+CCTV-4欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
 
 💰央视付费频道,#genre#
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
@@ -592,6 +592,7 @@ CCTV-4欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
+Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://hk.188766.xyz/?migutoken=7acbbd51a19b106f6b7580c82bc14a06&id=hk_now&type=dy
 Now新闻,https://live.catvod.com/iptv.php?id=nownews&token=74958cf112639dec4146d63067a6dbd1644fcd0a87b3ef07ac2d3aa78260f4b6%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 Now新闻,https://mgev.188766.xyz/?migutoken=28ca7b2cb82809f28ac9f4d1e3b72933&id=hk_now&type=dy
@@ -613,6 +614,7 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,https://live.catvod.com/iptv.php?id=tvbplus2&token=725edfd808bec9c2099a0bfdac5f25f7183f089a42ca8dcc8a5e0c209caebcd8%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 TVB Plus,https://mgev.188766.xyz/?migutoken=eaf9e094e8ae66ee324fe71a786c7fc7&id=hk_tvbp&type=dy
 TVB Plus,https://mgev.188766.xyz/?migutoken=23d95bc6c5c6eb31e148166e2d962fbe&id=hk_tvbp&type=dy
+TVB J1,https://6.cdn.loc.cc/163189.php?id=j1
 TVB J1,https://live.catvod.com/iptv.php?id=tvbj1001&token=9bcdeaa219d6cec7de02a3d77ecea5a5d19ae7e1dc6c10190571b6072ce5d6f7%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 VIU TV,https://live.catvod.com/live.php?id=viu1_twn&token=ece139dd5ad666888017332274e6ed99ca64240fc87e1a02f1703bc388da807e%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
 VIU TV,https://live.catvod.com/iptv.php?id=viutv02&token=0735d7bea96e1d66b9baf7c9ac7c7dafd6bca0dc7da9a65dcf99a7363c591777%3A1765094459%3ANjYuMTAzLjIxMS4xODk%3D
