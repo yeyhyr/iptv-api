@@ -11,31 +11,6 @@
 
 
 
-☘️VPN日本Tokyo,#genre#
-彩虹R,http://58.99.33.2:1935/liveedge2/CNxKZZTd_408_1/chunklist_w114642605.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松1,http://58.99.33.2:1935/liveedge2/CNxKZZTd_405_1/chunklist_w2097694717.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&=&dr=123&dt=&cust_type=NE
-松2,http://58.99.33.2:1935/liveedge2/CNxKZZTd_406_1/chunklist_w1350191092.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松3,http://58.99.33.2:1935/liveedge2/CNxKZZTd_407_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松4,http://58.99.33.2:1935/liveedge2/CNxKZZTd_404_1/chunklist_w1221017520.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-玩家,http://58.99.33.2:1935/liveedge2/CNxKZZTd_401_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-happy,http://58.99.33.2:1935/liveedge2/CNxKZZTd_402_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-HOT,http://58.99.33.2:1935/liveedge2/CNxKZZTd_403_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-乐活,http://58.99.33.2:1935/liveedge2/CNxKZZTd_410_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-潘多拉完美,http://58.99.33.2:1935/liveedge2/CNxKZZTd_411_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-潘多拉粉红,http://58.99.33.2:1935/liveedge2/CNxKZZTd_412_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-惊艳电影台,http://58.99.33.2:1935/liveedge2/CNxKZZTd_413_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-香蕉台,http://58.99.33.2:1935/liveedge2/CNxKZZTd_414_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-
-
-
-
-
-
-
-
-
-
-
 
 
 ☘️测试,#genre#
@@ -54,39 +29,14 @@ HOT,http://58.99.33.2:1935/liveedge2/CNxKZZTd_403_1/chunklist_w452892769.m3u8?ch
 
 
 ☘️VPN 日本,#genre#
-Japan HDV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
-JAPAN HDV,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
-JAPAN HDV,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-东映チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 japanese,http://cdn.adultiptv.net/japanese.m3u8
-Pigoo (NSFW),https://nl.utako.moe/pigoo/index.m3u8
-V Paradise (NSFW),https://nl.utako.moe/v_paradise/index.m3u8
-Japan HDV,http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
-JAPAN HDV,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248607
-JAPAN HDV 2,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248608
-CHINA XXX,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248475
-CHINA XXX,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254270
-DREAMROOM,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248046
-ASIAN FOOTJOB,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248018
-AV TAXI,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248021
-MODEL MEDIA ASIA,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248091
-ASIAM,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248403
-ASIAM,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254256
-ASIAN BONDAGE,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248404
-ASIAN BONDAGE,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254257
-ASIAN SEX DIARY,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248405
-ASIAN SEX DIARY,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254258
-LITTLE ASIANS,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248622
-LITTLE ASIANS,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254296
-PORNBOX: MAX J,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248089
-1,http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
-MAD SEX PARTY,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12194/index.m3u8
+
 
 
 
