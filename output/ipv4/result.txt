@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-17 18:22:17,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-08-19 18:19:40,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -12,8 +12,8 @@
 ☘️广东频道,#genre#
 
 🌊港澳,#genre#
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 
 🌊台湾,#genre#
 华视,http://74.91.26.218:82/live/cts.m3u8
