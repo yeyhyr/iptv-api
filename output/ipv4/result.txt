@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-02 00:49:27,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-10-03 22:30:29,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -19,9 +19,11 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 🎬电影频道,#genre#
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+IPTV经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
 
 🪁动画频道,#genre#
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
