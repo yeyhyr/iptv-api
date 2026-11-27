@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-26 03:41:33,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-11-28 03:15:52,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -15,8 +15,8 @@
 茂名公共,http://125.89.163.44:8888/udp/239.77.0.207:5146
 
 🌊港澳,#genre#
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 
 🌊台湾,#genre#
 
